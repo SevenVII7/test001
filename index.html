@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/index.css">
+  <script src="lib/jquery-3.1.0.min.js"></script>
+  <script src="lib/pixi.min.js"></script>
+  <script src="lib/howler.min.js"></script>
+</head>
+<body>
+  <div id="canvas_outer"></div>
+
+  <div class="inner w1200">
+    <div class="colors">
+      <div
+        class="color"
+        style="background-color: #f00;"
+        onclick="Scene1.changeWallColor(0xff0000)">
+      </div>
+      <div
+        class="color"
+        style="background-color: #d00;"
+        onclick="Scene1.changeWallColor(0xdd0000)">
+      </div>
+      <div
+        class="color"
+        style="background-color: #0f0;"
+        onclick="Scene1.changeWallColor(0x00ff00)">
+      </div>
+      <div
+        class="color"
+        style="background-color: #00f;"
+        onclick="Scene1.changeWallColor(0x0000ff)">
+      </div>
+    </div>
+  </div>
+</body>
+<script src="js/main.js"></script>
+</html>

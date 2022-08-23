@@ -1,0 +1,72 @@
+@charset 'utf-8';
+/* ----------RESET---------- */
+*{
+    margin:0;
+    padding: 0;
+    color:inherit;
+    font: inherit;
+    outline: none;
+    -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+html{touch-action: manipulation;}
+body{
+    width: 100%;
+    min-width: 320px;
+    position: relative;
+    touch-action: manipulation;
+    overflow-x: hidden;
+}
+ul, li{
+    list-style: none;
+    font-size: inherit;
+}
+img{
+    border:none;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+input,
+textarea,
+keygen,
+select,
+a,
+a:active,
+a:hover,
+a:focus{
+    outline: none;
+}
+input::-moz-focus-inner,
+button::-moz-focus-inner,
+select::-moz-focus-inner{
+    border:0;
+    outline:0;
+}
+select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+}
+input[type="search"],
+input[type="search"]:hover,
+input[type="search"]:focus,
+input[type="search"]:active{
+    -webkit-appearance:none;
+}
+select::-ms-expand {
+    display: none;
+}
+button,
+input[type="submit"],
+input[type="reset"]{
+    background: none;
+    border:none;
+    outline: none;
+    cursor:pointer;
+    font:inherit;
+}
+table{
+    border-collapse:collapse;
+}
