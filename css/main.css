@@ -1081,6 +1081,7 @@ input[type=checkbox]:not(old):checked + label > span:before {
 }
 #painting #main_feature #canvas_outer canvas {
   max-width: 100%;
+  background: #e7e7e7;
 }
 #painting #main_feature #color_menu {
   width: calc(40% - 30px);

@@ -32,7 +32,7 @@ loader
         { name: "livingroomD-main", url: "img/paint/livingroom/d_main.png" },
     ])
     .load(() => { 
-        gameSet('bedroomD');
+        changeRoom('bedroomD');
         getAllPaint('get', 'js/allPaint.json');
         changeRoomPreviewSwiper([
             {
