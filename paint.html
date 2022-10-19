@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>特力屋線上油漆中心</title>
+  <link rel="stylesheet" href="lib/swiper-bundle.min.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/public.css">
+  <script src="lib/jquery-3.1.0.min.js"></script>
+  <script src="lib/swiper-bundle.min.js"></script>
+  <script src="lib/pixi.min.js"></script>
+  <script src="lib/howler.min.js"></script>
+  <script src="lib/axios.min.js"></script>
+  <script src="lib/rgbHex.js"></script>
+</head>
+<body>
+
+  <section id="painting">
+    <button type="button" id="btn-change_space">
+      <img src="img/icon/space.svg" alt="">
+      <h6 class="txt-white txt-medium">換空間</h6>
+    </button>
+    <div class="inner w1400">
+      <div class="top">
+        <div class="title">
+          <h3 class="txt-bold">
+            線上調色服務
+          </h3>
+          <p>
+            <a href="">線上調色中心</a>
+            &nbsp;>&nbsp;
+            <span class="txt-prime">玩色彩</span>
+          </p>
+        </div>
+        <div class="classification">
+          <button type="button" class="active">
+            <h6 class="txt-center txt-bold">玩配色</h6>
+          </button>
+          <button type="button">
+            <h6 class="txt-center txt-bold">色彩顧問</h6>
+          </button>
+        </div>
+      </div>
+      <div id="main_feature">
+        <div id="canvas_outer">
+          <!-- <div class="color_card">
+            <figure>
+              <img src="img/icon/prompt.svg" alt="">
+              <div class="color_preview"></div>
+            </figure>
+            <p class="txt-center">
+              選擇顏色
+            </p>
+            <img src="img/icon/add.svg" class="add" alt="">
+          </div> -->
+        </div>
+        <div id="color_menu">
+          <div class="title_block">
+            <h6><span class="step_block txt-white txt-bold">STEP.1</span> 選擇顏色，並加入油漆清單</h6>
+            <button type="button">
+              <img src="img/icon/collect.svg" alt="">
+              <p class="p18 txt-grey txt-medium">
+                我的清單色
+              </p>
+            </button>
+          </div>
+
+          <div class="color_options">
+            <div class="color_itembox">
+              <div class="colors">
+                <div
+                  class="color"
+                  style="background-color: #AFBDE0;"
+                  onclick="changeSelectWallColor('AFBDE0')">
+                </div>
+                <!-- <div
+                  class="color"
+                  style="background-color: #A5AAD6;"
+                  onclick="changeSelectWallColor('A5AAD6')">
+                </div>
+                <div
+                  class="color"
+                  style="background-color: #7BA9D8;"
+                  onclick="changeSelectWallColor('7BA9D8')">
+                </div>
+                <div
+                  class="color"
+                  style="background-color: #454B7D;"
+                  onclick="changeSelectWallColor('454B7D')">
+                </div>
+                <div
+                  class="color"
+                  style="background-color: #E06A0F;"
+                  onclick="changeSelectWallColor('E06A0F')">
+                </div>
+                <div
+                  class="color"
+                  style="background-color: #559B19;"
+                  onclick="changeSelectWallColor('559B19')">
+                </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="place_lightbox" class="">
+    <div class="cover"></div>
+    <div class="box">
+      <div class="title">
+        <h5 class="txt-medium">更換空間</h5>
+        <img src="img/icon/close.svg" class="close" alt="">
+      </div>
+      <div class="box_inner">
+        <div class="room_class">
+          <button type="button" class="active" id="btn-select_room_class1">
+            <p class="p-18">
+              客廳
+            </p>
+          </button>
+          <button type="button" id="btn-select_room_class2">
+            <p class="p-18">
+              餐廳
+            </p>
+          </button>
+          <button type="button" id="btn-select_room_class3">
+            <p class="p-18">
+              臥室
+            </p>
+          </button>
+          <!-- <button type="button" id="btn-select_room_class4">
+            <p class="p-18">
+              小孩房
+            </p>
+          </button>
+          <button type="button" id="btn-select_room_class5">
+            <p class="p-18">
+              辦公空間
+            </p>
+          </button> -->
+        </div>
+        <div class="room_preview">
+
+          <div class="swiper_outer">
+          </div>
+
+          <button type="button" id="btn-select_room">
+            <p class="p-18 txt-medium txt-center">
+              選擇此空間
+            </p>
+          </button>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+</body>
+<script src="js/paint.js"></script>
+<script src="js/paintAction.js"></script>
+</html>

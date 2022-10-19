@@ -1,0 +1,8 @@
+// scss也用id包起來, media query也寫在裡面～
+#kv{
+  .inner{
+
+  }
+  @media screen and (max-width: 1023px){ }
+  @media screen and (max-width: 768px){ }
+}

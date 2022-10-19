@@ -1,0 +1,9312 @@
+[
+  {
+    "index": 1,
+    "class": "淺",
+    "uuid": "OW041-4",
+    "colorName": "霜花白",
+    "colorNameEn": "Frost White",
+    "sR": 240,
+    "sG": 241,
+    "sB": 237
+  },
+  {
+    "index": 2,
+    "class": "淺",
+    "uuid": "OW045-4",
+    "colorName": "海濱微風",
+    "colorNameEn": "Snowscape",
+    "sR": 235,
+    "sG": 238,
+    "sB": 236
+  },
+  {
+    "index": 3,
+    "class": "淺",
+    "uuid": "BN7007-4",
+    "colorName": "北風",
+    "colorNameEn": "Windswept",
+    "sR": 245,
+    "sG": 245,
+    "sB": 245
+  },
+  {
+    "index": 4,
+    "class": "淺",
+    "uuid": "NN7808-4",
+    "colorName": "迅捷",
+    "colorNameEn": "Radisson",
+    "sR": 228,
+    "sG": 230,
+    "sB": 225
+  },
+  {
+    "index": 5,
+    "class": "淺",
+    "uuid": "BN7707-4",
+    "colorName": "青煙飄渺",
+    "colorNameEn": "Glistening Frost",
+    "sR": 224,
+    "sG": 225,
+    "sB": 220
+  },
+  {
+    "index": 6,
+    "class": "淺",
+    "uuid": "NN7507-4",
+    "colorName": "挪威森林",
+    "colorNameEn": "Icy Bay",
+    "sR": 223,
+    "sG": 227,
+    "sB": 223
+  },
+  {
+    "index": 7,
+    "class": "淺",
+    "uuid": "NN7207-4",
+    "colorName": "科羅拉多",
+    "colorNameEn": "Coronation",
+    "sR": 234,
+    "sG": 233,
+    "sB": 230
+  },
+  {
+    "index": 8,
+    "class": "淺",
+    "uuid": "OW038-4",
+    "colorName": "象牙白",
+    "colorNameEn": "Tusky White",
+    "sR": 251,
+    "sG": 251,
+    "sB": 244
+  },
+  {
+    "index": 9,
+    "class": "淺",
+    "uuid": "NN0035-4",
+    "colorName": "晨間積雪",
+    "colorNameEn": "The Morning Snow",
+    "sR": 240,
+    "sG": 237,
+    "sB": 226
+  },
+  {
+    "index": 10,
+    "class": "淺",
+    "uuid": "OW065-4",
+    "colorName": "迷情白",
+    "colorNameEn": "Mazie White",
+    "sR": 233,
+    "sG": 233,
+    "sB": 225
+  },
+  {
+    "index": 11,
+    "class": "淺",
+    "uuid": "OW044-4",
+    "colorName": "玉青",
+    "colorNameEn": "Jadite Charm",
+    "sR": 240,
+    "sG": 241,
+    "sB": 236
+  },
+  {
+    "index": 12,
+    "class": "淺",
+    "uuid": "GN5201-4",
+    "colorName": "銀狐",
+    "colorNameEn": "Silver Fox",
+    "sR": 229,
+    "sG": 229,
+    "sB": 218
+  },
+  {
+    "index": 13,
+    "class": "淺",
+    "uuid": "GN5207-4",
+    "colorName": "寒江冷月",
+    "colorNameEn": "Silvery Moon",
+    "sR": 227,
+    "sG": 226,
+    "sB": 217
+  },
+  {
+    "index": 14,
+    "class": "淺",
+    "uuid": "NN6501-4",
+    "colorName": "水色天光",
+    "colorNameEn": "Far Horizon",
+    "sR": 218,
+    "sG": 224,
+    "sB": 198
+  },
+  {
+    "index": 15,
+    "class": "淺",
+    "uuid": "OW026-4",
+    "colorName": "蜜合色",
+    "colorNameEn": "Moonlit",
+    "sR": 245,
+    "sG": 242,
+    "sB": 232
+  },
+  {
+    "index": 16,
+    "class": "淺",
+    "uuid": "YC2907-4",
+    "colorName": "精梳棉",
+    "colorNameEn": "Combed Cotton",
+    "sR": 244,
+    "sG": 236,
+    "sB": 218
+  },
+  {
+    "index": 17,
+    "class": "淺",
+    "uuid": "OW028-4",
+    "colorName": "檸檬綢",
+    "colorNameEn": "Lime Carnation",
+    "sR": 241,
+    "sG": 236,
+    "sB": 220
+  },
+  {
+    "index": 18,
+    "class": "淺",
+    "uuid": "YC3108-4",
+    "colorName": "卡普里清酒",
+    "colorNameEn": "Capri Cream",
+    "sR": 249,
+    "sG": 241,
+    "sB": 211
+  },
+  {
+    "index": 19,
+    "class": "淺",
+    "uuid": "OW032-4",
+    "colorName": "鴨嘴黃",
+    "colorNameEn": "Chromatic",
+    "sR": 241,
+    "sG": 234,
+    "sB": 215
+  },
+  {
+    "index": 20,
+    "class": "淺",
+    "uuid": "NN3607-4",
+    "colorName": "黃畢嘰",
+    "colorNameEn": "Candlelit Beige",
+    "sR": 237,
+    "sG": 231,
+    "sB": 217
+  },
+  {
+    "index": 21,
+    "class": "淺",
+    "uuid": "NN4707-4",
+    "colorName": "落葉",
+    "colorNameEn": "White Rock",
+    "sR": 238,
+    "sG": 231,
+    "sB": 213
+  },
+  {
+    "index": 22,
+    "class": "淺",
+    "uuid": "YC3107-4",
+    "colorName": "奇跡",
+    "colorNameEn": "Wonderment",
+    "sR": 243,
+    "sG": 237,
+    "sB": 214
+  },
+  {
+    "index": 23,
+    "class": "淺",
+    "uuid": "YC3707-4",
+    "colorName": "帆布工裝",
+    "colorNameEn": "Sail Cloth",
+    "sR": 240,
+    "sG": 235,
+    "sB": 218
+  },
+  {
+    "index": 24,
+    "class": "淺",
+    "uuid": "YN0031-4",
+    "colorName": "俄國風情",
+    "colorNameEn": "Russian Customs",
+    "sR": 248,
+    "sG": 238,
+    "sB": 214
+  },
+  {
+    "index": 25,
+    "class": "淺",
+    "uuid": "YN0054-4",
+    "colorName": "新白",
+    "colorNameEn": "Fresh White",
+    "sR": 245,
+    "sG": 236,
+    "sB": 217
+  },
+  {
+    "index": 26,
+    "class": "淺",
+    "uuid": "YC0030-4",
+    "colorName": "梔子花",
+    "colorNameEn": "Gardenia",
+    "sR": 246,
+    "sG": 237,
+    "sB": 219
+  },
+  {
+    "index": 27,
+    "class": "淺",
+    "uuid": "YN0021-4",
+    "colorName": "珍珠母貝",
+    "colorNameEn": "Mother Pearl",
+    "sR": 249,
+    "sG": 236,
+    "sB": 210
+  },
+  {
+    "index": 28,
+    "class": "淺",
+    "uuid": "YC0002-4",
+    "colorName": "明潤豐采",
+    "colorNameEn": "Moist Bright",
+    "sR": 249,
+    "sG": 235,
+    "sB": 209
+  },
+  {
+    "index": 29,
+    "class": "淺",
+    "uuid": "OW025-4",
+    "colorName": "菱花白",
+    "colorNameEn": "Lilac White",
+    "sR": 243,
+    "sG": 240,
+    "sB": 234
+  },
+  {
+    "index": 30,
+    "class": "淺",
+    "uuid": "YN3007-4",
+    "colorName": "虔誠",
+    "colorNameEn": "Turban Shell",
+    "sR": 255,
+    "sG": 251,
+    "sB": 235
+  },
+  {
+    "index": 31,
+    "class": "淺",
+    "uuid": "OW024-4",
+    "colorName": "水蜜黃",
+    "colorNameEn": "Christie Yellow",
+    "sR": 247,
+    "sG": 238,
+    "sB": 220
+  },
+  {
+    "index": 32,
+    "class": "淺",
+    "uuid": "OW085-4",
+    "colorName": "原味優酪乳",
+    "colorNameEn": "Original Flavor Yogurt",
+    "sR": 242,
+    "sG": 235,
+    "sB": 216
+  },
+  {
+    "index": 33,
+    "class": "淺",
+    "uuid": "YC2808-4",
+    "colorName": "睡蓮",
+    "colorNameEn": "Lotus Flower",
+    "sR": 244,
+    "sG": 235,
+    "sB": 214
+  },
+  {
+    "index": 34,
+    "class": "淺",
+    "uuid": "NN3907-4",
+    "colorName": "淺丁香",
+    "colorNameEn": "Garlic Clove",
+    "sR": 237,
+    "sG": 233,
+    "sB": 219
+  },
+  {
+    "index": 35,
+    "class": "淺",
+    "uuid": "YC4808-4",
+    "colorName": "小木馬",
+    "colorNameEn": "Mother of Pearl",
+    "sR": 244,
+    "sG": 238,
+    "sB": 223
+  },
+  {
+    "index": 36,
+    "class": "淺",
+    "uuid": "OW023-4",
+    "colorName": "燕黃",
+    "colorNameEn": "Sparyel",
+    "sR": 242,
+    "sG": 238,
+    "sB": 227
+  },
+  {
+    "index": 37,
+    "class": "淺",
+    "uuid": "OW086-4",
+    "colorName": "漫天風雪",
+    "colorNameEn": "Blizzard",
+    "sR": 241,
+    "sG": 238,
+    "sB": 229
+  },
+  {
+    "index": 38,
+    "class": "淺",
+    "uuid": "OW019-4",
+    "colorName": "白月皎潔",
+    "colorNameEn": "Moon White",
+    "sR": 241,
+    "sG": 232,
+    "sB": 219
+  },
+  {
+    "index": 39,
+    "class": "淺",
+    "uuid": "YN0047-4",
+    "colorName": "白巧克力",
+    "colorNameEn": "White Chocolate",
+    "sR": 240,
+    "sG": 230,
+    "sB": 216
+  },
+  {
+    "index": 40,
+    "class": "淺",
+    "uuid": "OW020-4",
+    "colorName": "蕓黃",
+    "colorNameEn": "Yellow Glint",
+    "sR": 237,
+    "sG": 227,
+    "sB": 213
+  },
+  {
+    "index": 41,
+    "class": "淺",
+    "uuid": "YC2807-4",
+    "colorName": "黃飄帶",
+    "colorNameEn": "Undercurrent Flow",
+    "sR": 255,
+    "sG": 251,
+    "sB": 235
+  },
+  {
+    "index": 42,
+    "class": "淺",
+    "uuid": "NN4901-4",
+    "colorName": "白土布",
+    "colorNameEn": "Worn White",
+    "sR": 237,
+    "sG": 228,
+    "sB": 209
+  },
+  {
+    "index": 43,
+    "class": "淺",
+    "uuid": "ON0043-4",
+    "colorName": "冬日午後",
+    "colorNameEn": "Winter Afternoon",
+    "sR": 248,
+    "sG": 233,
+    "sB": 207
+  },
+  {
+    "index": 44,
+    "class": "淺",
+    "uuid": "YC0001-4",
+    "colorName": "雲香",
+    "colorNameEn": "Fragrant Cloud",
+    "sR": 245,
+    "sG": 231,
+    "sB": 209
+  },
+  {
+    "index": 45,
+    "class": "淺",
+    "uuid": "YN0038-4",
+    "colorName": "番木白",
+    "colorNameEn": "Brucine White",
+    "sR": 248,
+    "sG": 236,
+    "sB": 217
+  },
+  {
+    "index": 46,
+    "class": "淺",
+    "uuid": "NN0026-4",
+    "colorName": "白朗姆酒",
+    "colorNameEn": "White Rum",
+    "sR": 247,
+    "sG": 232,
+    "sB": 209
+  },
+  {
+    "index": 47,
+    "class": "淺",
+    "uuid": "NN3508-4",
+    "colorName": "雞蛋布丁",
+    "colorNameEn": "Angel Food",
+    "sR": 240,
+    "sG": 229,
+    "sB": 212
+  },
+  {
+    "index": 48,
+    "class": "淺",
+    "uuid": "ON0033-4",
+    "colorName": "純淨光韻",
+    "colorNameEn": "Pure  Radiance",
+    "sR": 249,
+    "sG": 236,
+    "sB": 214
+  },
+  {
+    "index": 49,
+    "class": "淺",
+    "uuid": "YN0055-4",
+    "colorName": "軟玉溫香",
+    "colorNameEn": "Warm Fragrance",
+    "sR": 249,
+    "sG": 233,
+    "sB": 212
+  },
+  {
+    "index": 50,
+    "class": "淺",
+    "uuid": "OW033-4",
+    "colorName": "珍珠白",
+    "colorNameEn": "Pearl White",
+    "sR": 255,
+    "sG": 253,
+    "sB": 240
+  },
+  {
+    "index": 51,
+    "class": "淺",
+    "uuid": "NN1307-4",
+    "colorName": "石膏岩",
+    "colorNameEn": "Gypsum",
+    "sR": 248,
+    "sG": 247,
+    "sB": 240
+  },
+  {
+    "index": 52,
+    "class": "淺",
+    "uuid": "OW034-4",
+    "colorName": "貝卡黃",
+    "colorNameEn": "Sky Shell",
+    "sR": 238,
+    "sG": 234,
+    "sB": 225
+  },
+  {
+    "index": 53,
+    "class": "淺",
+    "uuid": "OW082-4",
+    "colorName": "雲端漫步",
+    "colorNameEn": "Walking In The Air",
+    "sR": 237,
+    "sG": 232,
+    "sB": 222
+  },
+  {
+    "index": 54,
+    "class": "淺",
+    "uuid": "NN1308-4",
+    "colorName": "飛馬行空",
+    "colorNameEn": "Pegasus",
+    "sR": 232,
+    "sG": 229,
+    "sB": 222
+  },
+  {
+    "index": 55,
+    "class": "淺",
+    "uuid": "OW067-4",
+    "colorName": "杏子灰",
+    "colorNameEn": "Pharma Grey",
+    "sR": 229,
+    "sG": 224,
+    "sB": 214
+  },
+  {
+    "index": 56,
+    "class": "淺",
+    "uuid": "ON0058-4",
+    "colorName": "春雨",
+    "colorNameEn": "Spring Shower",
+    "sR": 232,
+    "sG": 221,
+    "sB": 206
+  },
+  {
+    "index": 57,
+    "class": "淺",
+    "uuid": "OW017-4",
+    "colorName": "天朗氣清",
+    "colorNameEn": "Clear Sky",
+    "sR": 244,
+    "sG": 241,
+    "sB": 234
+  },
+  {
+    "index": 58,
+    "class": "淺",
+    "uuid": "OW031-4",
+    "colorName": "韻白",
+    "colorNameEn": "Melodious",
+    "sR": 242,
+    "sG": 238,
+    "sB": 231
+  },
+  {
+    "index": 59,
+    "class": "淺",
+    "uuid": "OW087-4",
+    "colorName": "麥芽黃",
+    "colorNameEn": "Malt Yellow",
+    "sR": 247,
+    "sG": 238,
+    "sB": 224
+  },
+  {
+    "index": 60,
+    "class": "淺",
+    "uuid": "NN1808-4",
+    "colorName": "維多利亞黃",
+    "colorNameEn": "Victorian Linen",
+    "sR": 242,
+    "sG": 232,
+    "sB": 217
+  },
+  {
+    "index": 61,
+    "class": "淺",
+    "uuid": "NN2407-4",
+    "colorName": "歐洲亞麻",
+    "colorNameEn": "Euro Linen",
+    "sR": 255,
+    "sG": 241,
+    "sB": 227
+  },
+  {
+    "index": 62,
+    "class": "淺",
+    "uuid": "ON2508-4",
+    "colorName": "含羞草",
+    "colorNameEn": "Mimosa",
+    "sR": 244,
+    "sG": 228,
+    "sB": 209
+  },
+  {
+    "index": 63,
+    "class": "淺",
+    "uuid": "NN0022-4",
+    "colorName": "天然純米",
+    "colorNameEn": "Natural Pure Rice",
+    "sR": 247,
+    "sG": 228,
+    "sB": 209
+  },
+  {
+    "index": 64,
+    "class": "淺",
+    "uuid": "OW078-4",
+    "colorName": "柔珠彩",
+    "colorNameEn": "Soft Pearl Luster",
+    "sR": 245,
+    "sG": 240,
+    "sB": 231
+  },
+  {
+    "index": 65,
+    "class": "淺",
+    "uuid": "OW013-4",
+    "colorName": "容華",
+    "colorNameEn": "Cherie",
+    "sR": 241,
+    "sG": 234,
+    "sB": 226
+  },
+  {
+    "index": 66,
+    "class": "淺",
+    "uuid": "OC1607-4",
+    "colorName": "淺米色",
+    "colorNameEn": "Pale Ecru",
+    "sR": 241,
+    "sG": 231,
+    "sB": 220
+  },
+  {
+    "index": 67,
+    "class": "淺",
+    "uuid": "OW018-4",
+    "colorName": "露水芙蓉",
+    "colorNameEn": "Dew Pearl",
+    "sR": 241,
+    "sG": 231,
+    "sB": 221
+  },
+  {
+    "index": 68,
+    "class": "淺",
+    "uuid": "NN2107-4",
+    "colorName": "傳世遺珍",
+    "colorNameEn": "Heirloom Lace",
+    "sR": 239,
+    "sG": 230,
+    "sB": 217
+  },
+  {
+    "index": 69,
+    "class": "淺",
+    "uuid": "OW062-4",
+    "colorName": "淺豆沙",
+    "colorNameEn": "Beanie Sand",
+    "sR": 231,
+    "sG": 225,
+    "sB": 216
+  },
+  {
+    "index": 70,
+    "class": "淺",
+    "uuid": "NN1201-4",
+    "colorName": "薄霧玫瑰",
+    "colorNameEn": "Smoke Stain Rose",
+    "sR": 230,
+    "sG": 220,
+    "sB": 209
+  },
+  {
+    "index": 71,
+    "class": "淺",
+    "uuid": "OW079-4",
+    "colorName": "絲滑飄羽",
+    "colorNameEn": "Smooth Floating Plume",
+    "sR": 244,
+    "sG": 237,
+    "sB": 228
+  },
+  {
+    "index": 72,
+    "class": "淺",
+    "uuid": "OW080-4",
+    "colorName": "粉象牙",
+    "colorNameEn": "Ivory White",
+    "sR": 255,
+    "sG": 240,
+    "sB": 221
+  },
+  {
+    "index": 73,
+    "class": "淺",
+    "uuid": "ON0092-4",
+    "colorName": "天鵝夢",
+    "colorNameEn": "Swan Dream",
+    "sR": 247,
+    "sG": 231,
+    "sB": 218
+  },
+  {
+    "index": 74,
+    "class": "淺",
+    "uuid": "ON0045-4",
+    "colorName": "微光粼粼",
+    "colorNameEn": "Glistening Light",
+    "sR": 249,
+    "sG": 228,
+    "sB": 207
+  },
+  {
+    "index": 75,
+    "class": "淺",
+    "uuid": "ON0001-4",
+    "colorName": "魔戀仙靈",
+    "colorNameEn": "Demon-Fairies Love",
+    "sR": 249,
+    "sG": 231,
+    "sB": 214
+  },
+  {
+    "index": 76,
+    "class": "淺",
+    "uuid": "ON2401-4",
+    "colorName": "名瓷",
+    "colorNameEn": "Belleek",
+    "sR": 243,
+    "sG": 225,
+    "sB": 209
+  },
+  {
+    "index": 77,
+    "class": "淺",
+    "uuid": "NN2408-4",
+    "colorName": "大麥茶",
+    "colorNameEn": "Just Barely",
+    "sR": 239,
+    "sG": 221,
+    "sB": 205
+  },
+  {
+    "index": 78,
+    "class": "淺",
+    "uuid": "ON0044-4",
+    "colorName": "無瑕",
+    "colorNameEn": "Flawless",
+    "sR": 245,
+    "sG": 239,
+    "sB": 232
+  },
+  {
+    "index": 79,
+    "class": "淺",
+    "uuid": "OW074-4",
+    "colorName": "優雅日光",
+    "colorNameEn": "Elegant Sunlight",
+    "sR": 238,
+    "sG": 233,
+    "sB": 228
+  },
+  {
+    "index": 80,
+    "class": "淺",
+    "uuid": "NN2008-4",
+    "colorName": "香草冰淇淋",
+    "colorNameEn": "Vanilla Milkshake",
+    "sR": 242,
+    "sG": 232,
+    "sB": 220
+  },
+  {
+    "index": 81,
+    "class": "淺",
+    "uuid": "ON1807-4",
+    "colorName": "楸木紅",
+    "colorNameEn": "Rosewood",
+    "sR": 243,
+    "sG": 229,
+    "sB": 213
+  },
+  {
+    "index": 82,
+    "class": "淺",
+    "uuid": "OC2207-4",
+    "colorName": "高地生活",
+    "colorNameEn": "Uptown Taupe",
+    "sR": 243,
+    "sG": 226,
+    "sB": 211
+  },
+  {
+    "index": 83,
+    "class": "淺",
+    "uuid": "ON1708-4",
+    "colorName": "珊瑚海灘",
+    "colorNameEn": "Opal Peach",
+    "sR": 242,
+    "sG": 223,
+    "sB": 209
+  },
+  {
+    "index": 84,
+    "class": "淺",
+    "uuid": "NN1107-4",
+    "colorName": "護花使者",
+    "colorNameEn": "Sweet Gardenia",
+    "sR": 247,
+    "sG": 224,
+    "sB": 205
+  },
+  {
+    "index": 85,
+    "class": "淺",
+    "uuid": "RN0064-4",
+    "colorName": "梳妝",
+    "colorNameEn": "Dressing",
+    "sR": 243,
+    "sG": 233,
+    "sB": 226
+  },
+  {
+    "index": 86,
+    "class": "淺",
+    "uuid": "OW011-4",
+    "colorName": "韶光年華",
+    "colorNameEn": "Whitney White",
+    "sR": 239,
+    "sG": 230,
+    "sB": 225
+  },
+  {
+    "index": 87,
+    "class": "淺",
+    "uuid": "OW022-4",
+    "colorName": "銀珠",
+    "colorNameEn": "Dreamy",
+    "sR": 246,
+    "sG": 240,
+    "sB": 234
+  },
+  {
+    "index": 88,
+    "class": "淺",
+    "uuid": "NN1507-4",
+    "colorName": "貝殼白",
+    "colorNameEn": "Scalloped Pearl",
+    "sR": 255,
+    "sG": 237,
+    "sB": 227
+  },
+  {
+    "index": 89,
+    "class": "淺",
+    "uuid": "OW077-4",
+    "colorName": "雅粉",
+    "colorNameEn": "Elegant Pink",
+    "sR": 234,
+    "sG": 227,
+    "sB": 219
+  },
+  {
+    "index": 90,
+    "class": "淺",
+    "uuid": "NN3901-4",
+    "colorName": "初雪時節",
+    "colorNameEn": "Winter Sky",
+    "sR": 235,
+    "sG": 226,
+    "sB": 216
+  },
+  {
+    "index": 91,
+    "class": "淺",
+    "uuid": "NN1407-4",
+    "colorName": "礦石場",
+    "colorNameEn": "Stone Quarry",
+    "sR": 231,
+    "sG": 225,
+    "sB": 226
+  },
+  {
+    "index": 92,
+    "class": "淺",
+    "uuid": "NN0908-4",
+    "colorName": "杏仁果",
+    "colorNameEn": "Almond Roca",
+    "sR": 239,
+    "sG": 229,
+    "sB": 219
+  },
+  {
+    "index": 93,
+    "class": "淺",
+    "uuid": "NN0018-4",
+    "colorName": "芭蕾舞曲",
+    "colorNameEn": "Ballet",
+    "sR": 245,
+    "sG": 235,
+    "sB": 228
+  },
+  {
+    "index": 94,
+    "class": "淺",
+    "uuid": "NN2607-4",
+    "colorName": "夏日莉蓮",
+    "colorNameEn": "Summer Lily",
+    "sR": 241,
+    "sG": 231,
+    "sB": 223
+  },
+  {
+    "index": 95,
+    "class": "淺",
+    "uuid": "OW015-4",
+    "colorName": "冰清玉透",
+    "colorNameEn": "Crysta Delight",
+    "sR": 246,
+    "sG": 234,
+    "sB": 225
+  },
+  {
+    "index": 96,
+    "class": "淺",
+    "uuid": "NN1608-4",
+    "colorName": "埃爾沙",
+    "colorNameEn": "Alyssa",
+    "sR": 244,
+    "sG": 223,
+    "sB": 211
+  },
+  {
+    "index": 97,
+    "class": "淺",
+    "uuid": "OC0508-4",
+    "colorName": "岩石紅",
+    "colorNameEn": "Rockabye Baby",
+    "sR": 241,
+    "sG": 225,
+    "sB": 217
+  },
+  {
+    "index": 98,
+    "class": "淺",
+    "uuid": "NN0801-4",
+    "colorName": "巧笑焉然",
+    "colorNameEn": "Shy Cream",
+    "sR": 233,
+    "sG": 216,
+    "sB": 208
+  },
+  {
+    "index": 99,
+    "class": "淺",
+    "uuid": "OW021-4",
+    "colorName": "珠貝色",
+    "colorNameEn": "Pearl Shell",
+    "sR": 245,
+    "sG": 241,
+    "sB": 235
+  },
+  {
+    "index": 100,
+    "class": "淺",
+    "uuid": "OW012-4",
+    "colorName": "晴空",
+    "colorNameEn": "Light Approach",
+    "sR": 244,
+    "sG": 236,
+    "sB": 229
+  },
+  {
+    "index": 101,
+    "class": "淺",
+    "uuid": "RN0049-4",
+    "colorName": "哈達",
+    "colorNameEn": "Hada",
+    "sR": 247,
+    "sG": 235,
+    "sB": 229
+  },
+  {
+    "index": 102,
+    "class": "淺",
+    "uuid": "RC0307-4",
+    "colorName": "葡萄酒",
+    "colorNameEn": "Pink Champagne",
+    "sR": 242,
+    "sG": 233,
+    "sB": 229
+  },
+  {
+    "index": 103,
+    "class": "淺",
+    "uuid": "OW008-4",
+    "colorName": "婷玉",
+    "colorNameEn": "Lovey Jade",
+    "sR": 242,
+    "sG": 230,
+    "sB": 226
+  },
+  {
+    "index": 104,
+    "class": "淺",
+    "uuid": "RC7901-4",
+    "colorName": "春花紅",
+    "colorNameEn": "Rose Quartz",
+    "sR": 242,
+    "sG": 224,
+    "sB": 217
+  },
+  {
+    "index": 105,
+    "class": "淺",
+    "uuid": "NN0002-4",
+    "colorName": "百利甜酒",
+    "colorNameEn": "Baileys",
+    "sR": 236,
+    "sG": 220,
+    "sB": 214
+  },
+  {
+    "index": 106,
+    "class": "淺",
+    "uuid": "RC0090-4",
+    "colorName": "浪漫嫩粉",
+    "colorNameEn": "Romantic Light Pink",
+    "sR": 244,
+    "sG": 238,
+    "sB": 235
+  },
+  {
+    "index": 107,
+    "class": "淺",
+    "uuid": "OC0067-4",
+    "colorName": "櫻花爛漫",
+    "colorNameEn": "Brilliant Sakura",
+    "sR": 245,
+    "sG": 235,
+    "sB": 232
+  },
+  {
+    "index": 108,
+    "class": "淺",
+    "uuid": "RC0107-4",
+    "colorName": "思念",
+    "colorNameEn": "Diana",
+    "sR": 239,
+    "sG": 232,
+    "sB": 227
+  },
+  {
+    "index": 109,
+    "class": "淺",
+    "uuid": "OW007-4",
+    "colorName": "煙雨和風",
+    "colorNameEn": "Misty Breeze",
+    "sR": 242,
+    "sG": 232,
+    "sB": 229
+  },
+  {
+    "index": 110,
+    "class": "淺",
+    "uuid": "OW006-4",
+    "colorName": "暮春",
+    "colorNameEn": "Spring Wholesome",
+    "sR": 238,
+    "sG": 229,
+    "sB": 228
+  },
+  {
+    "index": 111,
+    "class": "淺",
+    "uuid": "RC0207-4",
+    "colorName": "雪山霞光",
+    "colorNameEn": "Alpine Pink",
+    "sR": 236,
+    "sG": 224,
+    "sB": 223
+  },
+  {
+    "index": 112,
+    "class": "淺",
+    "uuid": "NN7201-4",
+    "colorName": "蝴蝶蘭",
+    "colorNameEn": "Bouquet Orchid",
+    "sR": 241,
+    "sG": 234,
+    "sB": 235
+  },
+  {
+    "index": 113,
+    "class": "淺",
+    "uuid": "OW005-4",
+    "colorName": "日色微明",
+    "colorNameEn": "Sonnie Glow",
+    "sR": 238,
+    "sG": 233,
+    "sB": 233
+  },
+  {
+    "index": 114,
+    "class": "淺",
+    "uuid": "OW003-4",
+    "colorName": "淡菊",
+    "colorNameEn": "Wisp Chrysan",
+    "sR": 238,
+    "sG": 230,
+    "sB": 232
+  },
+  {
+    "index": 115,
+    "class": "淺",
+    "uuid": "OW009-4",
+    "colorName": "杏雨梨雲",
+    "colorNameEn": "Rainy Cheer",
+    "sR": 238,
+    "sG": 231,
+    "sB": 232
+  },
+  {
+    "index": 116,
+    "class": "淺",
+    "uuid": "OW004-4",
+    "colorName": "蕙心蘭",
+    "colorNameEn": "Heartening",
+    "sR": 235,
+    "sG": 228,
+    "sB": 230
+  },
+  {
+    "index": 117,
+    "class": "淺",
+    "uuid": "VN0108-4",
+    "colorName": "瑞士紅",
+    "colorNameEn": "Slipper Pink",
+    "sR": 248,
+    "sG": 236,
+    "sB": 238
+  },
+  {
+    "index": 118,
+    "class": "淺",
+    "uuid": "OW096-4",
+    "colorName": "白蘭地杏",
+    "colorNameEn": "Brandy Apricot",
+    "sR": 232,
+    "sG": 224,
+    "sB": 222
+  },
+  {
+    "index": 119,
+    "class": "淺",
+    "uuid": "VC0042-4",
+    "colorName": "櫻花粉",
+    "colorNameEn": "Cherry Pink",
+    "sR": 234,
+    "sG": 225,
+    "sB": 231
+  },
+  {
+    "index": 120,
+    "class": "淺",
+    "uuid": "OW097-4",
+    "colorName": "初雪",
+    "colorNameEn": "First Snow",
+    "sR": 232,
+    "sG": 230,
+    "sB": 234
+  },
+  {
+    "index": 121,
+    "class": "淺",
+    "uuid": "OW059-4",
+    "colorName": "淺蓮灰",
+    "colorNameEn": "Gray Prince",
+    "sR": 228,
+    "sG": 228,
+    "sB": 231
+  },
+  {
+    "index": 122,
+    "class": "淺",
+    "uuid": "OW098-4",
+    "colorName": "白粉筆",
+    "colorNameEn": "White Chalk",
+    "sR": 228,
+    "sG": 229,
+    "sB": 226
+  },
+  {
+    "index": 123,
+    "class": "淺",
+    "uuid": "VC7708-4",
+    "colorName": "浪漫情調",
+    "colorNameEn": "Pastel Violet",
+    "sR": 228,
+    "sG": 227,
+    "sB": 226
+  },
+  {
+    "index": 124,
+    "class": "淺",
+    "uuid": "OW002-4",
+    "colorName": "煙紫",
+    "colorNameEn": "Smoke Purple",
+    "sR": 250,
+    "sG": 236,
+    "sB": 242
+  },
+  {
+    "index": 125,
+    "class": "淺",
+    "uuid": "NN7107-4",
+    "colorName": "細雪飛舞",
+    "colorNameEn": "Snow Ballet",
+    "sR": 231,
+    "sG": 231,
+    "sB": 228
+  },
+  {
+    "index": 126,
+    "class": "淺",
+    "uuid": "VC7208-4",
+    "colorName": "渴望",
+    "colorNameEn": "Aspiration",
+    "sR": 222,
+    "sG": 220,
+    "sB": 221
+  },
+  {
+    "index": 127,
+    "class": "淺",
+    "uuid": "OW099-4",
+    "colorName": "梔子",
+    "colorNameEn": "Cape Jasmine",
+    "sR": 232,
+    "sG": 233,
+    "sB": 237
+  },
+  {
+    "index": 128,
+    "class": "淺",
+    "uuid": "OW100-4",
+    "colorName": "雪花白",
+    "colorNameEn": "Snowflakes",
+    "sR": 235,
+    "sG": 233,
+    "sB": 235
+  },
+  {
+    "index": 129,
+    "class": "淺",
+    "uuid": "OW101-4",
+    "colorName": "雲舞者",
+    "colorNameEn": "Cloud Dancer",
+    "sR": 230,
+    "sG": 231,
+    "sB": 237
+  },
+  {
+    "index": 130,
+    "class": "淺",
+    "uuid": "OW001-4",
+    "colorName": "霞風玉露",
+    "colorNameEn": "Breeze Mist",
+    "sR": 232,
+    "sG": 231,
+    "sB": 233
+  },
+  {
+    "index": 131,
+    "class": "淺",
+    "uuid": "OW102-4",
+    "colorName": "香草冰",
+    "colorNameEn": "Vanilla Snow",
+    "sR": 224,
+    "sG": 226,
+    "sB": 234
+  },
+  {
+    "index": 132,
+    "class": "淺",
+    "uuid": "OW103-4",
+    "colorName": "星白",
+    "colorNameEn": "Star White",
+    "sR": 217,
+    "sG": 220,
+    "sB": 236
+  },
+  {
+    "index": 133,
+    "class": "淺",
+    "uuid": "VC7108-4",
+    "colorName": "淡雅丁香",
+    "colorNameEn": "Darling Lilac",
+    "sR": 228,
+    "sG": 229,
+    "sB": 230
+  },
+  {
+    "index": 134,
+    "class": "淺",
+    "uuid": "OW104-4",
+    "colorName": "白百合",
+    "colorNameEn": "Lilywhites",
+    "sR": 228,
+    "sG": 232,
+    "sB": 234
+  },
+  {
+    "index": 135,
+    "class": "淺",
+    "uuid": "OW105-4",
+    "colorName": "冰雨",
+    "colorNameEn": "Freezing Rain",
+    "sR": 231,
+    "sG": 230,
+    "sB": 227
+  },
+  {
+    "index": 136,
+    "class": "淺",
+    "uuid": "OW106-4",
+    "colorName": "奶油",
+    "colorNameEn": "Cream",
+    "sR": 221,
+    "sG": 225,
+    "sB": 229
+  },
+  {
+    "index": 137,
+    "class": "淺",
+    "uuid": "OW107-4",
+    "colorName": "蒸汽",
+    "colorNameEn": "Steam",
+    "sR": 221,
+    "sG": 228,
+    "sB": 236
+  },
+  {
+    "index": 138,
+    "class": "淺",
+    "uuid": "OW108-4",
+    "colorName": "冰柱",
+    "colorNameEn": "Icicle",
+    "sR": 214,
+    "sG": 221,
+    "sB": 228
+  },
+  {
+    "index": 139,
+    "class": "淺",
+    "uuid": "VC0012-4",
+    "colorName": "冰島",
+    "colorNameEn": "Iceland",
+    "sR": 217,
+    "sG": 222,
+    "sB": 226
+  },
+  {
+    "index": 140,
+    "class": "淺",
+    "uuid": "OW109-4",
+    "colorName": "紫霧",
+    "colorNameEn": "Purple Fog",
+    "sR": 204,
+    "sG": 216,
+    "sB": 235
+  },
+  {
+    "index": 141,
+    "class": "淺",
+    "uuid": "OW049-4",
+    "colorName": "碧落清泉",
+    "colorNameEn": "Sparkling Dew",
+    "sR": 227,
+    "sG": 232,
+    "sB": 233
+  },
+  {
+    "index": 142,
+    "class": "淺",
+    "uuid": "BN6808-4",
+    "colorName": "里海清波",
+    "colorNameEn": "Abyss",
+    "sR": 225,
+    "sG": 231,
+    "sB": 231
+  },
+  {
+    "index": 143,
+    "class": "淺",
+    "uuid": "OW110-4",
+    "colorName": "白雪公主",
+    "colorNameEn": "Snow White",
+    "sR": 225,
+    "sG": 232,
+    "sB": 237
+  },
+  {
+    "index": 144,
+    "class": "淺",
+    "uuid": "OW111-4",
+    "colorName": "青白",
+    "colorNameEn": "Bluish White",
+    "sR": 223,
+    "sG": 233,
+    "sB": 239
+  },
+  {
+    "index": 145,
+    "class": "淺",
+    "uuid": "OW112-4",
+    "colorName": "浮冰",
+    "colorNameEn": "Floating Ice",
+    "sR": 216,
+    "sG": 228,
+    "sB": 235
+  },
+  {
+    "index": 146,
+    "class": "淺",
+    "uuid": "BN7608-4",
+    "colorName": "風中低語",
+    "colorNameEn": "Blustery Day",
+    "sR": 211,
+    "sG": 221,
+    "sB": 226
+  },
+  {
+    "index": 147,
+    "class": "淺",
+    "uuid": "OW113-4",
+    "colorName": "夏至",
+    "colorNameEn": "Summer Solstice",
+    "sR": 204,
+    "sG": 222,
+    "sB": 236
+  },
+  {
+    "index": 148,
+    "class": "淺",
+    "uuid": "OW114-4",
+    "colorName": "鈦白",
+    "colorNameEn": "Titanium White",
+    "sR": 227,
+    "sG": 235,
+    "sB": 234
+  },
+  {
+    "index": 149,
+    "class": "淺",
+    "uuid": "OW115-4",
+    "colorName": "南極雪",
+    "colorNameEn": "Antarctic Snow",
+    "sR": 224,
+    "sG": 233,
+    "sB": 236
+  },
+  {
+    "index": 150,
+    "class": "淺",
+    "uuid": "OW057-4",
+    "colorName": "海天藍",
+    "colorNameEn": "Summer Blue",
+    "sR": 224,
+    "sG": 233,
+    "sB": 235
+  },
+  {
+    "index": 151,
+    "class": "淺",
+    "uuid": "BN6908-4",
+    "colorName": "冬日街燈",
+    "colorNameEn": "City Lights",
+    "sR": 222,
+    "sG": 228,
+    "sB": 229
+  },
+  {
+    "index": 152,
+    "class": "淺",
+    "uuid": "OW116-4",
+    "colorName": "鴨蛋殼",
+    "colorNameEn": "Duck Egg Shell",
+    "sR": 217,
+    "sG": 221,
+    "sB": 222
+  },
+  {
+    "index": 153,
+    "class": "淺",
+    "uuid": "OW117-4",
+    "colorName": "西風灰",
+    "colorNameEn": "Windy Ash",
+    "sR": 211,
+    "sG": 222,
+    "sB": 227
+  },
+  {
+    "index": 154,
+    "class": "淺",
+    "uuid": "OW060-4",
+    "colorName": "雪藍",
+    "colorNameEn": "Blue Snow",
+    "sR": 210,
+    "sG": 218,
+    "sB": 223
+  },
+  {
+    "index": 155,
+    "class": "淺",
+    "uuid": "OW053-4",
+    "colorName": "冰霜藍",
+    "colorNameEn": "Icy Blue",
+    "sR": 230,
+    "sG": 237,
+    "sB": 235
+  },
+  {
+    "index": 156,
+    "class": "淺",
+    "uuid": "BC0014-4",
+    "colorName": "雲淡風輕",
+    "colorNameEn": "Above The Clouds",
+    "sR": 227,
+    "sG": 237,
+    "sB": 234
+  },
+  {
+    "index": 157,
+    "class": "淺",
+    "uuid": "OW058-4",
+    "colorName": "蟹殼青",
+    "colorNameEn": "Shell Field",
+    "sR": 231,
+    "sG": 248,
+    "sB": 242
+  },
+  {
+    "index": 158,
+    "class": "淺",
+    "uuid": "OW054-4",
+    "colorName": "青山淡彩",
+    "colorNameEn": "Spring Shoot",
+    "sR": 226,
+    "sG": 231,
+    "sB": 229
+  },
+  {
+    "index": 159,
+    "class": "淺",
+    "uuid": "BN0019-4",
+    "colorName": "馬爾地夫",
+    "colorNameEn": "Maldives",
+    "sR": 222,
+    "sG": 233,
+    "sB": 226
+  },
+  {
+    "index": 160,
+    "class": "淺",
+    "uuid": "BC6707-4",
+    "colorName": "羞澀",
+    "colorNameEn": "Bashful",
+    "sR": 226,
+    "sG": 234,
+    "sB": 231
+  },
+  {
+    "index": 161,
+    "class": "淺",
+    "uuid": "BC7301-4",
+    "colorName": "太虛幻境",
+    "colorNameEn": "Smoke Ring",
+    "sR": 219,
+    "sG": 226,
+    "sB": 222
+  },
+  {
+    "index": 162,
+    "class": "淺",
+    "uuid": "OW051-4",
+    "colorName": "抹茶",
+    "colorNameEn": "Snowbank",
+    "sR": 230,
+    "sG": 234,
+    "sB": 228
+  },
+  {
+    "index": 163,
+    "class": "淺",
+    "uuid": "BC6608-4",
+    "colorName": "晨歌",
+    "colorNameEn": "Morning Song",
+    "sR": 228,
+    "sG": 234,
+    "sB": 229
+  },
+  {
+    "index": 164,
+    "class": "淺",
+    "uuid": "BC7307-4",
+    "colorName": "北歐港灣",
+    "colorNameEn": "View of Your Back",
+    "sR": 226,
+    "sG": 233,
+    "sB": 228
+  },
+  {
+    "index": 165,
+    "class": "淺",
+    "uuid": "BC6701-4",
+    "colorName": "思緒萬千",
+    "colorNameEn": "Airy",
+    "sR": 220,
+    "sG": 232,
+    "sB": 227
+  },
+  {
+    "index": 166,
+    "class": "淺",
+    "uuid": "OW055-4",
+    "colorName": "煙青",
+    "colorNameEn": "Inspiring Green",
+    "sR": 226,
+    "sG": 231,
+    "sB": 228
+  },
+  {
+    "index": 167,
+    "class": "淺",
+    "uuid": "NN6508-4",
+    "colorName": "利劍寒光",
+    "colorNameEn": "Gray Uniform",
+    "sR": 222,
+    "sG": 228,
+    "sB": 225
+  },
+  {
+    "index": 168,
+    "class": "淺",
+    "uuid": "BC5907-4",
+    "colorName": "外太空",
+    "colorNameEn": "Breathless",
+    "sR": 220,
+    "sG": 233,
+    "sB": 229
+  },
+  {
+    "index": 169,
+    "class": "淺",
+    "uuid": "OW048-4",
+    "colorName": "秋香綠",
+    "colorNameEn": "Summer Green",
+    "sR": 237,
+    "sG": 241,
+    "sB": 233
+  },
+  {
+    "index": 170,
+    "class": "淺",
+    "uuid": "BC7407-4",
+    "colorName": "水粉畫",
+    "colorNameEn": "Aqua Tint",
+    "sR": 233,
+    "sG": 240,
+    "sB": 232
+  },
+  {
+    "index": 171,
+    "class": "淺",
+    "uuid": "OW052-4",
+    "colorName": "竹葉青",
+    "colorNameEn": "Cane Embrace",
+    "sR": 230,
+    "sG": 236,
+    "sB": 229
+  },
+  {
+    "index": 172,
+    "class": "淺",
+    "uuid": "GC0035-4",
+    "colorName": "瑩澈光芒",
+    "colorNameEn": "Lustrous And Transparent",
+    "sR": 227,
+    "sG": 241,
+    "sB": 232
+  },
+  {
+    "index": 173,
+    "class": "淺",
+    "uuid": "GC0033-4",
+    "colorName": "天鵝湖",
+    "colorNameEn": "Swan Lake",
+    "sR": 227,
+    "sG": 242,
+    "sB": 231
+  },
+  {
+    "index": 174,
+    "class": "淺",
+    "uuid": "NN0042-4",
+    "colorName": "瑩玉",
+    "colorNameEn": "Pretty Jade",
+    "sR": 226,
+    "sG": 235,
+    "sB": 229
+  },
+  {
+    "index": 175,
+    "class": "淺",
+    "uuid": "BC5707-4",
+    "colorName": "在水一方",
+    "colorNameEn": "Waterscape",
+    "sR": 220,
+    "sG": 234,
+    "sB": 226
+  },
+  {
+    "index": 176,
+    "class": "淺",
+    "uuid": "OW043-4",
+    "colorName": "藕荷綠",
+    "colorNameEn": "Applish",
+    "sR": 241,
+    "sG": 243,
+    "sB": 237
+  },
+  {
+    "index": 177,
+    "class": "淺",
+    "uuid": "BC5607-4",
+    "colorName": "希望",
+    "colorNameEn": "Hope",
+    "sR": 231,
+    "sG": 238,
+    "sB": 228
+  },
+  {
+    "index": 178,
+    "class": "淺",
+    "uuid": "GN5508-4",
+    "colorName": "草本精華",
+    "colorNameEn": "Mint Essence",
+    "sR": 228,
+    "sG": 237,
+    "sB": 223
+  },
+  {
+    "index": 179,
+    "class": "淺",
+    "uuid": "GC5608-4",
+    "colorName": "峽谷煙雲",
+    "colorNameEn": "Valley Mist",
+    "sR": 227,
+    "sG": 234,
+    "sB": 222
+  },
+  {
+    "index": 180,
+    "class": "淺",
+    "uuid": "GC6201-4",
+    "colorName": "細雪",
+    "colorNameEn": "Silver Snow",
+    "sR": 224,
+    "sG": 234,
+    "sB": 224
+  },
+  {
+    "index": 181,
+    "class": "淺",
+    "uuid": "GN5307-4",
+    "colorName": "秋水雲廬",
+    "colorNameEn": "Whitewater",
+    "sR": 224,
+    "sG": 230,
+    "sB": 218
+  },
+  {
+    "index": 182,
+    "class": "淺",
+    "uuid": "BC6307-4",
+    "colorName": "大風暴",
+    "colorNameEn": "Rainsong",
+    "sR": 220,
+    "sG": 228,
+    "sB": 220
+  },
+  {
+    "index": 183,
+    "class": "淺",
+    "uuid": "OW089-4",
+    "colorName": "水月相融",
+    "colorNameEn": "Moon Joins Water",
+    "sR": 238,
+    "sG": 239,
+    "sB": 225
+  },
+  {
+    "index": 184,
+    "class": "淺",
+    "uuid": "OW090-4",
+    "colorName": "冰雪精靈",
+    "colorNameEn": "Snow Elves",
+    "sR": 235,
+    "sG": 238,
+    "sB": 229
+  },
+  {
+    "index": 185,
+    "class": "淺",
+    "uuid": "GC4608-4",
+    "colorName": "薄荷新葉",
+    "colorNameEn": "Chilled Mint",
+    "sR": 229,
+    "sG": 236,
+    "sB": 219
+  },
+  {
+    "index": 186,
+    "class": "淺",
+    "uuid": "GN4601-4",
+    "colorName": "松柏常青",
+    "colorNameEn": "Cypress Green",
+    "sR": 231,
+    "sG": 236,
+    "sB": 214
+  },
+  {
+    "index": 187,
+    "class": "淺",
+    "uuid": "OW071-4",
+    "colorName": "淡黃綠",
+    "colorNameEn": "Indian Yellow",
+    "sR": 228,
+    "sG": 233,
+    "sB": 230
+  },
+  {
+    "index": 188,
+    "class": "淺",
+    "uuid": "GN5108-4",
+    "colorName": "牧場風暴",
+    "colorNameEn": "Milkweed",
+    "sR": 227,
+    "sG": 229,
+    "sB": 213
+  },
+  {
+    "index": 189,
+    "class": "淺",
+    "uuid": "OW037-4",
+    "colorName": "流花白",
+    "colorNameEn": "Flawless Swan",
+    "sR": 240,
+    "sG": 240,
+    "sB": 231
+  },
+  {
+    "index": 190,
+    "class": "淺",
+    "uuid": "OW029-4",
+    "colorName": "菊蕊白",
+    "colorNameEn": "White Knight",
+    "sR": 243,
+    "sG": 240,
+    "sB": 230
+  },
+  {
+    "index": 191,
+    "class": "淺",
+    "uuid": "OW040-4",
+    "colorName": "松花黃",
+    "colorNameEn": "Sunbleached",
+    "sR": 243,
+    "sG": 241,
+    "sB": 225
+  },
+  {
+    "index": 192,
+    "class": "淺",
+    "uuid": "GC5001-4",
+    "colorName": "聖潔",
+    "colorNameEn": "Eva",
+    "sR": 238,
+    "sG": 236,
+    "sB": 217
+  },
+  {
+    "index": 193,
+    "class": "淺",
+    "uuid": "YC0045-4",
+    "colorName": "輕撫",
+    "colorNameEn": "Dab",
+    "sR": 240,
+    "sG": 232,
+    "sB": 208
+  },
+  {
+    "index": 194,
+    "class": "淺",
+    "uuid": "GC3208-4",
+    "colorName": "桂花黃",
+    "colorNameEn": "Lime Twist",
+    "sR": 236,
+    "sG": 233,
+    "sB": 205
+  },
+  {
+    "index": 195,
+    "class": "淺",
+    "uuid": "GC0008-4",
+    "colorName": "君子之交",
+    "colorNameEn": "Noble's Friendship",
+    "sR": 240,
+    "sG": 237,
+    "sB": 208
+  },
+  {
+    "index": 196,
+    "class": "淺",
+    "uuid": "GC4207-4",
+    "colorName": "甘藍草",
+    "colorNameEn": "Cabbage Leaf",
+    "sR": 233,
+    "sG": 234,
+    "sB": 213
+  },
+  {
+    "index": 197,
+    "class": "淺",
+    "uuid": "YC0038-4",
+    "colorName": "蠶絲白",
+    "colorNameEn": "Kashmire White",
+    "sR": 244,
+    "sG": 240,
+    "sB": 221
+  },
+  {
+    "index": 198,
+    "class": "淺",
+    "uuid": "OW088-4",
+    "colorName": "白晶菊",
+    "colorNameEn": "Purely Crystal",
+    "sR": 241,
+    "sG": 239,
+    "sB": 227
+  },
+  {
+    "index": 199,
+    "class": "淺",
+    "uuid": "YN0028-4",
+    "colorName": "幼羽",
+    "colorNameEn": "Juvenile Plumage",
+    "sR": 246,
+    "sG": 241,
+    "sB": 221
+  },
+  {
+    "index": 200,
+    "class": "淺",
+    "uuid": "YC0015-4",
+    "colorName": "融雪",
+    "colorNameEn": "Melting Snow",
+    "sR": 247,
+    "sG": 239,
+    "sB": 213
+  },
+  {
+    "index": 201,
+    "class": "淺",
+    "uuid": "YC0052-4",
+    "colorName": "透明黃",
+    "colorNameEn": "Transparent Yellow",
+    "sR": 248,
+    "sG": 240,
+    "sB": 211
+  },
+  {
+    "index": 202,
+    "class": "淺",
+    "uuid": "YN0006-4",
+    "colorName": "淺黃帷幔",
+    "colorNameEn": "Pale Yellow Streamers",
+    "sR": 248,
+    "sG": 240,
+    "sB": 210
+  },
+  {
+    "index": 203,
+    "class": "淺",
+    "uuid": "YN0001-4",
+    "colorName": "玉蘭花",
+    "colorNameEn": "Magnolia Blooms",
+    "sR": 247,
+    "sG": 240,
+    "sB": 213
+  },
+  {
+    "index": 204,
+    "class": "彩",
+    "uuid": "YC0062-4",
+    "colorName": "駝鈴",
+    "colorNameEn": "Camel Bells",
+    "sR": 250,
+    "sG": 237,
+    "sB": 198
+  },
+  {
+    "index": 205,
+    "class": "彩",
+    "uuid": "YC3210-4",
+    "colorName": "北極春",
+    "colorNameEn": "Arctic Spring",
+    "sR": 252,
+    "sG": 246,
+    "sB": 174
+  },
+  {
+    "index": 206,
+    "class": "彩",
+    "uuid": "YC0076-4",
+    "colorName": "檸檬汁",
+    "colorNameEn": "Lemonade",
+    "sR": 247,
+    "sG": 239,
+    "sB": 202
+  },
+  {
+    "index": 207,
+    "class": "彩",
+    "uuid": "YC0070-4",
+    "colorName": "沉色月光",
+    "colorNameEn": "Dark Moonlight",
+    "sR": 251,
+    "sG": 237,
+    "sB": 182
+  },
+  {
+    "index": 208,
+    "class": "彩",
+    "uuid": "YC0054-4",
+    "colorName": "開心果",
+    "colorNameEn": "Pistachio Nuts",
+    "sR": 248,
+    "sG": 237,
+    "sB": 202
+  },
+  {
+    "index": 209,
+    "class": "彩",
+    "uuid": "YC0055-4",
+    "colorName": "蛋奶酥",
+    "colorNameEn": "Souffle",
+    "sR": 251,
+    "sG": 235,
+    "sB": 185
+  },
+  {
+    "index": 210,
+    "class": "彩",
+    "uuid": "YC0056-4",
+    "colorName": "波斯公主",
+    "colorNameEn": "Persian Princess",
+    "sR": 254,
+    "sG": 231,
+    "sB": 164
+  },
+  {
+    "index": 211,
+    "class": "彩",
+    "uuid": "YC0022-4",
+    "colorName": "芝士彩",
+    "colorNameEn": "Cheese",
+    "sR": 249,
+    "sG": 238,
+    "sB": 206
+  },
+  {
+    "index": 212,
+    "class": "彩",
+    "uuid": "YC0046-4",
+    "colorName": "奶油杏仁",
+    "colorNameEn": "Almond Butter",
+    "sR": 249,
+    "sG": 237,
+    "sB": 202
+  },
+  {
+    "index": 213,
+    "class": "彩",
+    "uuid": "YC0063-4",
+    "colorName": "籬笆外",
+    "colorNameEn": "Out Of Fense",
+    "sR": 252,
+    "sG": 233,
+    "sB": 177
+  },
+  {
+    "index": 214,
+    "class": "彩",
+    "uuid": "YC0041-4",
+    "colorName": "淘氣小熊",
+    "colorNameEn": "Naughty Bear",
+    "sR": 255,
+    "sG": 230,
+    "sB": 170
+  },
+  {
+    "index": 215,
+    "class": "彩",
+    "uuid": "YC0061-4",
+    "colorName": "月光愛人",
+    "colorNameEn": "Moonlight Lover",
+    "sR": 248,
+    "sG": 238,
+    "sB": 209
+  },
+  {
+    "index": 216,
+    "class": "彩",
+    "uuid": "YC0069-4",
+    "colorName": "茉莉飄香",
+    "colorNameEn": "Jasmine Fragrance",
+    "sR": 250,
+    "sG": 237,
+    "sB": 202
+  },
+  {
+    "index": 217,
+    "class": "彩",
+    "uuid": "YC0048-4",
+    "colorName": "濃郁乳酪",
+    "colorNameEn": "Rich Cheese",
+    "sR": 252,
+    "sG": 232,
+    "sB": 186
+  },
+  {
+    "index": 218,
+    "class": "彩",
+    "uuid": "YC0025-4",
+    "colorName": "檸檬香味",
+    "colorNameEn": "Lemon Flavor",
+    "sR": 254,
+    "sG": 230,
+    "sB": 170
+  },
+  {
+    "index": 219,
+    "class": "彩",
+    "uuid": "YC3201-4",
+    "colorName": "黃麻彩",
+    "colorNameEn": "Thistledown",
+    "sR": 253,
+    "sG": 255,
+    "sB": 225
+  },
+  {
+    "index": 220,
+    "class": "彩",
+    "uuid": "YC0023-4",
+    "colorName": "醉清風",
+    "colorNameEn": "Drunk Wind",
+    "sR": 249,
+    "sG": 239,
+    "sB": 205
+  },
+  {
+    "index": 221,
+    "class": "彩",
+    "uuid": "YC0024-4",
+    "colorName": "沙琪瑪",
+    "colorNameEn": "Sachima",
+    "sR": 250,
+    "sG": 230,
+    "sB": 185
+  },
+  {
+    "index": 222,
+    "class": "彩",
+    "uuid": "YC0031-4",
+    "colorName": "月半彎",
+    "colorNameEn": "Half Moon",
+    "sR": 247,
+    "sG": 237,
+    "sB": 209
+  },
+  {
+    "index": 223,
+    "class": "彩",
+    "uuid": "YC0032-4",
+    "colorName": "五月花",
+    "colorNameEn": "May Flower",
+    "sR": 250,
+    "sG": 234,
+    "sB": 197
+  },
+  {
+    "index": 224,
+    "class": "彩",
+    "uuid": "YC0034-4",
+    "colorName": "陽光心情",
+    "colorNameEn": "Sunshine Mood",
+    "sR": 258,
+    "sG": 226,
+    "sB": 167
+  },
+  {
+    "index": 225,
+    "class": "彩",
+    "uuid": "YN0013-4",
+    "colorName": "北極光",
+    "colorNameEn": "Aurora Borealis",
+    "sR": 247,
+    "sG": 237,
+    "sB": 211
+  },
+  {
+    "index": 226,
+    "class": "彩",
+    "uuid": "YC0016-4",
+    "colorName": "水映朝陽",
+    "colorNameEn": "Rising Sun In Water",
+    "sR": 249,
+    "sG": 234,
+    "sB": 198
+  },
+  {
+    "index": 227,
+    "class": "彩",
+    "uuid": "YC0017-4",
+    "colorName": "月光林地",
+    "colorNameEn": "The Moonlight Forest",
+    "sR": 253,
+    "sG": 231,
+    "sB": 188
+  },
+  {
+    "index": 228,
+    "class": "彩",
+    "uuid": "YC2910-4",
+    "colorName": "檸檬香",
+    "colorNameEn": "Lemon Custard",
+    "sR": 252,
+    "sG": 227,
+    "sB": 171
+  },
+  {
+    "index": 229,
+    "class": "彩",
+    "uuid": "YC0008-4",
+    "colorName": "甜奶油",
+    "colorNameEn": "Tasty Cream",
+    "sR": 248,
+    "sG": 239,
+    "sB": 213
+  },
+  {
+    "index": 230,
+    "class": "彩",
+    "uuid": "YC0009-4",
+    "colorName": "小島金沙",
+    "colorNameEn": "Island Sands",
+    "sR": 254,
+    "sG": 232,
+    "sB": 196
+  },
+  {
+    "index": 231,
+    "class": "彩",
+    "uuid": "YC0010-4",
+    "colorName": "午後鵝黃",
+    "colorNameEn": "Afternoon Light Yellow",
+    "sR": 256,
+    "sG": 228,
+    "sB": 182
+  },
+  {
+    "index": 232,
+    "class": "彩",
+    "uuid": "YC2810-4",
+    "colorName": "喜氣洋洋",
+    "colorNameEn": "Gladsome",
+    "sR": 255,
+    "sG": 222,
+    "sB": 164
+  },
+  {
+    "index": 233,
+    "class": "彩",
+    "uuid": "YC3708-4",
+    "colorName": "蠟燭黃",
+    "colorNameEn": "Candlewick",
+    "sR": 244,
+    "sG": 232,
+    "sB": 209
+  },
+  {
+    "index": 234,
+    "class": "彩",
+    "uuid": "YC2801-4",
+    "colorName": "秋日私語",
+    "colorNameEn": "Whisper Gold",
+    "sR": 248,
+    "sG": 234,
+    "sB": 208
+  },
+  {
+    "index": 235,
+    "class": "彩",
+    "uuid": "YC2851-4",
+    "colorName": "梨碧花",
+    "colorNameEn": "Aureole",
+    "sR": 250,
+    "sG": 227,
+    "sB": 187
+  },
+  {
+    "index": 236,
+    "class": "彩",
+    "uuid": "YC0004-4",
+    "colorName": "誘人芝士",
+    "colorNameEn": "Tempting Cheese",
+    "sR": 250,
+    "sG": 220,
+    "sB": 171
+  },
+  {
+    "index": 237,
+    "class": "彩",
+    "uuid": "ON0036-4",
+    "colorName": "玄米",
+    "colorNameEn": "Brown Rice",
+    "sR": 248,
+    "sG": 235,
+    "sB": 214
+  },
+  {
+    "index": 238,
+    "class": "彩",
+    "uuid": "ON2708-4",
+    "colorName": "果仁蛋糕",
+    "colorNameEn": "Pralines and Cream",
+    "sR": 244,
+    "sG": 227,
+    "sB": 200
+  },
+  {
+    "index": 239,
+    "class": "彩",
+    "uuid": "ON2701-4",
+    "colorName": "象牙黃",
+    "colorNameEn": "Banana Split",
+    "sR": 255,
+    "sG": 229,
+    "sB": 189
+  },
+  {
+    "index": 240,
+    "class": "彩",
+    "uuid": "ON2751-4",
+    "colorName": "金髮碧眼",
+    "colorNameEn": "Golden Blond",
+    "sR": 253,
+    "sG": 221,
+    "sB": 171
+  },
+  {
+    "index": 241,
+    "class": "彩",
+    "uuid": "ON1907-4",
+    "colorName": "亞麻桌布",
+    "colorNameEn": "Tailored Linen",
+    "sR": 245,
+    "sG": 234,
+    "sB": 214
+  },
+  {
+    "index": 242,
+    "class": "彩",
+    "uuid": "ON3608-4",
+    "colorName": "胡椒黃",
+    "colorNameEn": "Spice Delight",
+    "sR": 244,
+    "sG": 228,
+    "sB": 202
+  },
+  {
+    "index": 243,
+    "class": "彩",
+    "uuid": "ON0037-4",
+    "colorName": "粉嫩絲滑",
+    "colorNameEn": "Tender And Silky",
+    "sR": 255,
+    "sG": 226,
+    "sB": 189
+  },
+  {
+    "index": 244,
+    "class": "彩",
+    "uuid": "ON0039-4",
+    "colorName": "清新早晨",
+    "colorNameEn": "Fresh Morning",
+    "sR": 262,
+    "sG": 211,
+    "sB": 150
+  },
+  {
+    "index": 245,
+    "class": "彩",
+    "uuid": "NN0021-4",
+    "colorName": "嫵媚",
+    "colorNameEn": "Enchanting",
+    "sR": 247,
+    "sG": 234,
+    "sB": 216
+  },
+  {
+    "index": 246,
+    "class": "彩",
+    "uuid": "ON1901-4",
+    "colorName": "象牙海岸",
+    "colorNameEn": "Orange Scent",
+    "sR": 248,
+    "sG": 231,
+    "sB": 207
+  },
+  {
+    "index": 247,
+    "class": "彩",
+    "uuid": "ON1951-4",
+    "colorName": "阿里巴巴",
+    "colorNameEn": "Candelabra",
+    "sR": 252,
+    "sG": 219,
+    "sB": 183
+  },
+  {
+    "index": 248,
+    "class": "彩",
+    "uuid": "ON1910-4",
+    "colorName": "燭光搖曳",
+    "colorNameEn": "Candleglow",
+    "sR": 255,
+    "sG": 204,
+    "sB": 162
+  },
+  {
+    "index": 249,
+    "class": "彩",
+    "uuid": "ON0067-4",
+    "colorName": "米綢色",
+    "colorNameEn": "Cornsilk",
+    "sR": 249,
+    "sG": 232,
+    "sB": 214
+  },
+  {
+    "index": 250,
+    "class": "彩",
+    "uuid": "ON0027-4",
+    "colorName": "水夢之鄉",
+    "colorNameEn": "Dream In Water Village",
+    "sR": 255,
+    "sG": 221,
+    "sB": 187
+  },
+  {
+    "index": 251,
+    "class": "彩",
+    "uuid": "ON0028-4",
+    "colorName": "雨過天晴",
+    "colorNameEn": "Sunny After Storm",
+    "sR": 257,
+    "sG": 217,
+    "sB": 179
+  },
+  {
+    "index": 252,
+    "class": "彩",
+    "uuid": "ON0029-4",
+    "colorName": "奶油曲奇",
+    "colorNameEn": "Butter Cookies",
+    "sR": 259,
+    "sG": 203,
+    "sB": 153
+  },
+  {
+    "index": 253,
+    "class": "彩",
+    "uuid": "ON0012-4",
+    "colorName": "月色",
+    "colorNameEn": "Moon Color",
+    "sR": 249,
+    "sG": 229,
+    "sB": 208
+  },
+  {
+    "index": 254,
+    "class": "彩",
+    "uuid": "ON0059-4",
+    "colorName": "水清沙白",
+    "colorNameEn": "Sand In Water",
+    "sR": 249,
+    "sG": 224,
+    "sB": 197
+  },
+  {
+    "index": 255,
+    "class": "彩",
+    "uuid": "ON1960-4",
+    "colorName": "黎明之月",
+    "colorNameEn": "Moon Morn",
+    "sR": 253,
+    "sG": 209,
+    "sB": 169
+  },
+  {
+    "index": 256,
+    "class": "彩",
+    "uuid": "ON0011-4",
+    "colorName": "蒼麒麟",
+    "colorNameEn": "Pale Goldenrod",
+    "sR": 248,
+    "sG": 227,
+    "sB": 208
+  },
+  {
+    "index": 257,
+    "class": "彩",
+    "uuid": "ON0013-4",
+    "colorName": "蜜霞",
+    "colorNameEn": "Honey Rosy Clouds",
+    "sR": 252,
+    "sG": 222,
+    "sB": 198
+  },
+  {
+    "index": 258,
+    "class": "彩",
+    "uuid": "ON0021-4",
+    "colorName": "乳橘色",
+    "colorNameEn": "Orange Milk",
+    "sR": 256,
+    "sG": 216,
+    "sB": 183
+  },
+  {
+    "index": 259,
+    "class": "彩",
+    "uuid": "ON0022-4",
+    "colorName": "初夏枇杷",
+    "colorNameEn": "Early Summer Loquat",
+    "sR": 257,
+    "sG": 202,
+    "sB": 158
+  },
+  {
+    "index": 260,
+    "class": "彩",
+    "uuid": "ON0003-4",
+    "colorName": "如玉",
+    "colorNameEn": "Jade",
+    "sR": 250,
+    "sG": 233,
+    "sB": 218
+  },
+  {
+    "index": 261,
+    "class": "彩",
+    "uuid": "OC0070-4",
+    "colorName": "嫩皙",
+    "colorNameEn": "Fair-Skinned",
+    "sR": 250,
+    "sG": 227,
+    "sB": 210
+  },
+  {
+    "index": 262,
+    "class": "彩",
+    "uuid": "ON0014-4",
+    "colorName": "容光煥發",
+    "colorNameEn": "A Shinning Countenance",
+    "sR": 255,
+    "sG": 213,
+    "sB": 184
+  },
+  {
+    "index": 263,
+    "class": "彩",
+    "uuid": "ON0015-4",
+    "colorName": "沙舞",
+    "colorNameEn": "Dance Of Sand",
+    "sR": 255,
+    "sG": 197,
+    "sB": 159
+  },
+  {
+    "index": 264,
+    "class": "彩",
+    "uuid": "ON8201-4",
+    "colorName": "薄霧杏色",
+    "colorNameEn": "Pinkie Dawn",
+    "sR": 251,
+    "sG": 227,
+    "sB": 209
+  },
+  {
+    "index": 265,
+    "class": "彩",
+    "uuid": "ON0004-4",
+    "colorName": "雪蜜",
+    "colorNameEn": "Honey Snow",
+    "sR": 252,
+    "sG": 222,
+    "sB": 200
+  },
+  {
+    "index": 266,
+    "class": "彩",
+    "uuid": "ON0005-4",
+    "colorName": "摩登米蘭",
+    "colorNameEn": "Modern Milan",
+    "sR": 254,
+    "sG": 211,
+    "sB": 184
+  },
+  {
+    "index": 267,
+    "class": "彩",
+    "uuid": "ON8220-4",
+    "colorName": "熱帶水果",
+    "colorNameEn": "Healthy Peach",
+    "sR": 254,
+    "sG": 196,
+    "sB": 163
+  },
+  {
+    "index": 268,
+    "class": "彩",
+    "uuid": "OC0060-4",
+    "colorName": "金純卓顏",
+    "colorNameEn": "Absolute Premium",
+    "sR": 249,
+    "sG": 230,
+    "sB": 215
+  },
+  {
+    "index": 269,
+    "class": "彩",
+    "uuid": "OC0071-4",
+    "colorName": "雪顏臻透",
+    "colorNameEn": "Snow Covered",
+    "sR": 255,
+    "sG": 224,
+    "sB": 204
+  },
+  {
+    "index": 270,
+    "class": "彩",
+    "uuid": "ON8210-4",
+    "colorName": "蜜桔",
+    "colorNameEn": "Honey Tangie",
+    "sR": 253,
+    "sG": 209,
+    "sB": 180
+  },
+  {
+    "index": 271,
+    "class": "彩",
+    "uuid": "ON0006-4",
+    "colorName": "金純粉潤",
+    "colorNameEn": "Pure And Smooth",
+    "sR": 254,
+    "sG": 198,
+    "sB": 166
+  },
+  {
+    "index": 272,
+    "class": "彩",
+    "uuid": "RN1501-4",
+    "colorName": "輕紗遮面",
+    "colorNameEn": "Peach Frosting",
+    "sR": 246,
+    "sG": 226,
+    "sB": 214
+  },
+  {
+    "index": 273,
+    "class": "彩",
+    "uuid": "OC0068-4",
+    "colorName": "愛慕之情",
+    "colorNameEn": "Adoration",
+    "sR": 252,
+    "sG": 220,
+    "sB": 203
+  },
+  {
+    "index": 274,
+    "class": "彩",
+    "uuid": "OC0069-4",
+    "colorName": "粉色夏戀",
+    "colorNameEn": "Pink Summer Love",
+    "sR": 252,
+    "sG": 207,
+    "sB": 189
+  },
+  {
+    "index": 275,
+    "class": "彩",
+    "uuid": "OC1710-4",
+    "colorName": "溫香暖玉",
+    "colorNameEn": "Sweet Jewel",
+    "sR": 251,
+    "sG": 200,
+    "sB": 177
+  },
+  {
+    "index": 276,
+    "class": "彩",
+    "uuid": "OC0003-4",
+    "colorName": "冰肌瑩徹",
+    "colorNameEn": "Satiny Skin",
+    "sR": 247,
+    "sG": 231,
+    "sB": 224
+  },
+  {
+    "index": 277,
+    "class": "彩",
+    "uuid": "OC0054-4",
+    "colorName": "暗戀印象",
+    "colorNameEn": "Hidden Love Image",
+    "sR": 253,
+    "sG": 216,
+    "sB": 204
+  },
+  {
+    "index": 278,
+    "class": "彩",
+    "uuid": "OC0055-4",
+    "colorName": "迷霧情緣",
+    "colorNameEn": "Love Fog",
+    "sR": 252,
+    "sG": 204,
+    "sB": 190
+  },
+  {
+    "index": 279,
+    "class": "彩",
+    "uuid": "OC0063-4",
+    "colorName": "江南水紅",
+    "colorNameEn": "Southern Red Water",
+    "sR": 250,
+    "sG": 190,
+    "sB": 171
+  },
+  {
+    "index": 280,
+    "class": "彩",
+    "uuid": "OC0053-4",
+    "colorName": "胭紅",
+    "colorNameEn": "Cochineal",
+    "sR": 247,
+    "sG": 224,
+    "sB": 217
+  },
+  {
+    "index": 281,
+    "class": "彩",
+    "uuid": "RN0035-4",
+    "colorName": "寧靜",
+    "colorNameEn": "Tranquility",
+    "sR": 245,
+    "sG": 217,
+    "sB": 211
+  },
+  {
+    "index": 282,
+    "class": "彩",
+    "uuid": "RN1551-4",
+    "colorName": "囡囡紅",
+    "colorNameEn": "Peach Dust",
+    "sR": 247,
+    "sG": 209,
+    "sB": 199
+  },
+  {
+    "index": 283,
+    "class": "彩",
+    "uuid": "OC0056-4",
+    "colorName": "蜜月",
+    "colorNameEn": "Honeymoon",
+    "sR": 252,
+    "sG": 193,
+    "sB": 178
+  },
+  {
+    "index": 284,
+    "class": "彩",
+    "uuid": "NN0006-4",
+    "colorName": "浮生若夢",
+    "colorNameEn": "Dreamlike Life",
+    "sR": 248,
+    "sG": 231,
+    "sB": 225
+  },
+  {
+    "index": 285,
+    "class": "彩",
+    "uuid": "RC0501-4",
+    "colorName": "柔情依依",
+    "colorNameEn": "Feminique",
+    "sR": 248,
+    "sG": 220,
+    "sB": 216
+  },
+  {
+    "index": 286,
+    "class": "彩",
+    "uuid": "OC1510-4",
+    "colorName": "紅顏知己",
+    "colorNameEn": "Peaches 'N Cream",
+    "sR": 248,
+    "sG": 201,
+    "sB": 194
+  },
+  {
+    "index": 287,
+    "class": "彩",
+    "uuid": "OC0011-4",
+    "colorName": "粉杏",
+    "colorNameEn": "Pink Apricot",
+    "sR": 249,
+    "sG": 214,
+    "sB": 208
+  },
+  {
+    "index": 288,
+    "class": "彩",
+    "uuid": "OC0012-4",
+    "colorName": "粉若桃李",
+    "colorNameEn": "Plums Pink",
+    "sR": 249,
+    "sG": 205,
+    "sB": 202
+  },
+  {
+    "index": 289,
+    "class": "彩",
+    "uuid": "OC0013-4",
+    "colorName": "藕荷色",
+    "colorNameEn": "Bisque",
+    "sR": 246,
+    "sG": 183,
+    "sB": 180
+  },
+  {
+    "index": 290,
+    "class": "彩",
+    "uuid": "OC0601-4",
+    "colorName": "純真歲月",
+    "colorNameEn": "Sunset Snow",
+    "sR": 244,
+    "sG": 223,
+    "sB": 217
+  },
+  {
+    "index": 291,
+    "class": "彩",
+    "uuid": "OC0004-4",
+    "colorName": "心隨色動",
+    "colorNameEn": "Heartbeats With Colour",
+    "sR": 249,
+    "sG": 212,
+    "sB": 208
+  },
+  {
+    "index": 292,
+    "class": "彩",
+    "uuid": "OC7910-4",
+    "colorName": "山茶花",
+    "colorNameEn": "Firecrest",
+    "sR": 240,
+    "sG": 193,
+    "sB": 188
+  },
+  {
+    "index": 293,
+    "class": "彩",
+    "uuid": "RC0401-4",
+    "colorName": "出水芙蓉",
+    "colorNameEn": "Pink Hibiscus",
+    "sR": 241,
+    "sG": 218,
+    "sB": 216
+  },
+  {
+    "index": 294,
+    "class": "彩",
+    "uuid": "RN0034-4",
+    "colorName": "西雅圖之夜",
+    "colorNameEn": "Night Of Seattle",
+    "sR": 251,
+    "sG": 213,
+    "sB": 212
+  },
+  {
+    "index": 295,
+    "class": "彩",
+    "uuid": "RC0099-4",
+    "colorName": "花漾年華",
+    "colorNameEn": "Teenage Dreams",
+    "sR": 246,
+    "sG": 186,
+    "sB": 188
+  },
+  {
+    "index": 296,
+    "class": "彩",
+    "uuid": "RC8010-4",
+    "colorName": "豔陽天",
+    "colorNameEn": "Coraline",
+    "sR": 239,
+    "sG": 177,
+    "sB": 180
+  },
+  {
+    "index": 297,
+    "class": "彩",
+    "uuid": "RN0507-4",
+    "colorName": "歡樂",
+    "colorNameEn": "Gaiety",
+    "sR": 254,
+    "sG": 233,
+    "sB": 230
+  },
+  {
+    "index": 298,
+    "class": "彩",
+    "uuid": "RC0077-4",
+    "colorName": "蜜語",
+    "colorNameEn": "Honeyed Words",
+    "sR": 248,
+    "sG": 208,
+    "sB": 209
+  },
+  {
+    "index": 299,
+    "class": "彩",
+    "uuid": "RC0078-4",
+    "colorName": "草莓冰淇淋",
+    "colorNameEn": "Strawberry Ice Cream",
+    "sR": 247,
+    "sG": 198,
+    "sB": 202
+  },
+  {
+    "index": 300,
+    "class": "彩",
+    "uuid": "RC0079-4",
+    "colorName": "婚禮祝福",
+    "colorNameEn": "Blessing For Wedding",
+    "sR": 244,
+    "sG": 181,
+    "sB": 189
+  },
+  {
+    "index": 301,
+    "class": "彩",
+    "uuid": "RN0033-4",
+    "colorName": "粉果凍",
+    "colorNameEn": "Pink Jelly",
+    "sR": 248,
+    "sG": 229,
+    "sB": 228
+  },
+  {
+    "index": 302,
+    "class": "彩",
+    "uuid": "RC0092-4",
+    "colorName": "搖擺戀曲",
+    "colorNameEn": "Swing Love Song",
+    "sR": 249,
+    "sG": 209,
+    "sB": 210
+  },
+  {
+    "index": 303,
+    "class": "彩",
+    "uuid": "RC0085-4",
+    "colorName": "巴黎詩人",
+    "colorNameEn": "Paris Poet",
+    "sR": 248,
+    "sG": 197,
+    "sB": 201
+  },
+  {
+    "index": 304,
+    "class": "彩",
+    "uuid": "RC0094-4",
+    "colorName": "傾城之戀",
+    "colorNameEn": "Love In Fallen City",
+    "sR": 244,
+    "sG": 176,
+    "sB": 181
+  },
+  {
+    "index": 305,
+    "class": "彩",
+    "uuid": "RC0042-4",
+    "colorName": "霧中玫瑰",
+    "colorNameEn": "Sweet Rose",
+    "sR": 242,
+    "sG": 222,
+    "sB": 221
+  },
+  {
+    "index": 306,
+    "class": "彩",
+    "uuid": "RC0058-4",
+    "colorName": "小情歌",
+    "colorNameEn": "Sweet Love Song",
+    "sR": 248,
+    "sG": 214,
+    "sB": 220
+  },
+  {
+    "index": 307,
+    "class": "彩",
+    "uuid": "RC0510-4",
+    "colorName": "荷蘭石竹",
+    "colorNameEn": "Carnation Petal",
+    "sR": 245,
+    "sG": 189,
+    "sB": 200
+  },
+  {
+    "index": 308,
+    "class": "彩",
+    "uuid": "RC0057-4",
+    "colorName": "甜蜜之源",
+    "colorNameEn": "Source Of Sweet",
+    "sR": 246,
+    "sG": 223,
+    "sB": 224
+  },
+  {
+    "index": 309,
+    "class": "彩",
+    "uuid": "RC0051-4",
+    "colorName": "粉雨",
+    "colorNameEn": "Pink Rain",
+    "sR": 246,
+    "sG": 212,
+    "sB": 219
+  },
+  {
+    "index": 310,
+    "class": "彩",
+    "uuid": "RC0052-4",
+    "colorName": "蜜桃派",
+    "colorNameEn": "Honey Peach Pie",
+    "sR": 246,
+    "sG": 202,
+    "sB": 213
+  },
+  {
+    "index": 311,
+    "class": "彩",
+    "uuid": "RC0053-4",
+    "colorName": "玫瑰舞",
+    "colorNameEn": "Dance Of Roses",
+    "sR": 242,
+    "sG": 178,
+    "sB": 195
+  },
+  {
+    "index": 312,
+    "class": "彩",
+    "uuid": "RC0066-4",
+    "colorName": "清雅",
+    "colorNameEn": "Refined",
+    "sR": 244,
+    "sG": 230,
+    "sB": 231
+  },
+  {
+    "index": 313,
+    "class": "彩",
+    "uuid": "RN0051-4",
+    "colorName": "蝶之戀",
+    "colorNameEn": "Butterflies On Flower",
+    "sR": 242,
+    "sG": 220,
+    "sB": 220
+  },
+  {
+    "index": 314,
+    "class": "彩",
+    "uuid": "RN0351-4",
+    "colorName": "纖纖玉指",
+    "colorNameEn": "Pink Tiara",
+    "sR": 242,
+    "sG": 210,
+    "sB": 217
+  },
+  {
+    "index": 315,
+    "class": "彩",
+    "uuid": "RC0410-4",
+    "colorName": "怡然蝶園",
+    "colorNameEn": "Raspberry Whip",
+    "sR": 240,
+    "sG": 195,
+    "sB": 207
+  },
+  {
+    "index": 316,
+    "class": "彩",
+    "uuid": "RN8101-4",
+    "colorName": "粉茶花",
+    "colorNameEn": "Snowburst",
+    "sR": 241,
+    "sG": 225,
+    "sB": 226
+  },
+  {
+    "index": 317,
+    "class": "彩",
+    "uuid": "RC0019-4",
+    "colorName": "滿架薔薇",
+    "colorNameEn": "Full Frame Rose",
+    "sR": 248,
+    "sG": 220,
+    "sB": 225
+  },
+  {
+    "index": 318,
+    "class": "彩",
+    "uuid": "RC0044-4",
+    "colorName": "純真",
+    "colorNameEn": "Naivete",
+    "sR": 242,
+    "sG": 198,
+    "sB": 213
+  },
+  {
+    "index": 319,
+    "class": "彩",
+    "uuid": "RC0045-4",
+    "colorName": "春桃",
+    "colorNameEn": "Spring Peach",
+    "sR": 238,
+    "sG": 177,
+    "sB": 199
+  },
+  {
+    "index": 320,
+    "class": "彩",
+    "uuid": "RC0050-4",
+    "colorName": "蝴蝶飛",
+    "colorNameEn": "Flying Butterflies",
+    "sR": 244,
+    "sG": 229,
+    "sB": 230
+  },
+  {
+    "index": 321,
+    "class": "彩",
+    "uuid": "RC0020-4",
+    "colorName": "精靈之歌",
+    "colorNameEn": "Songs Of Elves",
+    "sR": 242,
+    "sG": 209,
+    "sB": 219
+  },
+  {
+    "index": 322,
+    "class": "彩",
+    "uuid": "RN0002-4",
+    "colorName": "花開誘惑",
+    "colorNameEn": "Euphoria Blossom",
+    "sR": 237,
+    "sG": 198,
+    "sB": 213
+  },
+  {
+    "index": 323,
+    "class": "彩",
+    "uuid": "RC0037-4",
+    "colorName": "花顏悅色",
+    "colorNameEn": "Flower In Moonlight",
+    "sR": 241,
+    "sG": 192,
+    "sB": 212
+  },
+  {
+    "index": 324,
+    "class": "彩",
+    "uuid": "RC0021-4",
+    "colorName": "夢遊仙境",
+    "colorNameEn": "Dreamlike Wonderland",
+    "sR": 246,
+    "sG": 224,
+    "sB": 228
+  },
+  {
+    "index": 325,
+    "class": "彩",
+    "uuid": "RC0022-4",
+    "colorName": "香水百合",
+    "colorNameEn": "Casablanca Lily",
+    "sR": 242,
+    "sG": 210,
+    "sB": 222
+  },
+  {
+    "index": 326,
+    "class": "彩",
+    "uuid": "RC0023-4",
+    "colorName": "愛的味道",
+    "colorNameEn": "Flavour Of Love",
+    "sR": 239,
+    "sG": 199,
+    "sB": 215
+  },
+  {
+    "index": 327,
+    "class": "彩",
+    "uuid": "RC0031-4",
+    "colorName": "春光爛漫",
+    "colorNameEn": "Flourishing Spring",
+    "sR": 230,
+    "sG": 175,
+    "sB": 197
+  },
+  {
+    "index": 328,
+    "class": "彩",
+    "uuid": "RC0016-4",
+    "colorName": "山櫻花",
+    "colorNameEn": "Prunus Campanulata",
+    "sR": 244,
+    "sG": 226,
+    "sB": 230
+  },
+  {
+    "index": 329,
+    "class": "彩",
+    "uuid": "RC0017-4",
+    "colorName": "粉彩",
+    "colorNameEn": "Famille Rose",
+    "sR": 241,
+    "sG": 211,
+    "sB": 222
+  },
+  {
+    "index": 330,
+    "class": "彩",
+    "uuid": "RC0210-4",
+    "colorName": "甜蜜公主",
+    "colorNameEn": "Precious Pink",
+    "sR": 236,
+    "sG": 194,
+    "sB": 213
+  },
+  {
+    "index": 331,
+    "class": "彩",
+    "uuid": "RC0024-4",
+    "colorName": "粉紅佳人",
+    "colorNameEn": "Beauty In Pink",
+    "sR": 235,
+    "sG": 178,
+    "sB": 203
+  },
+  {
+    "index": 332,
+    "class": "彩",
+    "uuid": "RC0009-4",
+    "colorName": "法國玫瑰",
+    "colorNameEn": "French Rose",
+    "sR": 242,
+    "sG": 225,
+    "sB": 230
+  },
+  {
+    "index": 333,
+    "class": "彩",
+    "uuid": "RC0010-4",
+    "colorName": "初生",
+    "colorNameEn": "Newborn",
+    "sR": 255,
+    "sG": 197,
+    "sB": 209
+  },
+  {
+    "index": 334,
+    "class": "彩",
+    "uuid": "RC0012-4",
+    "colorName": "酸果蔓",
+    "colorNameEn": "Squashberry",
+    "sR": 229,
+    "sG": 179,
+    "sB": 210
+  },
+  {
+    "index": 335,
+    "class": "彩",
+    "uuid": "RC0002-4",
+    "colorName": "柔皙",
+    "colorNameEn": "Soft Face",
+    "sR": 242,
+    "sG": 223,
+    "sB": 233
+  },
+  {
+    "index": 336,
+    "class": "彩",
+    "uuid": "RC0011-4",
+    "colorName": "珊瑚粉",
+    "colorNameEn": "Coral Pink",
+    "sR": 236,
+    "sG": 198,
+    "sB": 220
+  },
+  {
+    "index": 337,
+    "class": "彩",
+    "uuid": "RC0005-4",
+    "colorName": "野山莓",
+    "colorNameEn": "Wild Berries",
+    "sR": 228,
+    "sG": 181,
+    "sB": 208
+  },
+  {
+    "index": 338,
+    "class": "彩",
+    "uuid": "RC0104-4",
+    "colorName": "桃芽",
+    "colorNameEn": "Peach Blossom Bud",
+    "sR": 238,
+    "sG": 223,
+    "sB": 236
+  },
+  {
+    "index": 339,
+    "class": "彩",
+    "uuid": "RC0105-4",
+    "colorName": "初桃",
+    "colorNameEn": "Newborn Peach",
+    "sR": 235,
+    "sG": 208,
+    "sB": 230
+  },
+  {
+    "index": 340,
+    "class": "彩",
+    "uuid": "RC0106-4",
+    "colorName": "四月薔薇",
+    "colorNameEn": "April Rose",
+    "sR": 227,
+    "sG": 186,
+    "sB": 218
+  },
+  {
+    "index": 341,
+    "class": "彩",
+    "uuid": "VC0064-4",
+    "colorName": "蘆花映白",
+    "colorNameEn": "White Reed Catkins",
+    "sR": 232,
+    "sG": 212,
+    "sB": 228
+  },
+  {
+    "index": 342,
+    "class": "彩",
+    "uuid": "VC0065-4",
+    "colorName": "婀娜背影",
+    "colorNameEn": "Graceful Figure",
+    "sR": 223,
+    "sG": 199,
+    "sB": 223
+  },
+  {
+    "index": 343,
+    "class": "彩",
+    "uuid": "VC0066-4",
+    "colorName": "紫玉蘭",
+    "colorNameEn": "Magnolia Liliflora",
+    "sR": 214,
+    "sG": 180,
+    "sB": 212
+  },
+  {
+    "index": 344,
+    "class": "彩",
+    "uuid": "VN0070-4",
+    "colorName": "粉沁之心",
+    "colorNameEn": "Pink Seeps",
+    "sR": 237,
+    "sG": 220,
+    "sB": 234
+  },
+  {
+    "index": 345,
+    "class": "彩",
+    "uuid": "VC0058-4",
+    "colorName": "紫鬱輕揚",
+    "colorNameEn": "Drifting Purple",
+    "sR": 225,
+    "sG": 200,
+    "sB": 223
+  },
+  {
+    "index": 346,
+    "class": "彩",
+    "uuid": "VC0059-4",
+    "colorName": "雨中起舞",
+    "colorNameEn": "Dance In Rain",
+    "sR": 211,
+    "sG": 181,
+    "sB": 213
+  },
+  {
+    "index": 347,
+    "class": "彩",
+    "uuid": "VC0072-4",
+    "colorName": "杜鵑粉",
+    "colorNameEn": "Azalea Pink",
+    "sR": 234,
+    "sG": 221,
+    "sB": 234
+  },
+  {
+    "index": 348,
+    "class": "彩",
+    "uuid": "VC0050-4",
+    "colorName": "輕歌曼舞",
+    "colorNameEn": "Light Dance",
+    "sR": 224,
+    "sG": 211,
+    "sB": 228
+  },
+  {
+    "index": 349,
+    "class": "彩",
+    "uuid": "VC0051-4",
+    "colorName": "魔幻精靈",
+    "colorNameEn": "Fantasy Genius",
+    "sR": 220,
+    "sG": 199,
+    "sB": 222
+  },
+  {
+    "index": 350,
+    "class": "彩",
+    "uuid": "VC0052-4",
+    "colorName": "愛的魔力",
+    "colorNameEn": "Charming Love",
+    "sR": 205,
+    "sG": 182,
+    "sB": 214
+  },
+  {
+    "index": 351,
+    "class": "彩",
+    "uuid": "VC0043-4",
+    "colorName": "提子奶糖",
+    "colorNameEn": "Raisins Milk Sugar",
+    "sR": 224,
+    "sG": 215,
+    "sB": 228
+  },
+  {
+    "index": 352,
+    "class": "彩",
+    "uuid": "VC0073-4",
+    "colorName": "桃粉色",
+    "colorNameEn": "Pinky Peach",
+    "sR": 217,
+    "sG": 210,
+    "sB": 229
+  },
+  {
+    "index": 353,
+    "class": "彩",
+    "uuid": "VC0045-4",
+    "colorName": "紫霞",
+    "colorNameEn": "Purple Light",
+    "sR": 210,
+    "sG": 194,
+    "sB": 223
+  },
+  {
+    "index": 354,
+    "class": "彩",
+    "uuid": "VC0074-4",
+    "colorName": "繡球牡丹",
+    "colorNameEn": "Hydrangea Peony",
+    "sR": 200,
+    "sG": 183,
+    "sB": 212
+  },
+  {
+    "index": 355,
+    "class": "彩",
+    "uuid": "VC0035-4",
+    "colorName": "香芋奶昔",
+    "colorNameEn": "Taro Milk Shake",
+    "sR": 246,
+    "sG": 218,
+    "sB": 232
+  },
+  {
+    "index": 356,
+    "class": "彩",
+    "uuid": "VC0037-4",
+    "colorName": "薄紗",
+    "colorNameEn": "Chiffon",
+    "sR": 213,
+    "sG": 208,
+    "sB": 230
+  },
+  {
+    "index": 357,
+    "class": "彩",
+    "uuid": "VC0036-4",
+    "colorName": "迷迭香",
+    "colorNameEn": "Rosemary",
+    "sR": 208,
+    "sG": 202,
+    "sB": 224
+  },
+  {
+    "index": 358,
+    "class": "彩",
+    "uuid": "VC0075-4",
+    "colorName": "拂曉粉",
+    "colorNameEn": "Dawn Pink",
+    "sR": 226,
+    "sG": 222,
+    "sB": 237
+  },
+  {
+    "index": 359,
+    "class": "彩",
+    "uuid": "VC0076-4",
+    "colorName": "糖果粉",
+    "colorNameEn": "Candy Pink",
+    "sR": 213,
+    "sG": 210,
+    "sB": 231
+  },
+  {
+    "index": 360,
+    "class": "彩",
+    "uuid": "VC0077-4",
+    "colorName": "芝士黑提",
+    "colorNameEn": "Cheese Black Grapes",
+    "sR": 190,
+    "sG": 186,
+    "sB": 219
+  },
+  {
+    "index": 361,
+    "class": "彩",
+    "uuid": "VC0023-4",
+    "colorName": "輕盈",
+    "colorNameEn": "Lightness",
+    "sR": 216,
+    "sG": 217,
+    "sB": 230
+  },
+  {
+    "index": 362,
+    "class": "彩",
+    "uuid": "VC0024-4",
+    "colorName": "水晶之戀",
+    "colorNameEn": "Crystal Love",
+    "sR": 200,
+    "sG": 202,
+    "sB": 228
+  },
+  {
+    "index": 363,
+    "class": "彩",
+    "uuid": "VC0025-4",
+    "colorName": "雪青",
+    "colorNameEn": "Lilac Colour",
+    "sR": 185,
+    "sG": 185,
+    "sB": 214
+  },
+  {
+    "index": 364,
+    "class": "彩",
+    "uuid": "VC0082-4",
+    "colorName": "透明粉",
+    "colorNameEn": "Light Violet",
+    "sR": 209,
+    "sG": 210,
+    "sB": 220
+  },
+  {
+    "index": 365,
+    "class": "彩",
+    "uuid": "VC0021-4",
+    "colorName": "蓮之影",
+    "colorNameEn": "Shadow Of Ephraim",
+    "sR": 197,
+    "sG": 204,
+    "sB": 219
+  },
+  {
+    "index": 366,
+    "class": "彩",
+    "uuid": "VC0016-4",
+    "colorName": "格調紫",
+    "colorNameEn": "Purple Style",
+    "sR": 183,
+    "sG": 191,
+    "sB": 212
+  },
+  {
+    "index": 367,
+    "class": "彩",
+    "uuid": "VC0002-4",
+    "colorName": "紫蔓",
+    "colorNameEn": "Purple Tendril",
+    "sR": 215,
+    "sG": 227,
+    "sB": 241
+  },
+  {
+    "index": 368,
+    "class": "彩",
+    "uuid": "VC7051-4",
+    "colorName": "紫氣東升",
+    "colorNameEn": "Lively Lavender",
+    "sR": 199,
+    "sG": 212,
+    "sB": 224
+  },
+  {
+    "index": 369,
+    "class": "彩",
+    "uuid": "VC0084-4",
+    "colorName": "瀑布",
+    "colorNameEn": "Waterfall",
+    "sR": 214,
+    "sG": 227,
+    "sB": 240
+  },
+  {
+    "index": 370,
+    "class": "彩",
+    "uuid": "VC0085-4",
+    "colorName": "藍亞麻",
+    "colorNameEn": "Blue Linen",
+    "sR": 196,
+    "sG": 215,
+    "sB": 237
+  },
+  {
+    "index": 371,
+    "class": "彩",
+    "uuid": "VC0086-4",
+    "colorName": "藍羊絨",
+    "colorNameEn": "Blue Cashmere",
+    "sR": 161,
+    "sG": 190,
+    "sB": 225
+  },
+  {
+    "index": 372,
+    "class": "彩",
+    "uuid": "BN0020-4",
+    "colorName": "淺水區",
+    "colorNameEn": "shallow water",
+    "sR": 204,
+    "sG": 224,
+    "sB": 234
+  },
+  {
+    "index": 373,
+    "class": "彩",
+    "uuid": "BN0002-4",
+    "colorName": "水天一色",
+    "colorNameEn": "Extensive View",
+    "sR": 194,
+    "sG": 217,
+    "sB": 236
+  },
+  {
+    "index": 374,
+    "class": "彩",
+    "uuid": "BN0003-4",
+    "colorName": "愛爾蘭",
+    "colorNameEn": "Ireland",
+    "sR": 174,
+    "sG": 215,
+    "sB": 233
+  },
+  {
+    "index": 375,
+    "class": "彩",
+    "uuid": "BN0021-4",
+    "colorName": "玻璃樽",
+    "colorNameEn": "Glass bottle",
+    "sR": 205,
+    "sG": 216,
+    "sB": 224
+  },
+  {
+    "index": 376,
+    "class": "彩",
+    "uuid": "BN0001-4",
+    "colorName": "微藍",
+    "colorNameEn": "Faint Blue",
+    "sR": 221,
+    "sG": 239,
+    "sB": 244
+  },
+  {
+    "index": 377,
+    "class": "彩",
+    "uuid": "BN6910-4",
+    "colorName": "水中花",
+    "colorNameEn": "Blue Lotus",
+    "sR": 169,
+    "sG": 197,
+    "sB": 219
+  },
+  {
+    "index": 378,
+    "class": "彩",
+    "uuid": "BC0020-4",
+    "colorName": "平和",
+    "colorNameEn": "Mild",
+    "sR": 204,
+    "sG": 224,
+    "sB": 230
+  },
+  {
+    "index": 379,
+    "class": "彩",
+    "uuid": "BN0015-4",
+    "colorName": "藍色瓷器",
+    "colorNameEn": "Blue Porcelain",
+    "sR": 189,
+    "sG": 213,
+    "sB": 226
+  },
+  {
+    "index": 380,
+    "class": "彩",
+    "uuid": "BC0022-4",
+    "colorName": "春水",
+    "colorNameEn": "Spring Water",
+    "sR": 162,
+    "sG": 224,
+    "sB": 236
+  },
+  {
+    "index": 381,
+    "class": "彩",
+    "uuid": "BC0017-4",
+    "colorName": "細雨",
+    "colorNameEn": "Drizzle",
+    "sR": 212,
+    "sG": 236,
+    "sB": 243
+  },
+  {
+    "index": 382,
+    "class": "彩",
+    "uuid": "BC0021-4",
+    "colorName": "露珠",
+    "colorNameEn": "Dewdrop",
+    "sR": 200,
+    "sG": 226,
+    "sB": 239
+  },
+  {
+    "index": 383,
+    "class": "彩",
+    "uuid": "BC0018-4",
+    "colorName": "都柏林",
+    "colorNameEn": "Dublin",
+    "sR": 189,
+    "sG": 231,
+    "sB": 239
+  },
+  {
+    "index": 384,
+    "class": "彩",
+    "uuid": "BC0019-4",
+    "colorName": "倩語",
+    "colorNameEn": "Supple Words",
+    "sR": 170,
+    "sG": 210,
+    "sB": 236
+  },
+  {
+    "index": 385,
+    "class": "彩",
+    "uuid": "BC0016-4",
+    "colorName": "湖濱之戀",
+    "colorNameEn": "Lakeside Love",
+    "sR": 190,
+    "sG": 222,
+    "sB": 233
+  },
+  {
+    "index": 386,
+    "class": "彩",
+    "uuid": "BC6751-4",
+    "colorName": "法國蕾絲",
+    "colorNameEn": "Blue Chiffon",
+    "sR": 177,
+    "sG": 216,
+    "sB": 227
+  },
+  {
+    "index": 387,
+    "class": "彩",
+    "uuid": "BC6710-4",
+    "colorName": "愛情鳥",
+    "colorNameEn": "Lovebird Blue",
+    "sR": 158,
+    "sG": 220,
+    "sB": 232
+  },
+  {
+    "index": 388,
+    "class": "彩",
+    "uuid": "BC0028-4",
+    "colorName": "水族館",
+    "colorNameEn": "Aquarium",
+    "sR": 190,
+    "sG": 229,
+    "sB": 238
+  },
+  {
+    "index": 389,
+    "class": "彩",
+    "uuid": "BC0029-4",
+    "colorName": "滇池",
+    "colorNameEn": "Kunming Lake",
+    "sR": 170,
+    "sG": 222,
+    "sB": 234
+  },
+  {
+    "index": 390,
+    "class": "彩",
+    "uuid": "BC0035-4",
+    "colorName": "北冰洋",
+    "colorNameEn": "Arctic Ocean",
+    "sR": 197,
+    "sG": 232,
+    "sB": 239
+  },
+  {
+    "index": 391,
+    "class": "彩",
+    "uuid": "BC0036-4",
+    "colorName": "衝浪",
+    "colorNameEn": "Surfing",
+    "sR": 169,
+    "sG": 221,
+    "sB": 233
+  },
+  {
+    "index": 392,
+    "class": "彩",
+    "uuid": "BC0042-4",
+    "colorName": "洱海",
+    "colorNameEn": "Erhai",
+    "sR": 208,
+    "sG": 236,
+    "sB": 241
+  },
+  {
+    "index": 393,
+    "class": "彩",
+    "uuid": "BC0043-4",
+    "colorName": "藍珊瑚",
+    "colorNameEn": "Blue Coral",
+    "sR": 173,
+    "sG": 223,
+    "sB": 236
+  },
+  {
+    "index": 394,
+    "class": "彩",
+    "uuid": "BC0049-4",
+    "colorName": "滑翔傘",
+    "colorNameEn": "Paragliding",
+    "sR": 201,
+    "sG": 234,
+    "sB": 239
+  },
+  {
+    "index": 395,
+    "class": "彩",
+    "uuid": "BC0050-4",
+    "colorName": "尼羅河藍",
+    "colorNameEn": "Nile Blue",
+    "sR": 178,
+    "sG": 226,
+    "sB": 236
+  },
+  {
+    "index": 396,
+    "class": "彩",
+    "uuid": "BC0007-4",
+    "colorName": "青雲",
+    "colorNameEn": "Blueness Cloud",
+    "sR": 214,
+    "sG": 236,
+    "sB": 238
+  },
+  {
+    "index": 397,
+    "class": "彩",
+    "uuid": "BC0056-4",
+    "colorName": "閃電",
+    "colorNameEn": "lightning",
+    "sR": 182,
+    "sG": 223,
+    "sB": 230
+  },
+  {
+    "index": 398,
+    "class": "彩",
+    "uuid": "BC6610-4",
+    "colorName": "一簾幽夢",
+    "colorNameEn": "Sistine Blue",
+    "sR": 144,
+    "sG": 236,
+    "sB": 227
+  },
+  {
+    "index": 399,
+    "class": "彩",
+    "uuid": "BC0015-4",
+    "colorName": "夏日水藍",
+    "colorNameEn": "Summer Blue Water",
+    "sR": 216,
+    "sG": 235,
+    "sB": 234
+  },
+  {
+    "index": 400,
+    "class": "彩",
+    "uuid": "BC0058-4",
+    "colorName": "青瓷",
+    "colorNameEn": "Celadon",
+    "sR": 198,
+    "sG": 228,
+    "sB": 231
+  },
+  {
+    "index": 401,
+    "class": "彩",
+    "uuid": "BC5910-4",
+    "colorName": "一望無際",
+    "colorNameEn": "Tropical Sky",
+    "sR": 156,
+    "sG": 212,
+    "sB": 217
+  },
+  {
+    "index": 402,
+    "class": "彩",
+    "uuid": "BC0060-4",
+    "colorName": "一江春水",
+    "colorNameEn": "Lough Blue",
+    "sR": 209,
+    "sG": 232,
+    "sB": 232
+  },
+  {
+    "index": 403,
+    "class": "彩",
+    "uuid": "BC0061-4",
+    "colorName": "海峽",
+    "colorNameEn": "Strait",
+    "sR": 185,
+    "sG": 226,
+    "sB": 229
+  },
+  {
+    "index": 404,
+    "class": "彩",
+    "uuid": "BC0062-4",
+    "colorName": "藍色運河",
+    "colorNameEn": "Blue Canal",
+    "sR": 153,
+    "sG": 218,
+    "sB": 219
+  },
+  {
+    "index": 405,
+    "class": "彩",
+    "uuid": "BC6601-4",
+    "colorName": "萍水相逢",
+    "colorNameEn": "Ruffles",
+    "sR": 212,
+    "sG": 231,
+    "sB": 228
+  },
+  {
+    "index": 406,
+    "class": "彩",
+    "uuid": "BC5951-4",
+    "colorName": "仙樂飄飄",
+    "colorNameEn": "Heavenly Scent",
+    "sR": 187,
+    "sG": 224,
+    "sB": 222
+  },
+  {
+    "index": 407,
+    "class": "彩",
+    "uuid": "BC5810-4",
+    "colorName": "淺藍",
+    "colorNameEn": "Tame Blue",
+    "sR": 161,
+    "sG": 218,
+    "sB": 215
+  },
+  {
+    "index": 408,
+    "class": "彩",
+    "uuid": "BC5901-4",
+    "colorName": "雲林煙霧",
+    "colorNameEn": "Tropic Mist",
+    "sR": 211,
+    "sG": 231,
+    "sB": 226
+  },
+  {
+    "index": 409,
+    "class": "彩",
+    "uuid": "BC5851-4",
+    "colorName": "昨夜星辰",
+    "colorNameEn": "Light Sky",
+    "sR": 180,
+    "sG": 223,
+    "sB": 218
+  },
+  {
+    "index": 410,
+    "class": "彩",
+    "uuid": "BC5710-4",
+    "colorName": "秋波流轉",
+    "colorNameEn": "Airwaves",
+    "sR": 160,
+    "sG": 221,
+    "sB": 214
+  },
+  {
+    "index": 411,
+    "class": "彩",
+    "uuid": "BC5808-4",
+    "colorName": "冒險精神",
+    "colorNameEn": "Free Spirit",
+    "sR": 221,
+    "sG": 234,
+    "sB": 229
+  },
+  {
+    "index": 412,
+    "class": "彩",
+    "uuid": "BC0001-4",
+    "colorName": "幽靜湖藍",
+    "colorNameEn": "Quiet Blue Lake",
+    "sR": 186,
+    "sG": 234,
+    "sB": 227
+  },
+  {
+    "index": 413,
+    "class": "彩",
+    "uuid": "BC5610-4",
+    "colorName": "煙濤微茫",
+    "colorNameEn": "Sea Teal",
+    "sR": 162,
+    "sG": 225,
+    "sB": 214
+  },
+  {
+    "index": 414,
+    "class": "彩",
+    "uuid": "GC0036-4",
+    "colorName": "往事如煙",
+    "colorNameEn": "Smoke-Like Past Events",
+    "sR": 219,
+    "sG": 231,
+    "sB": 227
+  },
+  {
+    "index": 415,
+    "class": "彩",
+    "uuid": "BC5701-4",
+    "colorName": "蕭瑟西風",
+    "colorNameEn": "Calm Sky",
+    "sR": 212,
+    "sG": 234,
+    "sB": 226
+  },
+  {
+    "index": 416,
+    "class": "彩",
+    "uuid": "GC5751-4",
+    "colorName": "海之女",
+    "colorNameEn": "Huron Foam",
+    "sR": 168,
+    "sG": 237,
+    "sB": 217
+  },
+  {
+    "index": 417,
+    "class": "彩",
+    "uuid": "GC0037-4",
+    "colorName": "常春藤",
+    "colorNameEn": "Ivy",
+    "sR": 155,
+    "sG": 210,
+    "sB": 198
+  },
+  {
+    "index": 418,
+    "class": "彩",
+    "uuid": "GC0041-4",
+    "colorName": "清泉",
+    "colorNameEn": "Spring",
+    "sR": 225,
+    "sG": 238,
+    "sB": 232
+  },
+  {
+    "index": 419,
+    "class": "彩",
+    "uuid": "GC0042-4",
+    "colorName": "雲杉",
+    "colorNameEn": "Spruce",
+    "sR": 204,
+    "sG": 232,
+    "sB": 223
+  },
+  {
+    "index": 420,
+    "class": "彩",
+    "uuid": "GC0043-4",
+    "colorName": "薄荷馬卡龍",
+    "colorNameEn": "Mint Macaron",
+    "sR": 184,
+    "sG": 225,
+    "sB": 214
+  },
+  {
+    "index": 421,
+    "class": "彩",
+    "uuid": "GC5601-4",
+    "colorName": "滄海月明",
+    "colorNameEn": "Sea Sprite",
+    "sR": 224,
+    "sG": 237,
+    "sB": 223
+  },
+  {
+    "index": 422,
+    "class": "彩",
+    "uuid": "GC5401-4",
+    "colorName": "臺地風光",
+    "colorNameEn": "Jamacian Mist",
+    "sR": 211,
+    "sG": 231,
+    "sB": 216
+  },
+  {
+    "index": 423,
+    "class": "彩",
+    "uuid": "GC5510-4",
+    "colorName": "純綠",
+    "colorNameEn": "Pristine Green",
+    "sR": 173,
+    "sG": 223,
+    "sB": 202
+  },
+  {
+    "index": 424,
+    "class": "彩",
+    "uuid": "GC5501-4",
+    "colorName": "霜綠",
+    "colorNameEn": "Foam Frost",
+    "sR": 218,
+    "sG": 234,
+    "sB": 218
+  },
+  {
+    "index": 425,
+    "class": "彩",
+    "uuid": "GC0049-4",
+    "colorName": "夏日游池",
+    "colorNameEn": "Summer Swim",
+    "sR": 203,
+    "sG": 233,
+    "sB": 211
+  },
+  {
+    "index": 426,
+    "class": "彩",
+    "uuid": "GC5410-4",
+    "colorName": "綠火花",
+    "colorNameEn": "Green Spark",
+    "sR": 163,
+    "sG": 222,
+    "sB": 194
+  },
+  {
+    "index": 427,
+    "class": "彩",
+    "uuid": "GC6108-4",
+    "colorName": "匈奴鐵騎",
+    "colorNameEn": "Claire de Lune",
+    "sR": 221,
+    "sG": 232,
+    "sB": 219
+  },
+  {
+    "index": 428,
+    "class": "彩",
+    "uuid": "GC0029-4",
+    "colorName": "間春綠色",
+    "colorNameEn": "Medium Spring Green",
+    "sR": 206,
+    "sG": 225,
+    "sB": 209
+  },
+  {
+    "index": 429,
+    "class": "彩",
+    "uuid": "GC4660-4",
+    "colorName": "青翠山崗",
+    "colorNameEn": "Tobor Hill",
+    "sR": 195,
+    "sG": 224,
+    "sB": 195
+  },
+  {
+    "index": 430,
+    "class": "彩",
+    "uuid": "GC5360-4",
+    "colorName": "浮萍",
+    "colorNameEn": "Peter Pan",
+    "sR": 179,
+    "sG": 218,
+    "sB": 188
+  },
+  {
+    "index": 431,
+    "class": "彩",
+    "uuid": "GC4308-4",
+    "colorName": "金山棕",
+    "colorNameEn": "Silver Coin",
+    "sR": 222,
+    "sG": 231,
+    "sB": 213
+  },
+  {
+    "index": 432,
+    "class": "彩",
+    "uuid": "GC4508-4",
+    "colorName": "常青樹",
+    "colorNameEn": "Forever",
+    "sR": 218,
+    "sG": 234,
+    "sB": 207
+  },
+  {
+    "index": 433,
+    "class": "彩",
+    "uuid": "GC0028-4",
+    "colorName": "青澀果實",
+    "colorNameEn": "Immature Fruit",
+    "sR": 196,
+    "sG": 231,
+    "sB": 195
+  },
+  {
+    "index": 434,
+    "class": "彩",
+    "uuid": "GC5310-4",
+    "colorName": "冰薄荷",
+    "colorNameEn": "Frosted Mint",
+    "sR": 188,
+    "sG": 226,
+    "sB": 192
+  },
+  {
+    "index": 435,
+    "class": "彩",
+    "uuid": "GC0053-4",
+    "colorName": "羊脂玉",
+    "colorNameEn": "Nephrite",
+    "sR": 225,
+    "sG": 234,
+    "sB": 220
+  },
+  {
+    "index": 436,
+    "class": "彩",
+    "uuid": "GC4651-4",
+    "colorName": "清風拂面",
+    "colorNameEn": "Mint Hint",
+    "sR": 213,
+    "sG": 232,
+    "sB": 203
+  },
+  {
+    "index": 437,
+    "class": "彩",
+    "uuid": "GC4610-4",
+    "colorName": "沫香奶茶",
+    "colorNameEn": "Gumdrop",
+    "sR": 191,
+    "sG": 223,
+    "sB": 182
+  },
+  {
+    "index": 438,
+    "class": "彩",
+    "uuid": "GC0026-4",
+    "colorName": "新綠百合",
+    "colorNameEn": "Green Lily",
+    "sR": 226,
+    "sG": 239,
+    "sB": 212
+  },
+  {
+    "index": 439,
+    "class": "彩",
+    "uuid": "GC4551-4",
+    "colorName": "亮綠",
+    "colorNameEn": "Green Glow",
+    "sR": 213,
+    "sG": 231,
+    "sB": 193
+  },
+  {
+    "index": 440,
+    "class": "彩",
+    "uuid": "GC4510-4",
+    "colorName": "遊園驚夢",
+    "colorNameEn": "Garden Fantasy",
+    "sR": 198,
+    "sG": 222,
+    "sB": 175
+  },
+  {
+    "index": 441,
+    "class": "彩",
+    "uuid": "GC5301-4",
+    "colorName": "淡荷彩",
+    "colorNameEn": "Cool White",
+    "sR": 241,
+    "sG": 255,
+    "sB": 222
+  },
+  {
+    "index": 442,
+    "class": "彩",
+    "uuid": "GC0025-4",
+    "colorName": "冰鎮芭樂",
+    "colorNameEn": "Iced Guava",
+    "sR": 220,
+    "sG": 254,
+    "sB": 176
+  },
+  {
+    "index": 443,
+    "class": "彩",
+    "uuid": "GC4310-4",
+    "colorName": "春意融融",
+    "colorNameEn": "Spring Thaw",
+    "sR": 212,
+    "sG": 229,
+    "sB": 183
+  },
+  {
+    "index": 444,
+    "class": "彩",
+    "uuid": "GC5408-4",
+    "colorName": "溪水潺潺",
+    "colorNameEn": "Green Whisper",
+    "sR": 228,
+    "sG": 234,
+    "sB": 220
+  },
+  {
+    "index": 445,
+    "class": "彩",
+    "uuid": "GC0024-4",
+    "colorName": "碧羅相依",
+    "colorNameEn": "Scindapsus Aureus",
+    "sR": 222,
+    "sG": 236,
+    "sB": 201
+  },
+  {
+    "index": 446,
+    "class": "彩",
+    "uuid": "GC4210-4",
+    "colorName": "香木緣",
+    "colorNameEn": "Pale Citron",
+    "sR": 210,
+    "sG": 251,
+    "sB": 161
+  },
+  {
+    "index": 447,
+    "class": "彩",
+    "uuid": "GC4208-4",
+    "colorName": "無憂草",
+    "colorNameEn": "Soothing Aloe",
+    "sR": 230,
+    "sG": 234,
+    "sB": 205
+  },
+  {
+    "index": 448,
+    "class": "彩",
+    "uuid": "GC4151-4",
+    "colorName": "綠精靈",
+    "colorNameEn": "Pixie Green",
+    "sR": 229,
+    "sG": 230,
+    "sB": 183
+  },
+  {
+    "index": 449,
+    "class": "彩",
+    "uuid": "GC4107-4",
+    "colorName": "冷黃",
+    "colorNameEn": "Cool Yellow",
+    "sR": 236,
+    "sG": 233,
+    "sB": 203
+  },
+  {
+    "index": 450,
+    "class": "彩",
+    "uuid": "GC0023-4",
+    "colorName": "新茶",
+    "colorNameEn": "Fresh Tea",
+    "sR": 232,
+    "sG": 231,
+    "sB": 182
+  },
+  {
+    "index": 451,
+    "class": "彩",
+    "uuid": "GC0017-4",
+    "colorName": "白茶",
+    "colorNameEn": "White Tea",
+    "sR": 235,
+    "sG": 233,
+    "sB": 195
+  },
+  {
+    "index": 452,
+    "class": "彩",
+    "uuid": "GC0022-4",
+    "colorName": "綠芽",
+    "colorNameEn": "Green Shoots",
+    "sR": 238,
+    "sG": 231,
+    "sB": 159
+  },
+  {
+    "index": 453,
+    "class": "彩",
+    "uuid": "GC0009-4",
+    "colorName": "青檸汽水",
+    "colorNameEn": "Lime Soda",
+    "sR": 239,
+    "sG": 235,
+    "sB": 197
+  },
+  {
+    "index": 454,
+    "class": "彩",
+    "uuid": "GC0010-4",
+    "colorName": "輕揚晨光",
+    "colorNameEn": "Drifting Morning Light",
+    "sR": 236,
+    "sG": 231,
+    "sB": 182
+  },
+  {
+    "index": 455,
+    "class": "彩",
+    "uuid": "GC4101-4",
+    "colorName": "尼河日照",
+    "colorNameEn": "Light Nile",
+    "sR": 238,
+    "sG": 234,
+    "sB": 200
+  },
+  {
+    "index": 456,
+    "class": "彩",
+    "uuid": "GC0002-4",
+    "colorName": "白樺林",
+    "colorNameEn": "The Birch Wood",
+    "sR": 242,
+    "sG": 237,
+    "sB": 194
+  },
+  {
+    "index": 457,
+    "class": "彩",
+    "uuid": "GC0011-4",
+    "colorName": "酸蘋果",
+    "colorNameEn": "Crab Apple",
+    "sR": 238,
+    "sG": 230,
+    "sB": 168
+  },
+  {
+    "index": 458,
+    "class": "彩",
+    "uuid": "GC4001-4",
+    "colorName": "葉飄香",
+    "colorNameEn": "Leaf Scent",
+    "sR": 241,
+    "sG": 235,
+    "sB": 191
+  },
+  {
+    "index": 459,
+    "class": "彩",
+    "uuid": "YC0082-4",
+    "colorName": "煦日陽光",
+    "colorNameEn": "Warm Sunshine",
+    "sR": 249,
+    "sG": 237,
+    "sB": 193
+  },
+  {
+    "index": 460,
+    "class": "彩",
+    "uuid": "GC4051-4",
+    "colorName": "柳葉彩",
+    "colorNameEn": "Willow Leaf",
+    "sR": 246,
+    "sG": 235,
+    "sB": 183
+  },
+  {
+    "index": 461,
+    "class": "彩",
+    "uuid": "YC3010-4",
+    "colorName": "波爾尼香檳",
+    "colorNameEn": "Chablis",
+    "sR": 249,
+    "sG": 229,
+    "sB": 167
+  },
+  {
+    "index": 462,
+    "class": "恒",
+    "uuid": "YN3307-4",
+    "colorName": "愉悅",
+    "colorNameEn": "Bright Laughter",
+    "sR": 241,
+    "sG": 234,
+    "sB": 207
+  },
+  {
+    "index": 463,
+    "class": "恒",
+    "uuid": "YC3251-4",
+    "colorName": "珍珠黃",
+    "colorNameEn": "Bistre",
+    "sR": 246,
+    "sG": 233,
+    "sB": 196
+  },
+  {
+    "index": 464,
+    "class": "恒",
+    "uuid": "YC3110-4",
+    "colorName": "檸檬果凍",
+    "colorNameEn": "Lemon Ice",
+    "sR": 247,
+    "sG": 226,
+    "sB": 167
+  },
+  {
+    "index": 465,
+    "class": "恒",
+    "uuid": "YC3151-4",
+    "colorName": "蕾絲花邊",
+    "colorNameEn": "Queen Anne's Lace",
+    "sR": 248,
+    "sG": 236,
+    "sB": 195
+  },
+  {
+    "index": 466,
+    "class": "恒",
+    "uuid": "YC3051-4",
+    "colorName": "晨光",
+    "colorNameEn": "Bianca",
+    "sR": 247,
+    "sG": 231,
+    "sB": 186
+  },
+  {
+    "index": 467,
+    "class": "恒",
+    "uuid": "YN3310-4",
+    "colorName": "醇黃",
+    "colorNameEn": "Mellow Yellow",
+    "sR": 244,
+    "sG": 224,
+    "sB": 173
+  },
+  {
+    "index": 468,
+    "class": "恒",
+    "uuid": "YC3001-4",
+    "colorName": "和平之光",
+    "colorNameEn": "Peaceful",
+    "sR": 252,
+    "sG": 245,
+    "sB": 187
+  },
+  {
+    "index": 469,
+    "class": "恒",
+    "uuid": "YN0015-4",
+    "colorName": "邂逅柔情",
+    "colorNameEn": "Encounter Tender Feelings",
+    "sR": 247,
+    "sG": 230,
+    "sB": 186
+  },
+  {
+    "index": 470,
+    "class": "恒",
+    "uuid": "YN0024-4",
+    "colorName": "活力綻放",
+    "colorNameEn": "Blooming Energy",
+    "sR": 245,
+    "sG": 218,
+    "sB": 162
+  },
+  {
+    "index": 471,
+    "class": "恒",
+    "uuid": "NN0033-4",
+    "colorName": "利口酒",
+    "colorNameEn": "Liqueur",
+    "sR": 232,
+    "sG": 223,
+    "sB": 198
+  },
+  {
+    "index": 472,
+    "class": "恒",
+    "uuid": "NN4910-4",
+    "colorName": "韭菜",
+    "colorNameEn": "Leek",
+    "sR": 228,
+    "sG": 218,
+    "sB": 187
+  },
+  {
+    "index": 473,
+    "class": "恒",
+    "uuid": "NN0046-4",
+    "colorName": "小滿麥田",
+    "colorNameEn": "Wheat Field",
+    "sR": 221,
+    "sG": 204,
+    "sB": 165
+  },
+  {
+    "index": 474,
+    "class": "恒",
+    "uuid": "YN2908-4",
+    "colorName": "沙拉漿",
+    "colorNameEn": "Cake Batter",
+    "sR": 239,
+    "sG": 233,
+    "sB": 217
+  },
+  {
+    "index": 475,
+    "class": "恒",
+    "uuid": "NN4860-4",
+    "colorName": "深棕黃",
+    "colorNameEn": "Antique Linen",
+    "sR": 229,
+    "sG": 212,
+    "sB": 182
+  },
+  {
+    "index": 476,
+    "class": "恒",
+    "uuid": "YN3301-4",
+    "colorName": "鮮奶油",
+    "colorNameEn": "Whipped Cream",
+    "sR": 248,
+    "sG": 235,
+    "sB": 203
+  },
+  {
+    "index": 477,
+    "class": "恒",
+    "uuid": "YC2951-4",
+    "colorName": "花粉黃",
+    "colorNameEn": "Pollen",
+    "sR": 250,
+    "sG": 230,
+    "sB": 183
+  },
+  {
+    "index": 478,
+    "class": "恒",
+    "uuid": "YC2960-4",
+    "colorName": "甜曲奇",
+    "colorNameEn": "Sugar Cookie",
+    "sR": 253,
+    "sG": 226,
+    "sB": 169
+  },
+  {
+    "index": 479,
+    "class": "恒",
+    "uuid": "YC2901-4",
+    "colorName": "琥珀彩",
+    "colorNameEn": "Amber White",
+    "sR": 247,
+    "sG": 234,
+    "sB": 202
+  },
+  {
+    "index": 480,
+    "class": "恒",
+    "uuid": "YN0029-4",
+    "colorName": "回聲",
+    "colorNameEn": "Clear Echo",
+    "sR": 247,
+    "sG": 228,
+    "sB": 191
+  },
+  {
+    "index": 481,
+    "class": "恒",
+    "uuid": "YN0034-4",
+    "colorName": "琵琶風",
+    "colorNameEn": "Pipa Wind",
+    "sR": 246,
+    "sG": 216,
+    "sB": 163
+  },
+  {
+    "index": 482,
+    "class": "恒",
+    "uuid": "YC3101-4",
+    "colorName": "黃金海岸",
+    "colorNameEn": "Glisten",
+    "sR": 245,
+    "sG": 234,
+    "sB": 204
+  },
+  {
+    "index": 483,
+    "class": "恒",
+    "uuid": "YN3351-4",
+    "colorName": "石英砂",
+    "colorNameEn": "Yellow Quartz",
+    "sR": 242,
+    "sG": 226,
+    "sB": 187
+  },
+  {
+    "index": 484,
+    "class": "恒",
+    "uuid": "YN3360-4",
+    "colorName": "流光溢彩",
+    "colorNameEn": "Polk Gold",
+    "sR": 247,
+    "sG": 219,
+    "sB": 173
+  },
+  {
+    "index": 485,
+    "class": "恒",
+    "uuid": "YN3308-4",
+    "colorName": "殘月",
+    "colorNameEn": "Moonshine",
+    "sR": 245,
+    "sG": 234,
+    "sB": 208
+  },
+  {
+    "index": 486,
+    "class": "恒",
+    "uuid": "NN4810-4",
+    "colorName": "初冬街景",
+    "colorNameEn": "Winter's Edge",
+    "sR": 235,
+    "sG": 217,
+    "sB": 182
+  },
+  {
+    "index": 487,
+    "class": "恒",
+    "uuid": "NN4801-4",
+    "colorName": "埃及豔後",
+    "colorNameEn": "Cleo",
+    "sR": 240,
+    "sG": 230,
+    "sB": 210
+  },
+  {
+    "index": 488,
+    "class": "恒",
+    "uuid": "NN4851-4",
+    "colorName": "切爾沙的世界",
+    "colorNameEn": "Chelsea",
+    "sR": 249,
+    "sG": 228,
+    "sB": 196
+  },
+  {
+    "index": 489,
+    "class": "恒",
+    "uuid": "NN3810-4",
+    "colorName": "午後戈壁",
+    "colorNameEn": "Sand Dollar",
+    "sR": 228,
+    "sG": 209,
+    "sB": 179
+  },
+  {
+    "index": 490,
+    "class": "恒",
+    "uuid": "NN4701-4",
+    "colorName": "珍珠光華",
+    "colorNameEn": "Pearly Gates",
+    "sR": 239,
+    "sG": 229,
+    "sB": 211
+  },
+  {
+    "index": 491,
+    "class": "恒",
+    "uuid": "NN4710-4",
+    "colorName": "蟠桃",
+    "colorNameEn": "Deauville",
+    "sR": 231,
+    "sG": 215,
+    "sB": 192
+  },
+  {
+    "index": 492,
+    "class": "恒",
+    "uuid": "YN0040-4",
+    "colorName": "芝心",
+    "colorNameEn": "Cheezy Crust",
+    "sR": 248,
+    "sG": 235,
+    "sB": 210
+  },
+  {
+    "index": 493,
+    "class": "恒",
+    "uuid": "YN0042-4",
+    "colorName": "淳美豆香",
+    "colorNameEn": "Pure Beans",
+    "sR": 248,
+    "sG": 216,
+    "sB": 172
+  },
+  {
+    "index": 494,
+    "class": "恒",
+    "uuid": "YN3601-4",
+    "colorName": "香草黃",
+    "colorNameEn": "Vanilla Cream",
+    "sR": 244,
+    "sG": 229,
+    "sB": 204
+  },
+  {
+    "index": 495,
+    "class": "恒",
+    "uuid": "YN3651-4",
+    "colorName": "清風明月",
+    "colorNameEn": "Moondance",
+    "sR": 253,
+    "sG": 221,
+    "sB": 177
+  },
+  {
+    "index": 496,
+    "class": "恒",
+    "uuid": "YN3701-4",
+    "colorName": "象牙",
+    "colorNameEn": "Ivory Tusk",
+    "sR": 255,
+    "sG": 242,
+    "sB": 215
+  },
+  {
+    "index": 497,
+    "class": "恒",
+    "uuid": "YN3751-4",
+    "colorName": "鄉村印象",
+    "colorNameEn": "Provincial Tan",
+    "sR": 247,
+    "sG": 224,
+    "sB": 192
+  },
+  {
+    "index": 498,
+    "class": "恒",
+    "uuid": "YN0050-4",
+    "colorName": "醇香蜂蜜",
+    "colorNameEn": "Fragrance Honey",
+    "sR": 248,
+    "sG": 217,
+    "sB": 177
+  },
+  {
+    "index": 499,
+    "class": "恒",
+    "uuid": "ON2710-4-A",
+    "colorName": "曼陀羅",
+    "colorNameEn": "",
+    "sR": 240,
+    "sG": 193,
+    "sB": 141
+  },
+  {
+    "index": 500,
+    "class": "恒",
+    "uuid": "YN0041-4",
+    "colorName": "綿密絲語",
+    "colorNameEn": "Silk Floss Words",
+    "sR": 246,
+    "sG": 231,
+    "sB": 212
+  },
+  {
+    "index": 501,
+    "class": "恒",
+    "uuid": "YN0056-4",
+    "colorName": "樓蘭古城",
+    "colorNameEn": "Loulan Old City",
+    "sR": 245,
+    "sG": 220,
+    "sB": 190
+  },
+  {
+    "index": 502,
+    "class": "恒",
+    "uuid": "YN0058-4",
+    "colorName": "軟陶",
+    "colorNameEn": "Painted Pottery",
+    "sR": 239,
+    "sG": 200,
+    "sB": 159
+  },
+  {
+    "index": 503,
+    "class": "恒",
+    "uuid": "YN3807-4",
+    "colorName": "素色",
+    "colorNameEn": "Tint",
+    "sR": 250,
+    "sG": 241,
+    "sB": 226
+  },
+  {
+    "index": 504,
+    "class": "恒",
+    "uuid": "NN4751-4",
+    "colorName": "金色牧場",
+    "colorNameEn": "Plantation White",
+    "sR": 233,
+    "sG": 217,
+    "sB": 196
+  },
+  {
+    "index": 505,
+    "class": "恒",
+    "uuid": "ON1908-4",
+    "colorName": "法式麵包",
+    "colorNameEn": "Pita Bread",
+    "sR": 246,
+    "sG": 229,
+    "sB": 206
+  },
+  {
+    "index": 506,
+    "class": "恒",
+    "uuid": "ON0034-4",
+    "colorName": "逐夢精靈",
+    "colorNameEn": "Elves Catching Dreams",
+    "sR": 248,
+    "sG": 220,
+    "sB": 190
+  },
+  {
+    "index": 507,
+    "class": "恒",
+    "uuid": "NN0025-4",
+    "colorName": "麥芽糖",
+    "colorNameEn": "Maltose",
+    "sR": 232,
+    "sG": 198,
+    "sB": 162
+  },
+  {
+    "index": 508,
+    "class": "恒",
+    "uuid": "NN3401-4",
+    "colorName": "荷蘭乳酪",
+    "colorNameEn": "Dutch Cream",
+    "sR": 244,
+    "sG": 224,
+    "sB": 204
+  },
+  {
+    "index": 509,
+    "class": "恒",
+    "uuid": "NN3551-4",
+    "colorName": "柔軟白沙",
+    "colorNameEn": "Bleached Sand",
+    "sR": 241,
+    "sG": 217,
+    "sB": 185
+  },
+  {
+    "index": 510,
+    "class": "恒",
+    "uuid": "NN0019-4",
+    "colorName": "溫柔時光",
+    "colorNameEn": "Warming Time",
+    "sR": 229,
+    "sG": 204,
+    "sB": 179
+  },
+  {
+    "index": 511,
+    "class": "恒",
+    "uuid": "YN0069-4",
+    "colorName": "象牙塔",
+    "colorNameEn": "Tower Of Ivory",
+    "sR": 246,
+    "sG": 235,
+    "sB": 219
+  },
+  {
+    "index": 512,
+    "class": "恒",
+    "uuid": "NN3451-4",
+    "colorName": "曼哈頓印象",
+    "colorNameEn": "Manhattan Beige",
+    "sR": 226,
+    "sG": 206,
+    "sB": 186
+  },
+  {
+    "index": 513,
+    "class": "恒",
+    "uuid": "NN3560-4",
+    "colorName": "駝毛",
+    "colorNameEn": "Camel's Hair",
+    "sR": 226,
+    "sG": 201,
+    "sB": 177
+  },
+  {
+    "index": 514,
+    "class": "恒",
+    "uuid": "NN2307-4",
+    "colorName": "星辰",
+    "colorNameEn": "Sandy Star",
+    "sR": 241,
+    "sG": 227,
+    "sB": 213
+  },
+  {
+    "index": 515,
+    "class": "恒",
+    "uuid": "NN2007-4",
+    "colorName": "流沙",
+    "colorNameEn": "Berkshire Lace",
+    "sR": 237,
+    "sG": 220,
+    "sB": 202
+  },
+  {
+    "index": 516,
+    "class": "恒",
+    "uuid": "NN3410-4",
+    "colorName": "稻花香",
+    "colorNameEn": "Rice Puff",
+    "sR": 228,
+    "sG": 200,
+    "sB": 174
+  },
+  {
+    "index": 517,
+    "class": "恒",
+    "uuid": "ON0065-4",
+    "colorName": "古董白",
+    "colorNameEn": "Antique White",
+    "sR": 245,
+    "sG": 231,
+    "sB": 216
+  },
+  {
+    "index": 518,
+    "class": "恒",
+    "uuid": "NN2560-4",
+    "colorName": "可哥果凍",
+    "colorNameEn": "Cocoa Parfait",
+    "sR": 221,
+    "sG": 205,
+    "sB": 191
+  },
+  {
+    "index": 519,
+    "class": "恒",
+    "uuid": "NN2410-4",
+    "colorName": "陶土",
+    "colorNameEn": "Caramic Beige",
+    "sR": 217,
+    "sG": 188,
+    "sB": 165
+  },
+  {
+    "index": 520,
+    "class": "恒",
+    "uuid": "ON0026-4",
+    "colorName": "清新優雅",
+    "colorNameEn": "Elegant Fresh",
+    "sR": 249,
+    "sG": 232,
+    "sB": 213
+  },
+  {
+    "index": 521,
+    "class": "恒",
+    "uuid": "ON1851-4",
+    "colorName": "昨日再現",
+    "colorNameEn": "Abbeystone",
+    "sR": 249,
+    "sG": 214,
+    "sB": 184
+  },
+  {
+    "index": 522,
+    "class": "恒",
+    "uuid": "ON0068-4",
+    "colorName": "鳳梨凍",
+    "colorNameEn": "Pineapple Jelly",
+    "sR": 238,
+    "sG": 194,
+    "sB": 160
+  },
+  {
+    "index": 523,
+    "class": "恒",
+    "uuid": "NN2101-4",
+    "colorName": "柔美肌膚",
+    "colorNameEn": "Fair Complexion",
+    "sR": 241,
+    "sG": 220,
+    "sB": 202
+  },
+  {
+    "index": 524,
+    "class": "恒",
+    "uuid": "NN2051-4",
+    "colorName": "胡桃彩",
+    "colorNameEn": "Powder Puff",
+    "sR": 236,
+    "sG": 206,
+    "sB": 182
+  },
+  {
+    "index": 525,
+    "class": "恒",
+    "uuid": "NN2010-4",
+    "colorName": "玫瑰花蜜",
+    "colorNameEn": "Honey Rose",
+    "sR": 234,
+    "sG": 194,
+    "sB": 165
+  },
+  {
+    "index": 526,
+    "class": "恒",
+    "uuid": "NN0901-4",
+    "colorName": "風塵僕僕",
+    "colorNameEn": "Dune Beige",
+    "sR": 237,
+    "sG": 223,
+    "sB": 211
+  },
+  {
+    "index": 527,
+    "class": "恒",
+    "uuid": "NN2001-4",
+    "colorName": "香子蘭",
+    "colorNameEn": "Vanilla Ice",
+    "sR": 238,
+    "sG": 214,
+    "sB": 196
+  },
+  {
+    "index": 528,
+    "class": "恒",
+    "uuid": "NN2060-4",
+    "colorName": "高原羊駝",
+    "colorNameEn": "Vicuna",
+    "sR": 223,
+    "sG": 184,
+    "sB": 159
+  },
+  {
+    "index": 529,
+    "class": "恒",
+    "uuid": "NN2108-4",
+    "colorName": "鋸葉草",
+    "colorNameEn": "Peach Statice",
+    "sR": 244,
+    "sG": 223,
+    "sB": 207
+  },
+  {
+    "index": 530,
+    "class": "恒",
+    "uuid": "ON0093-4",
+    "colorName": "可哥松餅",
+    "colorNameEn": "Cocoa Puff",
+    "sR": 247,
+    "sG": 219,
+    "sB": 196
+  },
+  {
+    "index": 531,
+    "class": "恒",
+    "uuid": "ON2310-4",
+    "colorName": "淺杏",
+    "colorNameEn": "Light Apricot",
+    "sR": 238,
+    "sG": 194,
+    "sB": 167
+  },
+  {
+    "index": 532,
+    "class": "恒",
+    "uuid": "ON0079-4",
+    "colorName": "淡雅韻味",
+    "colorNameEn": "Elegant Aroma",
+    "sR": 248,
+    "sG": 225,
+    "sB": 205
+  },
+  {
+    "index": 533,
+    "class": "恒",
+    "uuid": "ON1810-4",
+    "colorName": "橙花油",
+    "colorNameEn": "Orange Paste",
+    "sR": 255,
+    "sG": 194,
+    "sB": 149
+  },
+  {
+    "index": 534,
+    "class": "恒",
+    "uuid": "ON2301-4",
+    "colorName": "飛絮",
+    "colorNameEn": "Apricot Fluff",
+    "sR": 245,
+    "sG": 225,
+    "sB": 208
+  },
+  {
+    "index": 535,
+    "class": "恒",
+    "uuid": "OC0039-4",
+    "colorName": "絲襪奶茶",
+    "colorNameEn": "Stocking Milk Tea",
+    "sR": 245,
+    "sG": 213,
+    "sB": 191
+  },
+  {
+    "index": 536,
+    "class": "恒",
+    "uuid": "OC0047-4",
+    "colorName": "白杏色",
+    "colorNameEn": "Blanched Almond",
+    "sR": 262,
+    "sG": 246,
+    "sB": 234
+  },
+  {
+    "index": 537,
+    "class": "恒",
+    "uuid": "ON0095-4",
+    "colorName": "纖舞",
+    "colorNameEn": "Fiber Dance",
+    "sR": 245,
+    "sG": 214,
+    "sB": 194
+  },
+  {
+    "index": 538,
+    "class": "恒",
+    "uuid": "OC1760-4",
+    "colorName": "蟠桃彩",
+    "colorNameEn": "Angel Peach",
+    "sR": 248,
+    "sG": 200,
+    "sB": 173
+  },
+  {
+    "index": 539,
+    "class": "恒",
+    "uuid": "NN1801-4",
+    "colorName": "櫻花彩",
+    "colorNameEn": "Peach Beige",
+    "sR": 254,
+    "sG": 219,
+    "sB": 198
+  },
+  {
+    "index": 540,
+    "class": "恒",
+    "uuid": "NN0049-4",
+    "colorName": "橙意粉",
+    "colorNameEn": "Orange Pink",
+    "sR": 236,
+    "sG": 201,
+    "sB": 182
+  },
+  {
+    "index": 541,
+    "class": "恒",
+    "uuid": "NN2110-4",
+    "colorName": "醇香乳酪",
+    "colorNameEn": "Irish Cream",
+    "sR": 225,
+    "sG": 188,
+    "sB": 168
+  },
+  {
+    "index": 542,
+    "class": "恒",
+    "uuid": "NN2507-4",
+    "colorName": "麥鄉野花",
+    "colorNameEn": "Madonna Lily",
+    "sR": 241,
+    "sG": 228,
+    "sB": 216
+  },
+  {
+    "index": 543,
+    "class": "恒",
+    "uuid": "OC2208-4",
+    "colorName": "想往",
+    "colorNameEn": "Peach Everlasting",
+    "sR": 244,
+    "sG": 224,
+    "sB": 210
+  },
+  {
+    "index": 544,
+    "class": "恒",
+    "uuid": "NN2160-4",
+    "colorName": "大漠風情",
+    "colorNameEn": "Desert Sand",
+    "sR": 217,
+    "sG": 181,
+    "sB": 163
+  },
+  {
+    "index": 545,
+    "class": "恒",
+    "uuid": "OC1701-4",
+    "colorName": "玉米彩",
+    "colorNameEn": "September Cream",
+    "sR": 254,
+    "sG": 226,
+    "sB": 202
+  },
+  {
+    "index": 546,
+    "class": "恒",
+    "uuid": "OC0044-4",
+    "colorName": "江邊映日",
+    "colorNameEn": "Sun Along The River",
+    "sR": 242,
+    "sG": 204,
+    "sB": 183
+  },
+  {
+    "index": 547,
+    "class": "恒",
+    "uuid": "OC0040-4",
+    "colorName": "三月東京",
+    "colorNameEn": "March In Tokyo",
+    "sR": 233,
+    "sG": 185,
+    "sB": 158
+  },
+  {
+    "index": 548,
+    "class": "恒",
+    "uuid": "OC0031-4",
+    "colorName": "精靈新娘",
+    "colorNameEn": "Elves Bride",
+    "sR": 247,
+    "sG": 221,
+    "sB": 205
+  },
+  {
+    "index": 549,
+    "class": "恒",
+    "uuid": "OC2260-4",
+    "colorName": "三月桃花",
+    "colorNameEn": "Petal Peach",
+    "sR": 235,
+    "sG": 187,
+    "sB": 161
+  },
+  {
+    "index": 550,
+    "class": "恒",
+    "uuid": "NN1108-4",
+    "colorName": "粉紅蕾絲",
+    "colorNameEn": "Irish Lace",
+    "sR": 243,
+    "sG": 228,
+    "sB": 217
+  },
+  {
+    "index": 551,
+    "class": "恒",
+    "uuid": "NN1101-4",
+    "colorName": "小樺樹",
+    "colorNameEn": "Baby Birch",
+    "sR": 238,
+    "sG": 220,
+    "sB": 208
+  },
+  {
+    "index": 552,
+    "class": "恒",
+    "uuid": "NN1160-4",
+    "colorName": "凝褐",
+    "colorNameEn": "Tan Wisp",
+    "sR": 218,
+    "sG": 183,
+    "sB": 167
+  },
+  {
+    "index": 553,
+    "class": "恒",
+    "uuid": "ON1601-4",
+    "colorName": "粉色象牙",
+    "colorNameEn": "Ivanhoe Ivory",
+    "sR": 246,
+    "sG": 221,
+    "sB": 204
+  },
+  {
+    "index": 554,
+    "class": "恒",
+    "uuid": "OC1751-4",
+    "colorName": "桃花彩",
+    "colorNameEn": "Peach Whisper",
+    "sR": 250,
+    "sG": 213,
+    "sB": 194
+  },
+  {
+    "index": 555,
+    "class": "恒",
+    "uuid": "OC2210-4",
+    "colorName": "貝殼",
+    "colorNameEn": "Shell Corn",
+    "sR": 233,
+    "sG": 186,
+    "sB": 164
+  },
+  {
+    "index": 556,
+    "class": "恒",
+    "uuid": "OC0023-4",
+    "colorName": "淡奶泡沫",
+    "colorNameEn": "Evaporated Milk Foam",
+    "sR": 248,
+    "sG": 228,
+    "sB": 215
+  },
+  {
+    "index": 557,
+    "class": "恒",
+    "uuid": "OC2201-4",
+    "colorName": "人面桃花",
+    "colorNameEn": "Tender Pink",
+    "sR": 247,
+    "sG": 219,
+    "sB": 203
+  },
+  {
+    "index": 558,
+    "class": "恒",
+    "uuid": "OC0024-4",
+    "colorName": "都市甜心",
+    "colorNameEn": "Urban Honey",
+    "sR": 237,
+    "sG": 194,
+    "sB": 175
+  },
+  {
+    "index": 559,
+    "class": "恒",
+    "uuid": "RN0707-4",
+    "colorName": "粉茉莉",
+    "colorNameEn": "Jasmine Flower",
+    "sR": 242,
+    "sG": 227,
+    "sB": 218
+  },
+  {
+    "index": 560,
+    "class": "恒",
+    "uuid": "RN1401-4",
+    "colorName": "天然一色",
+    "colorNameEn": "Cosmetic Pink",
+    "sR": 243,
+    "sG": 222,
+    "sB": 211
+  },
+  {
+    "index": 561,
+    "class": "恒",
+    "uuid": "RN0077-4",
+    "colorName": "花姿",
+    "colorNameEn": "Flower Gesture",
+    "sR": 240,
+    "sG": 202,
+    "sB": 190
+  },
+  {
+    "index": 562,
+    "class": "恒",
+    "uuid": "NN1110-4",
+    "colorName": "鄉村小徑",
+    "colorNameEn": "Country Way",
+    "sR": 220,
+    "sG": 170,
+    "sB": 154
+  },
+  {
+    "index": 563,
+    "class": "恒",
+    "uuid": "NN0013-4",
+    "colorName": "法國橙花",
+    "colorNameEn": "French Orange Flower",
+    "sR": 240,
+    "sG": 220,
+    "sB": 214
+  },
+  {
+    "index": 564,
+    "class": "恒",
+    "uuid": "NN0050-4",
+    "colorName": "小雛菊",
+    "colorNameEn": "Daisy",
+    "sR": 231,
+    "sG": 207,
+    "sB": 198
+  },
+  {
+    "index": 565,
+    "class": "恒",
+    "uuid": "NN0017-4",
+    "colorName": "琥珀粉",
+    "colorNameEn": "Amber",
+    "sR": 222,
+    "sG": 180,
+    "sB": 167
+  },
+  {
+    "index": 566,
+    "class": "恒",
+    "uuid": "RN0068-4",
+    "colorName": "嫦娥",
+    "colorNameEn": "Goddess In The Moon",
+    "sR": 245,
+    "sG": 226,
+    "sB": 218
+  },
+  {
+    "index": 567,
+    "class": "恒",
+    "uuid": "NN1001-4",
+    "colorName": "豔影",
+    "colorNameEn": "Pink Shadow",
+    "sR": 233,
+    "sG": 208,
+    "sB": 197
+  },
+  {
+    "index": 568,
+    "class": "恒",
+    "uuid": "NN1060-4",
+    "colorName": "歡快小鹿",
+    "colorNameEn": "Young Doe",
+    "sR": 209,
+    "sG": 168,
+    "sB": 158
+  },
+  {
+    "index": 569,
+    "class": "恒",
+    "uuid": "OC0017-4",
+    "colorName": "柔美色",
+    "colorNameEn": "Gentle Colour",
+    "sR": 249,
+    "sG": 226,
+    "sB": 214
+  },
+  {
+    "index": 570,
+    "class": "恒",
+    "uuid": "OC0018-4",
+    "colorName": "浣紗",
+    "colorNameEn": "Clothes Washing",
+    "sR": 244,
+    "sG": 205,
+    "sB": 190
+  },
+  {
+    "index": 571,
+    "class": "恒",
+    "uuid": "OC1610-4",
+    "colorName": "日光浴",
+    "colorNameEn": "Bath Salt",
+    "sR": 243,
+    "sG": 187,
+    "sB": 170
+  },
+  {
+    "index": 572,
+    "class": "恒",
+    "uuid": "RN1508-4",
+    "colorName": "玫瑰石",
+    "colorNameEn": "Cameo Rose",
+    "sR": 246,
+    "sG": 219,
+    "sB": 210
+  },
+  {
+    "index": 573,
+    "class": "恒",
+    "uuid": "RN1410-4",
+    "colorName": "嫵媚嬌娃",
+    "colorNameEn": "Rosy Flesh",
+    "sR": 243,
+    "sG": 194,
+    "sB": 184
+  },
+  {
+    "index": 574,
+    "class": "恒",
+    "uuid": "RN0069-4",
+    "colorName": "淡粉迷香",
+    "colorNameEn": "Light Pink Rosemary",
+    "sR": 249,
+    "sG": 222,
+    "sB": 212
+  },
+  {
+    "index": 575,
+    "class": "恒",
+    "uuid": "RN0067-4",
+    "colorName": "豐潤映射",
+    "colorNameEn": "Plump Image",
+    "sR": 250,
+    "sG": 201,
+    "sB": 189
+  },
+  {
+    "index": 576,
+    "class": "恒",
+    "uuid": "RN1560-4",
+    "colorName": "玫瑰紅",
+    "colorNameEn": "Persian Melon",
+    "sR": 243,
+    "sG": 182,
+    "sB": 174
+  },
+  {
+    "index": 577,
+    "class": "恒",
+    "uuid": "RC0098-4",
+    "colorName": "魅惑巴黎",
+    "colorNameEn": "Charming Paris",
+    "sR": 243,
+    "sG": 217,
+    "sB": 214
+  },
+  {
+    "index": 578,
+    "class": "恒",
+    "uuid": "NN0014-4",
+    "colorName": "煙灰粉",
+    "colorNameEn": "Strawberry Milk",
+    "sR": 230,
+    "sG": 191,
+    "sB": 186
+  },
+  {
+    "index": 579,
+    "class": "恒",
+    "uuid": "NN1010-4",
+    "colorName": "成熟漿果",
+    "colorNameEn": "Tanberry",
+    "sR": 207,
+    "sG": 161,
+    "sB": 154
+  },
+  {
+    "index": 580,
+    "class": "恒",
+    "uuid": "NN0851-4",
+    "colorName": "祥雲飄渺",
+    "colorNameEn": "Mauve Mist",
+    "sR": 219,
+    "sG": 193,
+    "sB": 189
+  },
+  {
+    "index": 581,
+    "class": "恒",
+    "uuid": "NN0910-4",
+    "colorName": "春風桃紅",
+    "colorNameEn": "Cinnaswirl",
+    "sR": 208,
+    "sG": 171,
+    "sB": 170
+  },
+  {
+    "index": 582,
+    "class": "恒",
+    "uuid": "RN0608-4",
+    "colorName": "水彩畫",
+    "colorNameEn": "Fresco",
+    "sR": 240,
+    "sG": 214,
+    "sB": 211
+  },
+  {
+    "index": 583,
+    "class": "恒",
+    "uuid": "RN0551-4",
+    "colorName": "靜若處子",
+    "colorNameEn": "Spring Bud",
+    "sR": 243,
+    "sG": 200,
+    "sB": 202
+  },
+  {
+    "index": 584,
+    "class": "恒",
+    "uuid": "RN0560-4",
+    "colorName": "千嬌百媚",
+    "colorNameEn": "Pink Lustre",
+    "sR": 230,
+    "sG": 174,
+    "sB": 177
+  },
+  {
+    "index": 585,
+    "class": "恒",
+    "uuid": "RN0026-4",
+    "colorName": "天使之翼",
+    "colorNameEn": "Angel Wings",
+    "sR": 246,
+    "sG": 224,
+    "sB": 221
+  },
+  {
+    "index": 586,
+    "class": "恒",
+    "uuid": "RN0037-4",
+    "colorName": "蓓蕾綻放",
+    "colorNameEn": "Bud Blooms",
+    "sR": 234,
+    "sG": 186,
+    "sB": 187
+  },
+  {
+    "index": 587,
+    "class": "恒",
+    "uuid": "RN0029-4",
+    "colorName": "空谷幽蘭",
+    "colorNameEn": "Vacant Valley Orchids",
+    "sR": 222,
+    "sG": 162,
+    "sB": 169
+  },
+  {
+    "index": 588,
+    "class": "恒",
+    "uuid": "RC0201-4",
+    "colorName": "大花蕙蘭",
+    "colorNameEn": "Lightest Lavender",
+    "sR": 241,
+    "sG": 221,
+    "sB": 219
+  },
+  {
+    "index": 589,
+    "class": "恒",
+    "uuid": "RN0027-4",
+    "colorName": "窈窕淑女",
+    "colorNameEn": "Quiet And Modest Maiden",
+    "sR": 238,
+    "sG": 200,
+    "sB": 203
+  },
+  {
+    "index": 590,
+    "class": "恒",
+    "uuid": "RN0451-4",
+    "colorName": "親親寶貝",
+    "colorNameEn": "Baby Girl",
+    "sR": 235,
+    "sG": 194,
+    "sB": 201
+  },
+  {
+    "index": 591,
+    "class": "恒",
+    "uuid": "RN0308-4",
+    "colorName": "仙鶴紅",
+    "colorNameEn": "Pink Stork",
+    "sR": 239,
+    "sG": 221,
+    "sB": 220
+  },
+  {
+    "index": 592,
+    "class": "恒",
+    "uuid": "RN0408-4",
+    "colorName": "孔雀紅",
+    "colorNameEn": "Pigtail Pink",
+    "sR": 236,
+    "sG": 210,
+    "sB": 211
+  },
+  {
+    "index": 593,
+    "class": "恒",
+    "uuid": "NN0810-4",
+    "colorName": "薔薇",
+    "colorNameEn": "Mission Rose",
+    "sR": 211,
+    "sG": 178,
+    "sB": 180
+  },
+  {
+    "index": 594,
+    "class": "恒",
+    "uuid": "RN0005-4",
+    "colorName": "春櫻",
+    "colorNameEn": "Spring Sakura",
+    "sR": 248,
+    "sG": 222,
+    "sB": 223
+  },
+  {
+    "index": 595,
+    "class": "恒",
+    "uuid": "RN0006-4",
+    "colorName": "戀愛之色",
+    "colorNameEn": "Colour Of Love",
+    "sR": 242,
+    "sG": 207,
+    "sB": 215
+  },
+  {
+    "index": 596,
+    "class": "恒",
+    "uuid": "RN0008-4",
+    "colorName": "生如夏花",
+    "colorNameEn": "Summer Flowers",
+    "sR": 229,
+    "sG": 175,
+    "sB": 191
+  },
+  {
+    "index": 597,
+    "class": "恒",
+    "uuid": "RN0407-4",
+    "colorName": "燭光",
+    "colorNameEn": "Candy Mix",
+    "sR": 239,
+    "sG": 220,
+    "sB": 222
+  },
+  {
+    "index": 598,
+    "class": "恒",
+    "uuid": "RN0360-4",
+    "colorName": "傲霜冬梅",
+    "colorNameEn": "Petal Pink",
+    "sR": 235,
+    "sG": 192,
+    "sB": 204
+  },
+  {
+    "index": 599,
+    "class": "恒",
+    "uuid": "RN0022-4",
+    "colorName": "海棠花香",
+    "colorNameEn": "Begonia Blooms",
+    "sR": 222,
+    "sG": 169,
+    "sB": 180
+  },
+  {
+    "index": 600,
+    "class": "恒",
+    "uuid": "RN0208-4",
+    "colorName": "芭蕾舞",
+    "colorNameEn": "Ballerina",
+    "sR": 237,
+    "sG": 219,
+    "sB": 219
+  },
+  {
+    "index": 601,
+    "class": "恒",
+    "uuid": "RC0251-4",
+    "colorName": "荷仙姑",
+    "colorNameEn": "Parasol Pink",
+    "sR": 230,
+    "sG": 205,
+    "sB": 211
+  },
+  {
+    "index": 602,
+    "class": "恒",
+    "uuid": "RC0310-4",
+    "colorName": "羞答答",
+    "colorNameEn": "Debutante Pink",
+    "sR": 234,
+    "sG": 190,
+    "sB": 207
+  },
+  {
+    "index": 603,
+    "class": "恒",
+    "uuid": "VN0074-4",
+    "colorName": "西西里島",
+    "colorNameEn": "Sicily",
+    "sR": 234,
+    "sG": 223,
+    "sB": 228
+  },
+  {
+    "index": 604,
+    "class": "恒",
+    "uuid": "VN0151-4",
+    "colorName": "西洋丁香",
+    "colorNameEn": "Lilac Mauve",
+    "sR": 234,
+    "sG": 210,
+    "sB": 216
+  },
+  {
+    "index": 605,
+    "class": "恒",
+    "uuid": "VN0050-4",
+    "colorName": "櫻落",
+    "colorNameEn": "Red Bean Mochi",
+    "sR": 217,
+    "sG": 175,
+    "sB": 195
+  },
+  {
+    "index": 606,
+    "class": "恒",
+    "uuid": "VC0049-4",
+    "colorName": "柔靜",
+    "colorNameEn": "Gentle And Quiet",
+    "sR": 228,
+    "sG": 217,
+    "sB": 229
+  },
+  {
+    "index": 607,
+    "class": "恒",
+    "uuid": "VN0071-4",
+    "colorName": "愛麗絲夢境",
+    "colorNameEn": "Alice's Dreams",
+    "sR": 222,
+    "sG": 205,
+    "sB": 220
+  },
+  {
+    "index": 608,
+    "class": "恒",
+    "uuid": "VN0073-4",
+    "colorName": "霧都戀人",
+    "colorNameEn": "Lovers In Fog City",
+    "sR": 211,
+    "sG": 186,
+    "sB": 203
+  },
+  {
+    "index": 609,
+    "class": "恒",
+    "uuid": "VC0056-4",
+    "colorName": "酸甜蜜果",
+    "colorNameEn": "Sour Sweet Fruit",
+    "sR": 230,
+    "sG": 221,
+    "sB": 232
+  },
+  {
+    "index": 610,
+    "class": "恒",
+    "uuid": "VC0057-4",
+    "colorName": "香霧",
+    "colorNameEn": "Fragrant Mist",
+    "sR": 231,
+    "sG": 212,
+    "sB": 228
+  },
+  {
+    "index": 611,
+    "class": "恒",
+    "uuid": "VN0110-4",
+    "colorName": "繡線菊",
+    "colorNameEn": "Meadow Sweet",
+    "sR": 215,
+    "sG": 184,
+    "sB": 203
+  },
+  {
+    "index": 612,
+    "class": "恒",
+    "uuid": "VN0054-4",
+    "colorName": "櫻花冰淇淋",
+    "colorNameEn": "Sakura Ice-cream",
+    "sR": 234,
+    "sG": 225,
+    "sB": 231
+  },
+  {
+    "index": 613,
+    "class": "恒",
+    "uuid": "VN0055-4",
+    "colorName": "粉色琥珀",
+    "colorNameEn": "Pink Amber",
+    "sR": 217,
+    "sG": 209,
+    "sB": 216
+  },
+  {
+    "index": 614,
+    "class": "恒",
+    "uuid": "VN0056-4",
+    "colorName": "杏花村",
+    "colorNameEn": "Apricot flower",
+    "sR": 205,
+    "sG": 191,
+    "sB": 204
+  },
+  {
+    "index": 615,
+    "class": "恒",
+    "uuid": "VN0075-4",
+    "colorName": "木槿怡人",
+    "colorNameEn": "Pleasant Hibiscus",
+    "sR": 223,
+    "sG": 213,
+    "sB": 224
+  },
+  {
+    "index": 616,
+    "class": "恒",
+    "uuid": "VN0076-4",
+    "colorName": "倩紫",
+    "colorNameEn": "Pretty Purple",
+    "sR": 215,
+    "sG": 201,
+    "sB": 216
+  },
+  {
+    "index": 617,
+    "class": "恒",
+    "uuid": "VN0077-4",
+    "colorName": "優雅紫",
+    "colorNameEn": "Elegant Purple",
+    "sR": 197,
+    "sG": 181,
+    "sB": 204
+  },
+  {
+    "index": 618,
+    "class": "恒",
+    "uuid": "VN0082-4",
+    "colorName": "夢幻精靈",
+    "colorNameEn": "Fantasy Fairies",
+    "sR": 224,
+    "sG": 216,
+    "sB": 226
+  },
+  {
+    "index": 619,
+    "class": "恒",
+    "uuid": "VN0083-4",
+    "colorName": "索菲亞",
+    "colorNameEn": "Sophia",
+    "sR": 217,
+    "sG": 205,
+    "sB": 221
+  },
+  {
+    "index": 620,
+    "class": "恒",
+    "uuid": "VN0084-4",
+    "colorName": "紫絨花",
+    "colorNameEn": "Purple Velvet Flowers",
+    "sR": 198,
+    "sG": 185,
+    "sB": 208
+  },
+  {
+    "index": 621,
+    "class": "恒",
+    "uuid": "VC0032-4",
+    "colorName": "藍莓奶昔",
+    "colorNameEn": "Blueberry Milkshakes",
+    "sR": 205,
+    "sG": 199,
+    "sB": 211
+  },
+  {
+    "index": 622,
+    "class": "恒",
+    "uuid": "VN0060-4",
+    "colorName": "紫月",
+    "colorNameEn": "Purple Moon",
+    "sR": 205,
+    "sG": 196,
+    "sB": 216
+  },
+  {
+    "index": 623,
+    "class": "恒",
+    "uuid": "VN0061-4",
+    "colorName": "藤本月季花",
+    "colorNameEn": "Climbing Roses",
+    "sR": 183,
+    "sG": 172,
+    "sB": 195
+  },
+  {
+    "index": 624,
+    "class": "恒",
+    "uuid": "VC7251-4",
+    "colorName": "夢幻丁香",
+    "colorNameEn": "Winsome Lilac",
+    "sR": 214,
+    "sG": 208,
+    "sB": 219
+  },
+  {
+    "index": 625,
+    "class": "恒",
+    "uuid": "VC7260-4",
+    "colorName": "丁香小溪",
+    "colorNameEn": "Lilac Brook",
+    "sR": 199,
+    "sG": 194,
+    "sB": 214
+  },
+  {
+    "index": 626,
+    "class": "恒",
+    "uuid": "VC7210-4",
+    "colorName": "葡萄掛露",
+    "colorNameEn": "Grape Sherbert",
+    "sR": 195,
+    "sG": 188,
+    "sB": 211
+  },
+  {
+    "index": 627,
+    "class": "恒",
+    "uuid": "VN0065-4",
+    "colorName": "紫色羽毛",
+    "colorNameEn": "Purple feather",
+    "sR": 210,
+    "sG": 214,
+    "sB": 231
+  },
+  {
+    "index": 628,
+    "class": "恒",
+    "uuid": "VN0066-4",
+    "colorName": "紫色眼影",
+    "colorNameEn": "Purple eye shadow",
+    "sR": 208,
+    "sG": 210,
+    "sB": 225
+  },
+  {
+    "index": 629,
+    "class": "恒",
+    "uuid": "VN0067-4",
+    "colorName": "紫色石楠花",
+    "colorNameEn": "Heather Purple",
+    "sR": 199,
+    "sG": 202,
+    "sB": 225
+  },
+  {
+    "index": 630,
+    "class": "恒",
+    "uuid": "VC0091-4",
+    "colorName": "鷗灰",
+    "colorNameEn": "Seagull Grey",
+    "sR": 207,
+    "sG": 213,
+    "sB": 222
+  },
+  {
+    "index": 631,
+    "class": "恒",
+    "uuid": "VC7160-4",
+    "colorName": "紫霧丁香",
+    "colorNameEn": "Misty Lilac",
+    "sR": 186,
+    "sG": 193,
+    "sB": 211
+  },
+  {
+    "index": 632,
+    "class": "恒",
+    "uuid": "VC0092-4",
+    "colorName": "紫玫瑰",
+    "colorNameEn": "Purple Rugose Rose",
+    "sR": 165,
+    "sG": 177,
+    "sB": 199
+  },
+  {
+    "index": 633,
+    "class": "恒",
+    "uuid": "VN0081-4",
+    "colorName": "微風記憶",
+    "colorNameEn": "The Breeze Memory",
+    "sR": 228,
+    "sG": 228,
+    "sB": 231
+  },
+  {
+    "index": 634,
+    "class": "恒",
+    "uuid": "VC7151-4",
+    "colorName": "夜來香",
+    "colorNameEn": "Evening Haze",
+    "sR": 201,
+    "sG": 205,
+    "sB": 215
+  },
+  {
+    "index": 635,
+    "class": "恒",
+    "uuid": "VC7760-4",
+    "colorName": "波斯綢",
+    "colorNameEn": "Persian Silk",
+    "sR": 183,
+    "sG": 194,
+    "sB": 206
+  },
+  {
+    "index": 636,
+    "class": "恒",
+    "uuid": "VC0013-4",
+    "colorName": "灰色空間",
+    "colorNameEn": "The Gray Zone",
+    "sR": 208,
+    "sG": 219,
+    "sB": 227
+  },
+  {
+    "index": 637,
+    "class": "恒",
+    "uuid": "VC0014-4",
+    "colorName": "寒露",
+    "colorNameEn": "Cold Dew",
+    "sR": 189,
+    "sG": 203,
+    "sB": 218
+  },
+  {
+    "index": 638,
+    "class": "恒",
+    "uuid": "VC0015-4",
+    "colorName": "霜露",
+    "colorNameEn": "Frost And Dew",
+    "sR": 167,
+    "sG": 186,
+    "sB": 207
+  },
+  {
+    "index": 639,
+    "class": "恒",
+    "uuid": "BN0008-4",
+    "colorName": "淡淡憂鬱",
+    "colorNameEn": "Light Gloom",
+    "sR": 198,
+    "sG": 215,
+    "sB": 224
+  },
+  {
+    "index": 640,
+    "class": "恒",
+    "uuid": "BN6951-4",
+    "colorName": "勿忘我",
+    "colorNameEn": "Forget-Me-Not",
+    "sR": 192,
+    "sG": 213,
+    "sB": 224
+  },
+  {
+    "index": 641,
+    "class": "恒",
+    "uuid": "BN7610-4",
+    "colorName": "法國乳酪",
+    "colorNameEn": "Bleu Celeste",
+    "sR": 168,
+    "sG": 194,
+    "sB": 213
+  },
+  {
+    "index": 642,
+    "class": "恒",
+    "uuid": "BN0014-4",
+    "colorName": "淺藍晨霧",
+    "colorNameEn": "Shallow Blue Mist",
+    "sR": 197,
+    "sG": 218,
+    "sB": 229
+  },
+  {
+    "index": 643,
+    "class": "恒",
+    "uuid": "BN0009-4",
+    "colorName": "晚塘月色",
+    "colorNameEn": "Evening Pond Moonlight",
+    "sR": 189,
+    "sG": 212,
+    "sB": 225
+  },
+  {
+    "index": 644,
+    "class": "恒",
+    "uuid": "BN6860-4",
+    "colorName": "紫羅蘭",
+    "colorNameEn": "Blue Pansy",
+    "sR": 166,
+    "sG": 197,
+    "sB": 215
+  },
+  {
+    "index": 645,
+    "class": "恒",
+    "uuid": "BN0013-4",
+    "colorName": "雲天藍",
+    "colorNameEn": "Cloudy Blue Sky",
+    "sR": 204,
+    "sG": 223,
+    "sB": 230
+  },
+  {
+    "index": 646,
+    "class": "恒",
+    "uuid": "BN6851-4",
+    "colorName": "飄渺",
+    "colorNameEn": "Johnny Blue",
+    "sR": 199,
+    "sG": 229,
+    "sB": 239
+  },
+  {
+    "index": 647,
+    "class": "恒",
+    "uuid": "BC6810-4",
+    "colorName": "挪威藍",
+    "colorNameEn": "Norwegian Blue",
+    "sR": 162,
+    "sG": 205,
+    "sB": 220
+  },
+  {
+    "index": 648,
+    "class": "恒",
+    "uuid": "BN0011-4",
+    "colorName": "鑽石冰藍",
+    "colorNameEn": "Diamond Blue",
+    "sR": 204,
+    "sG": 230,
+    "sB": 240
+  },
+  {
+    "index": 649,
+    "class": "恒",
+    "uuid": "BN0017-4",
+    "colorName": "水鄉船曲",
+    "colorNameEn": "Song In Water Village",
+    "sR": 186,
+    "sG": 213,
+    "sB": 225
+  },
+  {
+    "index": 650,
+    "class": "恒",
+    "uuid": "BN7560-4",
+    "colorName": "仲夏夜之夢",
+    "colorNameEn": "Midsummer",
+    "sR": 168,
+    "sG": 197,
+    "sB": 210
+  },
+  {
+    "index": 651,
+    "class": "恒",
+    "uuid": "BN6907-4",
+    "colorName": "甜蜜遐想",
+    "colorNameEn": "Sweet Illusion",
+    "sR": 224,
+    "sG": 231,
+    "sB": 230
+  },
+  {
+    "index": 652,
+    "class": "恒",
+    "uuid": "BN0016-4",
+    "colorName": "霜藍",
+    "colorNameEn": "Azure",
+    "sR": 200,
+    "sG": 214,
+    "sB": 219
+  },
+  {
+    "index": 653,
+    "class": "恒",
+    "uuid": "BN7410-4",
+    "colorName": "飛燕草",
+    "colorNameEn": "Delphinium",
+    "sR": 158,
+    "sG": 194,
+    "sB": 208
+  },
+  {
+    "index": 654,
+    "class": "恒",
+    "uuid": "BC6708-4",
+    "colorName": "平靜海風",
+    "colorNameEn": "Ocean Breeze",
+    "sR": 221,
+    "sG": 243,
+    "sB": 245
+  },
+  {
+    "index": 655,
+    "class": "恒",
+    "uuid": "BC6410-4",
+    "colorName": "睡美人",
+    "colorNameEn": "Blue Goddess",
+    "sR": 181,
+    "sG": 210,
+    "sB": 216
+  },
+  {
+    "index": 656,
+    "class": "恒",
+    "uuid": "BN0018-4",
+    "colorName": "漁人碼頭",
+    "colorNameEn": "Fisherman's Pier",
+    "sR": 172,
+    "sG": 203,
+    "sB": 213
+  },
+  {
+    "index": 657,
+    "class": "恒",
+    "uuid": "BC6408-4",
+    "colorName": "戀巢雛鳥",
+    "colorNameEn": "Clevis",
+    "sR": 220,
+    "sG": 230,
+    "sB": 228
+  },
+  {
+    "index": 658,
+    "class": "恒",
+    "uuid": "NN7508-4",
+    "colorName": "深遂太空",
+    "colorNameEn": "Bit of Heaven",
+    "sR": 199,
+    "sG": 214,
+    "sB": 217
+  },
+  {
+    "index": 659,
+    "class": "恒",
+    "uuid": "BN6451-4",
+    "colorName": "藍灰",
+    "colorNameEn": "Blue Gray",
+    "sR": 188,
+    "sG": 210,
+    "sB": 214
+  },
+  {
+    "index": 660,
+    "class": "恒",
+    "uuid": "NN0052-4",
+    "colorName": "淺藍灰",
+    "colorNameEn": "Light blue ash",
+    "sR": 211,
+    "sG": 220,
+    "sB": 214
+  },
+  {
+    "index": 661,
+    "class": "恒",
+    "uuid": "NN7310-4",
+    "colorName": "漁光曲",
+    "colorNameEn": "Prelude",
+    "sR": 178,
+    "sG": 202,
+    "sB": 208
+  },
+  {
+    "index": 662,
+    "class": "恒",
+    "uuid": "BN6460-4",
+    "colorName": "遠方",
+    "colorNameEn": "Far Away",
+    "sR": 152,
+    "sG": 198,
+    "sB": 197
+  },
+  {
+    "index": 663,
+    "class": "恒",
+    "uuid": "BC0070-4",
+    "colorName": "溫潤之玉",
+    "colorNameEn": "Milky Green Jade",
+    "sR": 224,
+    "sG": 235,
+    "sB": 229
+  },
+  {
+    "index": 664,
+    "class": "恒",
+    "uuid": "BC0013-4",
+    "colorName": "沁心冰藍",
+    "colorNameEn": "Intoxicating Ice Blue",
+    "sR": 192,
+    "sG": 220,
+    "sB": 224
+  },
+  {
+    "index": 665,
+    "class": "恒",
+    "uuid": "BC6660-4",
+    "colorName": "極地清晨",
+    "colorNameEn": "Polar Morn",
+    "sR": 163,
+    "sG": 203,
+    "sB": 213
+  },
+  {
+    "index": 666,
+    "class": "恒",
+    "uuid": "BN0024-4",
+    "colorName": "天鏡",
+    "colorNameEn": "Sky Habitat",
+    "sR": 211,
+    "sG": 232,
+    "sB": 234
+  },
+  {
+    "index": 667,
+    "class": "恒",
+    "uuid": "BN7451-4",
+    "colorName": "空穀回聲",
+    "colorNameEn": "Echo",
+    "sR": 187,
+    "sG": 212,
+    "sB": 217
+  },
+  {
+    "index": 668,
+    "class": "恒",
+    "uuid": "BN7460-4",
+    "colorName": "冬日晴空",
+    "colorNameEn": "Dreamy Winters",
+    "sR": 168,
+    "sG": 198,
+    "sB": 209
+  },
+  {
+    "index": 669,
+    "class": "恒",
+    "uuid": "BN7408-4",
+    "colorName": "暢想",
+    "colorNameEn": "Smooth Miss",
+    "sR": 216,
+    "sG": 230,
+    "sB": 229
+  },
+  {
+    "index": 670,
+    "class": "恒",
+    "uuid": "BC0005-4",
+    "colorName": "森林公主",
+    "colorNameEn": "The Jungle Princess",
+    "sR": 194,
+    "sG": 221,
+    "sB": 224
+  },
+  {
+    "index": 671,
+    "class": "恒",
+    "uuid": "BC6310-4",
+    "colorName": "蒂羅爾藍",
+    "colorNameEn": "Tyrol Blue",
+    "sR": 164,
+    "sG": 201,
+    "sB": 207
+  },
+  {
+    "index": 672,
+    "class": "恒",
+    "uuid": "BC0003-4",
+    "colorName": "碧幽水",
+    "colorNameEn": "Serene Green Water",
+    "sR": 213,
+    "sG": 229,
+    "sB": 228
+  },
+  {
+    "index": 673,
+    "class": "恒",
+    "uuid": "BC0071-4",
+    "colorName": "夏至未至",
+    "colorNameEn": "Summer Night",
+    "sR": 196,
+    "sG": 218,
+    "sB": 219
+  },
+  {
+    "index": 674,
+    "class": "恒",
+    "uuid": "BC0008-4",
+    "colorName": "秋泉",
+    "colorNameEn": "Autumn Spring",
+    "sR": 175,
+    "sG": 209,
+    "sB": 214
+  },
+  {
+    "index": 675,
+    "class": "恒",
+    "uuid": "BC0012-4",
+    "colorName": "雲水謠",
+    "colorNameEn": "Rain Ballad",
+    "sR": 215,
+    "sG": 231,
+    "sB": 228
+  },
+  {
+    "index": 676,
+    "class": "恒",
+    "uuid": "BC6351-4",
+    "colorName": "牛津紡",
+    "colorNameEn": "Oxford Cloth",
+    "sR": 193,
+    "sG": 225,
+    "sB": 198
+  },
+  {
+    "index": 677,
+    "class": "恒",
+    "uuid": "BC6360-4",
+    "colorName": "瑞雪豐年",
+    "colorNameEn": "Snow Glow",
+    "sR": 187,
+    "sG": 208,
+    "sB": 209
+  },
+  {
+    "index": 678,
+    "class": "恒",
+    "uuid": "BC7501-4",
+    "colorName": "極地寒冰",
+    "colorNameEn": "Nordic Ice",
+    "sR": 215,
+    "sG": 226,
+    "sB": 223
+  },
+  {
+    "index": 679,
+    "class": "恒",
+    "uuid": "NN0053-4",
+    "colorName": "雪中湖",
+    "colorNameEn": "Snow Lake",
+    "sR": 211,
+    "sG": 221,
+    "sB": 216
+  },
+  {
+    "index": 680,
+    "class": "恒",
+    "uuid": "NN6260-4",
+    "colorName": "白楊禮贊",
+    "colorNameEn": "Aspen Light",
+    "sR": 174,
+    "sG": 201,
+    "sB": 201
+  },
+  {
+    "index": 681,
+    "class": "恒",
+    "uuid": "BC7401-4",
+    "colorName": "霧都黎明",
+    "colorNameEn": "London Dawn",
+    "sR": 214,
+    "sG": 228,
+    "sB": 223
+  },
+  {
+    "index": 682,
+    "class": "恒",
+    "uuid": "BC0004-4",
+    "colorName": "漣漪",
+    "colorNameEn": "Ripple",
+    "sR": 198,
+    "sG": 221,
+    "sB": 219
+  },
+  {
+    "index": 683,
+    "class": "恒",
+    "uuid": "BC5860-4",
+    "colorName": "似水流年",
+    "colorNameEn": "Garland Blue",
+    "sR": 168,
+    "sG": 209,
+    "sB": 212
+  },
+  {
+    "index": 684,
+    "class": "恒",
+    "uuid": "GC0064-4",
+    "colorName": "忍冬葉",
+    "colorNameEn": "Flat Lake",
+    "sR": 211,
+    "sG": 225,
+    "sB": 219
+  },
+  {
+    "index": 685,
+    "class": "恒",
+    "uuid": "GC0065-4",
+    "colorName": "阿魯巴藍",
+    "colorNameEn": "Aruba Blue",
+    "sR": 198,
+    "sG": 218,
+    "sB": 215
+  },
+  {
+    "index": 686,
+    "class": "恒",
+    "uuid": "GC5760-4",
+    "colorName": "冰蘭",
+    "colorNameEn": "Blue Frost",
+    "sR": 172,
+    "sG": 213,
+    "sB": 209
+  },
+  {
+    "index": 687,
+    "class": "恒",
+    "uuid": "BC6807-4",
+    "colorName": "暮鼓晨鐘",
+    "colorNameEn": "Twilight",
+    "sR": 225,
+    "sG": 235,
+    "sB": 231
+  },
+  {
+    "index": 688,
+    "class": "恒",
+    "uuid": "BC6308-4",
+    "colorName": "霧鎖冰洋",
+    "colorNameEn": "Foggy Ocean",
+    "sR": 207,
+    "sG": 224,
+    "sB": 222
+  },
+  {
+    "index": 689,
+    "class": "恒",
+    "uuid": "BC6210-4",
+    "colorName": "藍貴人",
+    "colorNameEn": "Duchess Blue",
+    "sR": 172,
+    "sG": 203,
+    "sB": 204
+  },
+  {
+    "index": 690,
+    "class": "恒",
+    "uuid": "GC5708-4",
+    "colorName": "山間飛瀑",
+    "colorNameEn": "Cascade",
+    "sR": 211,
+    "sG": 232,
+    "sB": 225
+  },
+  {
+    "index": 691,
+    "class": "恒",
+    "uuid": "GC5651-4",
+    "colorName": "寂寞清秋",
+    "colorNameEn": "Aquarill",
+    "sR": 191,
+    "sG": 231,
+    "sB": 218
+  },
+  {
+    "index": 692,
+    "class": "恒",
+    "uuid": "GC5660-4",
+    "colorName": "寒馨",
+    "colorNameEn": "Aqua Frost",
+    "sR": 173,
+    "sG": 216,
+    "sB": 207
+  },
+  {
+    "index": 693,
+    "class": "恒",
+    "uuid": "NN6301-4",
+    "colorName": "山間小溪",
+    "colorNameEn": "Streamline",
+    "sR": 226,
+    "sG": 250,
+    "sB": 233
+  },
+  {
+    "index": 694,
+    "class": "恒",
+    "uuid": "NN6160-4",
+    "colorName": "大運河",
+    "colorNameEn": "Waterway",
+    "sR": 186,
+    "sG": 205,
+    "sB": 200
+  },
+  {
+    "index": 695,
+    "class": "恒",
+    "uuid": "NN0054-4",
+    "colorName": "草木灰",
+    "colorNameEn": "Vegetation",
+    "sR": 174,
+    "sG": 194,
+    "sB": 189
+  },
+  {
+    "index": 696,
+    "class": "恒",
+    "uuid": "NN6401-4",
+    "colorName": "冰天雪地",
+    "colorNameEn": "Blue Ice",
+    "sR": 222,
+    "sG": 230,
+    "sB": 224
+  },
+  {
+    "index": 697,
+    "class": "恒",
+    "uuid": "GC5801-4",
+    "colorName": "冰霧",
+    "colorNameEn": "Icy Haze",
+    "sR": 211,
+    "sG": 229,
+    "sB": 222
+  },
+  {
+    "index": 698,
+    "class": "恒",
+    "uuid": "NN6110-4",
+    "colorName": "北國山川",
+    "colorNameEn": "Academy Gray",
+    "sR": 192,
+    "sG": 209,
+    "sB": 202
+  },
+  {
+    "index": 699,
+    "class": "恒",
+    "uuid": "GC6207-4",
+    "colorName": "冰晶藍",
+    "colorNameEn": "Ice Blue",
+    "sR": 223,
+    "sG": 235,
+    "sB": 226
+  },
+  {
+    "index": 700,
+    "class": "恒",
+    "uuid": "GC5551-4",
+    "colorName": "清川",
+    "colorNameEn": "Aquatint",
+    "sR": 194,
+    "sG": 231,
+    "sB": 212
+  },
+  {
+    "index": 701,
+    "class": "恒",
+    "uuid": "GC5560-4",
+    "colorName": "海隅微陽",
+    "colorNameEn": "Sunlit Sea",
+    "sR": 184,
+    "sG": 222,
+    "sB": 210
+  },
+  {
+    "index": 702,
+    "class": "恒",
+    "uuid": "GC0034-4",
+    "colorName": "夏草",
+    "colorNameEn": "Summer Grass",
+    "sR": 218,
+    "sG": 237,
+    "sB": 224
+  },
+  {
+    "index": 703,
+    "class": "恒",
+    "uuid": "GC5451-4",
+    "colorName": "小家碧玉",
+    "colorNameEn": "Pastel Jade",
+    "sR": 189,
+    "sG": 228,
+    "sB": 206
+  },
+  {
+    "index": 704,
+    "class": "恒",
+    "uuid": "GC5460-4",
+    "colorName": "霧中翡翠",
+    "colorNameEn": "Misty Jade",
+    "sR": 172,
+    "sG": 218,
+    "sB": 197
+  },
+  {
+    "index": 705,
+    "class": "恒",
+    "uuid": "GC0031-4",
+    "colorName": "蘇梅島",
+    "colorNameEn": "Koh Samui",
+    "sR": 230,
+    "sG": 241,
+    "sB": 229
+  },
+  {
+    "index": 706,
+    "class": "恒",
+    "uuid": "GC5507-4",
+    "colorName": "水果清香",
+    "colorNameEn": "Fruity Flavour",
+    "sR": 221,
+    "sG": 247,
+    "sB": 224
+  },
+  {
+    "index": 707,
+    "class": "恒",
+    "uuid": "GN0001-4",
+    "colorName": "羅馬綠",
+    "colorNameEn": "Rome green",
+    "sR": 182,
+    "sG": 214,
+    "sB": 191
+  },
+  {
+    "index": 708,
+    "class": "恒",
+    "uuid": "GC5908-4",
+    "colorName": "聖殿山",
+    "colorNameEn": "Hallowed Hush",
+    "sR": 225,
+    "sG": 234,
+    "sB": 226
+  },
+  {
+    "index": 709,
+    "class": "恒",
+    "uuid": "GN6107-4",
+    "colorName": "布魯塞爾灰",
+    "colorNameEn": "Fountain Mist",
+    "sR": 215,
+    "sG": 226,
+    "sB": 215
+  },
+  {
+    "index": 710,
+    "class": "恒",
+    "uuid": "GN6060-4",
+    "colorName": "煙雨朦朦",
+    "colorNameEn": "Smoke Green",
+    "sR": 189,
+    "sG": 209,
+    "sB": 196
+  },
+  {
+    "index": 711,
+    "class": "恒",
+    "uuid": "GN6001-4",
+    "colorName": "檸檬汽水",
+    "colorNameEn": "Vapor Mint",
+    "sR": 227,
+    "sG": 232,
+    "sB": 219
+  },
+  {
+    "index": 712,
+    "class": "恒",
+    "uuid": "GN0006-4",
+    "colorName": "蘆薈",
+    "colorNameEn": "Aloe",
+    "sR": 213,
+    "sG": 220,
+    "sB": 200
+  },
+  {
+    "index": 713,
+    "class": "恒",
+    "uuid": "GN6010-4",
+    "colorName": "淺綠",
+    "colorNameEn": "Green Boy",
+    "sR": 202,
+    "sG": 225,
+    "sB": 193
+  },
+  {
+    "index": 714,
+    "class": "恒",
+    "uuid": "GC4401-4",
+    "colorName": "奶油黃瓜",
+    "colorNameEn": "Creamy Cucumber",
+    "sR": 222,
+    "sG": 231,
+    "sB": 211
+  },
+  {
+    "index": 715,
+    "class": "恒",
+    "uuid": "GN5351-4",
+    "colorName": "冰綠",
+    "colorNameEn": "Glacial Green",
+    "sR": 215,
+    "sG": 233,
+    "sB": 205
+  },
+  {
+    "index": 716,
+    "class": "恒",
+    "uuid": "GN4410-4",
+    "colorName": "翠堤春曉",
+    "colorNameEn": "Willowbrook",
+    "sR": 192,
+    "sG": 216,
+    "sB": 182
+  },
+  {
+    "index": 717,
+    "class": "恒",
+    "uuid": "GC5308-4",
+    "colorName": "惆悵",
+    "colorNameEn": "Green Tease",
+    "sR": 224,
+    "sG": 232,
+    "sB": 213
+  },
+  {
+    "index": 718,
+    "class": "恒",
+    "uuid": "GN4351-4",
+    "colorName": "春水微瀾",
+    "colorNameEn": "Tidal Foam",
+    "sR": 220,
+    "sG": 233,
+    "sB": 203
+  },
+  {
+    "index": 719,
+    "class": "恒",
+    "uuid": "GN4360-4",
+    "colorName": "綠水晶",
+    "colorNameEn": "Crystal Green",
+    "sR": 201,
+    "sG": 221,
+    "sB": 184
+  },
+  {
+    "index": 720,
+    "class": "恒",
+    "uuid": "GN6008-4",
+    "colorName": "薄荷精油",
+    "colorNameEn": "Peppermint",
+    "sR": 226,
+    "sG": 231,
+    "sB": 219
+  },
+  {
+    "index": 721,
+    "class": "恒",
+    "uuid": "GN5151-4",
+    "colorName": "薄荷綠",
+    "colorNameEn": "Aspenwood",
+    "sR": 214,
+    "sG": 221,
+    "sB": 197
+  },
+  {
+    "index": 722,
+    "class": "恒",
+    "uuid": "GN5160-4",
+    "colorName": "青青草場",
+    "colorNameEn": "Aspen Meadows",
+    "sR": 201,
+    "sG": 212,
+    "sB": 185
+  },
+  {
+    "index": 723,
+    "class": "恒",
+    "uuid": "GN4607-4",
+    "colorName": "淺草綠",
+    "colorNameEn": "Shallow Grass Green",
+    "sR": 235,
+    "sG": 238,
+    "sB": 222
+  },
+  {
+    "index": 724,
+    "class": "恒",
+    "uuid": "GN4501-4",
+    "colorName": "霜封苔原",
+    "colorNameEn": "Everfrost",
+    "sR": 230,
+    "sG": 236,
+    "sB": 212
+  },
+  {
+    "index": 725,
+    "class": "恒",
+    "uuid": "GN4260-4",
+    "colorName": "嘉年華",
+    "colorNameEn": "Carousel Green",
+    "sR": 210,
+    "sG": 219,
+    "sB": 179
+  },
+  {
+    "index": 726,
+    "class": "恒",
+    "uuid": "GN4301-4",
+    "colorName": "早春時節",
+    "colorNameEn": "Green Hint",
+    "sR": 235,
+    "sG": 237,
+    "sB": 214
+  },
+  {
+    "index": 727,
+    "class": "恒",
+    "uuid": "GC4251-4",
+    "colorName": "青橙淡彩",
+    "colorNameEn": "Touch-O-Lime",
+    "sR": 228,
+    "sG": 230,
+    "sB": 198
+  },
+  {
+    "index": 728,
+    "class": "恒",
+    "uuid": "GN5110-4",
+    "colorName": "甘蔗",
+    "colorNameEn": "Honeydew",
+    "sR": 209,
+    "sG": 214,
+    "sB": 178
+  },
+  {
+    "index": 729,
+    "class": "恒",
+    "uuid": "GN4307-4",
+    "colorName": "青檸汁",
+    "colorNameEn": "Lime Meringue",
+    "sR": 229,
+    "sG": 232,
+    "sB": 211
+  },
+  {
+    "index": 730,
+    "class": "恒",
+    "uuid": "GN5107-4",
+    "colorName": "苦艾草",
+    "colorNameEn": "Lime Wash",
+    "sR": 230,
+    "sG": 225,
+    "sB": 207
+  },
+  {
+    "index": 731,
+    "class": "恒",
+    "uuid": "GN5060-4",
+    "colorName": "晨霧",
+    "colorNameEn": "Dusty Dawn",
+    "sR": 220,
+    "sG": 217,
+    "sB": 186
+  },
+  {
+    "index": 732,
+    "class": "恒",
+    "uuid": "GN4201-4",
+    "colorName": "苦艾酒",
+    "colorNameEn": "Absinthe",
+    "sR": 235,
+    "sG": 237,
+    "sB": 215
+  },
+  {
+    "index": 733,
+    "class": "恒",
+    "uuid": "GN0010-4",
+    "colorName": "生橄欖",
+    "colorNameEn": "Raw olive",
+    "sR": 216,
+    "sG": 218,
+    "sB": 174
+  },
+  {
+    "index": 734,
+    "class": "恒",
+    "uuid": "GC0015-4",
+    "colorName": "雪融冰晶",
+    "colorNameEn": "Melted Ice Crystals",
+    "sR": 238,
+    "sG": 240,
+    "sB": 215
+  },
+  {
+    "index": 735,
+    "class": "恒",
+    "uuid": "GC4007-4",
+    "colorName": "秋思",
+    "colorNameEn": "Buttermint",
+    "sR": 234,
+    "sG": 232,
+    "sB": 195
+  },
+  {
+    "index": 736,
+    "class": "恒",
+    "uuid": "GN0015-4",
+    "colorName": "煙花三月",
+    "colorNameEn": "Oryza",
+    "sR": 217,
+    "sG": 214,
+    "sB": 167
+  },
+  {
+    "index": 737,
+    "class": "恒",
+    "uuid": "GN5007-4",
+    "colorName": "泉城風景",
+    "colorNameEn": "White Smoke",
+    "sR": 233,
+    "sG": 231,
+    "sB": 216
+  },
+  {
+    "index": 738,
+    "class": "恒",
+    "uuid": "GN5051-4",
+    "colorName": "洋蔥",
+    "colorNameEn": "Onion",
+    "sR": 230,
+    "sG": 227,
+    "sB": 197
+  },
+  {
+    "index": 739,
+    "class": "恒",
+    "uuid": "GN0016-4",
+    "colorName": "水仙花蕊",
+    "colorNameEn": "Narcissus",
+    "sR": 227,
+    "sG": 219,
+    "sB": 180
+  },
+  {
+    "index": 740,
+    "class": "恒",
+    "uuid": "YN0007-4",
+    "colorName": "棉花糖",
+    "colorNameEn": "Marshmallow",
+    "sR": 247,
+    "sG": 238,
+    "sB": 201
+  },
+  {
+    "index": 741,
+    "class": "恒",
+    "uuid": "YN0008-4",
+    "colorName": "梨花香",
+    "colorNameEn": "Pear Flower Fragrance",
+    "sR": 245,
+    "sG": 231,
+    "sB": 187
+  },
+  {
+    "index": 742,
+    "class": "恒",
+    "uuid": "YN0009-4",
+    "colorName": "檸綠",
+    "colorNameEn": "Green Lime",
+    "sR": 240,
+    "sG": 222,
+    "sB": 166
+  },
+  {
+    "index": 743,
+    "class": "恒",
+    "uuid": "YN3207-4",
+    "colorName": "三月陽光",
+    "colorNameEn": "Morning Glow",
+    "sR": 240,
+    "sG": 236,
+    "sB": 213
+  },
+  {
+    "index": 744,
+    "class": "恒",
+    "uuid": "YN4951-4",
+    "colorName": "石上清泉",
+    "colorNameEn": "Washed Pebble",
+    "sR": 235,
+    "sG": 227,
+    "sB": 202
+  },
+  {
+    "index": 745,
+    "class": "恒",
+    "uuid": "YN0002-4",
+    "colorName": "舒活自然",
+    "colorNameEn": "Natural And Relaxed",
+    "sR": 231,
+    "sG": 221,
+    "sB": 188
+  },
+  {
+    "index": 746,
+    "class": "雅",
+    "uuid": "NN0055-4",
+    "colorName": "橡皮粉",
+    "colorNameEn": "Rubber Pink",
+    "sR": 225,
+    "sG": 211,
+    "sB": 217
+  },
+  {
+    "index": 747,
+    "class": "雅",
+    "uuid": "NN0056-4",
+    "colorName": "紫日",
+    "colorNameEn": "Bayside",
+    "sR": 195,
+    "sG": 182,
+    "sB": 189
+  },
+  {
+    "index": 748,
+    "class": "雅",
+    "uuid": "NN0062-4",
+    "colorName": "淡紫灰",
+    "colorNameEn": "Purple Ash",
+    "sR": 220,
+    "sG": 215,
+    "sB": 217
+  },
+  {
+    "index": 749,
+    "class": "雅",
+    "uuid": "NN0063-4",
+    "colorName": "雲灰色",
+    "colorNameEn": "Cloudy Grey",
+    "sR": 196,
+    "sG": 187,
+    "sB": 189
+  },
+  {
+    "index": 750,
+    "class": "雅",
+    "uuid": "NN0005-4",
+    "colorName": "可愛泡泡",
+    "colorNameEn": "Lovely Bubble",
+    "sR": 235,
+    "sG": 217,
+    "sB": 216
+  },
+  {
+    "index": 751,
+    "class": "雅",
+    "uuid": "NN0069-4",
+    "colorName": "初荷",
+    "colorNameEn": "Tender Dwan",
+    "sR": 225,
+    "sG": 198,
+    "sB": 198
+  },
+  {
+    "index": 752,
+    "class": "雅",
+    "uuid": "NN0070-4",
+    "colorName": "暗粉色",
+    "colorNameEn": "Darker Pink",
+    "sR": 201,
+    "sG": 168,
+    "sB": 173
+  },
+  {
+    "index": 753,
+    "class": "雅",
+    "uuid": "NN0075-4",
+    "colorName": "白露為霜",
+    "colorNameEn": "White Dew",
+    "sR": 223,
+    "sG": 213,
+    "sB": 213
+  },
+  {
+    "index": 754,
+    "class": "雅",
+    "uuid": "NN0076-4",
+    "colorName": "玫瑰之露",
+    "colorNameEn": "Rose Dust",
+    "sR": 207,
+    "sG": 195,
+    "sB": 197
+  },
+  {
+    "index": 755,
+    "class": "雅",
+    "uuid": "OW073-4",
+    "colorName": "含羞紫",
+    "colorNameEn": "Shy Violet",
+    "sR": 228,
+    "sG": 220,
+    "sB": 220
+  },
+  {
+    "index": 756,
+    "class": "雅",
+    "uuid": "NN0082-4",
+    "colorName": "粉晶石",
+    "colorNameEn": "Pink Crystal",
+    "sR": 212,
+    "sG": 195,
+    "sB": 199
+  },
+  {
+    "index": 757,
+    "class": "雅",
+    "uuid": "NN0101-4",
+    "colorName": "幽幽熏草",
+    "colorNameEn": "White Lavender",
+    "sR": 233,
+    "sG": 218,
+    "sB": 217
+  },
+  {
+    "index": 758,
+    "class": "雅",
+    "uuid": "NN0008-4",
+    "colorName": "水色如暮",
+    "colorNameEn": "Water In Dusk",
+    "sR": 213,
+    "sG": 186,
+    "sB": 183
+  },
+  {
+    "index": 759,
+    "class": "雅",
+    "uuid": "NN0860-4",
+    "colorName": "珊瑚",
+    "colorNameEn": "Coral Tan",
+    "sR": 207,
+    "sG": 178,
+    "sB": 176
+  },
+  {
+    "index": 760,
+    "class": "雅",
+    "uuid": "NN0089-4",
+    "colorName": "蒼鷺",
+    "colorNameEn": "Heron",
+    "sR": 229,
+    "sG": 220,
+    "sB": 218
+  },
+  {
+    "index": 761,
+    "class": "雅",
+    "uuid": "NN0090-4",
+    "colorName": "粉椰水",
+    "colorNameEn": "Gray Coconut",
+    "sR": 204,
+    "sG": 191,
+    "sB": 192
+  },
+  {
+    "index": 762,
+    "class": "雅",
+    "uuid": "NN1408-4",
+    "colorName": "澳洲堅果",
+    "colorNameEn": "Macadamia Nut",
+    "sR": 235,
+    "sG": 222,
+    "sB": 216
+  },
+  {
+    "index": 763,
+    "class": "雅",
+    "uuid": "NN0808-4",
+    "colorName": "甜蜜花香",
+    "colorNameEn": "Potpourri",
+    "sR": 239,
+    "sG": 220,
+    "sB": 214
+  },
+  {
+    "index": 764,
+    "class": "雅",
+    "uuid": "NN0960-4",
+    "colorName": "香石竹",
+    "colorNameEn": "Pink Sand",
+    "sR": 210,
+    "sG": 181,
+    "sB": 175
+  },
+  {
+    "index": 765,
+    "class": "雅",
+    "uuid": "NN0097-4",
+    "colorName": "香樟木",
+    "colorNameEn": "Camphorwood",
+    "sR": 231,
+    "sG": 215,
+    "sB": 210
+  },
+  {
+    "index": 766,
+    "class": "雅",
+    "uuid": "NN0098-4",
+    "colorName": "春曉花",
+    "colorNameEn": "Spring Flower",
+    "sR": 216,
+    "sG": 193,
+    "sB": 187
+  },
+  {
+    "index": 767,
+    "class": "雅",
+    "uuid": "NN0099-4",
+    "colorName": "霜梅",
+    "colorNameEn": "Frost Plum",
+    "sR": 181,
+    "sG": 162,
+    "sB": 157
+  },
+  {
+    "index": 768,
+    "class": "雅",
+    "uuid": "NN0105-4",
+    "colorName": "平流層",
+    "colorNameEn": "Stratosphere",
+    "sR": 209,
+    "sG": 202,
+    "sB": 200
+  },
+  {
+    "index": 769,
+    "class": "雅",
+    "uuid": "NN0106-4",
+    "colorName": "雲雀羽翼",
+    "colorNameEn": "Sparrow Wing",
+    "sR": 206,
+    "sG": 198,
+    "sB": 198
+  },
+  {
+    "index": 770,
+    "class": "雅",
+    "uuid": "NN0107-4",
+    "colorName": "風之穀",
+    "colorNameEn": "Grain Valley",
+    "sR": 179,
+    "sG": 169,
+    "sB": 169
+  },
+  {
+    "index": 771,
+    "class": "雅",
+    "uuid": "OW061-4",
+    "colorName": "明斯克灰",
+    "colorNameEn": "Ming Grey",
+    "sR": 233,
+    "sG": 230,
+    "sB": 227
+  },
+  {
+    "index": 772,
+    "class": "雅",
+    "uuid": "NN2651-4",
+    "colorName": "幻影",
+    "colorNameEn": "Your Shadow",
+    "sR": 209,
+    "sG": 199,
+    "sB": 194
+  },
+  {
+    "index": 773,
+    "class": "雅",
+    "uuid": "NN2660-4",
+    "colorName": "幃幔",
+    "colorNameEn": "Silver Velvet",
+    "sR": 197,
+    "sG": 184,
+    "sB": 179
+  },
+  {
+    "index": 774,
+    "class": "雅",
+    "uuid": "NN2608-4",
+    "colorName": "肩章紅",
+    "colorNameEn": "Pearl Hat Pin",
+    "sR": 224,
+    "sG": 217,
+    "sB": 210
+  },
+  {
+    "index": 775,
+    "class": "雅",
+    "uuid": "NN0113-4",
+    "colorName": "莫内印象",
+    "colorNameEn": "Monet Impression",
+    "sR": 199,
+    "sG": 188,
+    "sB": 183
+  },
+  {
+    "index": 776,
+    "class": "雅",
+    "uuid": "NN0114-4",
+    "colorName": "荷蘭兔",
+    "colorNameEn": "Holland rabbit",
+    "sR": 182,
+    "sG": 170,
+    "sB": 165
+  },
+  {
+    "index": 777,
+    "class": "雅",
+    "uuid": "NN0119-4",
+    "colorName": "月光石",
+    "colorNameEn": "Moonstone",
+    "sR": 224,
+    "sG": 215,
+    "sB": 211
+  },
+  {
+    "index": 778,
+    "class": "雅",
+    "uuid": "NN0120-4",
+    "colorName": "鱘魚灰",
+    "colorNameEn": "Sturgeon Grey",
+    "sR": 207,
+    "sG": 196,
+    "sB": 192
+  },
+  {
+    "index": 779,
+    "class": "雅",
+    "uuid": "NN0121-4",
+    "colorName": "杏仁奶",
+    "colorNameEn": "Almond Milk",
+    "sR": 179,
+    "sG": 165,
+    "sB": 161
+  },
+  {
+    "index": 780,
+    "class": "雅",
+    "uuid": "NN0003-4",
+    "colorName": "香盈藕粉",
+    "colorNameEn": "Lotus Root Starch",
+    "sR": 226,
+    "sG": 212,
+    "sB": 208
+  },
+  {
+    "index": 781,
+    "class": "雅",
+    "uuid": "NN0004-4",
+    "colorName": "復古橡粉",
+    "colorNameEn": "Ancient Rubber Powder",
+    "sR": 232,
+    "sG": 205,
+    "sB": 197
+  },
+  {
+    "index": 782,
+    "class": "雅",
+    "uuid": "NN2610-4",
+    "colorName": "嗶嘰灰",
+    "colorNameEn": "Gray Beige",
+    "sR": 198,
+    "sG": 185,
+    "sB": 180
+  },
+  {
+    "index": 783,
+    "class": "雅",
+    "uuid": "NN2601-4",
+    "colorName": "粉白",
+    "colorNameEn": "White Shadow",
+    "sR": 229,
+    "sG": 219,
+    "sB": 210
+  },
+  {
+    "index": 784,
+    "class": "雅",
+    "uuid": "NN0951-4",
+    "colorName": "靜謐米蘭",
+    "colorNameEn": "Spice Beige",
+    "sR": 231,
+    "sG": 207,
+    "sB": 196
+  },
+  {
+    "index": 785,
+    "class": "雅",
+    "uuid": "NN1210-4",
+    "colorName": "茶紅",
+    "colorNameEn": "Tan Blush",
+    "sR": 212,
+    "sG": 182,
+    "sB": 169
+  },
+  {
+    "index": 786,
+    "class": "雅",
+    "uuid": "NN2501-4",
+    "colorName": "蛋白奶糖",
+    "colorNameEn": "Divinity",
+    "sR": 239,
+    "sG": 227,
+    "sB": 214
+  },
+  {
+    "index": 787,
+    "class": "雅",
+    "uuid": "NN1007-4",
+    "colorName": "麥乳精",
+    "colorNameEn": "Malted Milk",
+    "sR": 239,
+    "sG": 216,
+    "sB": 199
+  },
+  {
+    "index": 788,
+    "class": "雅",
+    "uuid": "NN1260-4",
+    "colorName": "絳石",
+    "colorNameEn": "Mineral Mauve",
+    "sR": 205,
+    "sG": 184,
+    "sB": 172
+  },
+  {
+    "index": 789,
+    "class": "雅",
+    "uuid": "NN3408-4",
+    "colorName": "羊皮信紙",
+    "colorNameEn": "Parchment Paper",
+    "sR": 240,
+    "sG": 226,
+    "sB": 208
+  },
+  {
+    "index": 790,
+    "class": "雅",
+    "uuid": "NN2451-4",
+    "colorName": "亞麻",
+    "colorNameEn": "Flax",
+    "sR": 232,
+    "sG": 209,
+    "sB": 191
+  },
+  {
+    "index": 791,
+    "class": "雅",
+    "uuid": "NN2460-4",
+    "colorName": "巧克力屑",
+    "colorNameEn": "Chocolate Shake",
+    "sR": 213,
+    "sG": 180,
+    "sB": 158
+  },
+  {
+    "index": 792,
+    "class": "雅",
+    "uuid": "NN1207-4",
+    "colorName": "毛絨玩具",
+    "colorNameEn": "Fuzzy Unicorn",
+    "sR": 234,
+    "sG": 225,
+    "sB": 214
+  },
+  {
+    "index": 793,
+    "class": "雅",
+    "uuid": "NN0130-4",
+    "colorName": "月霧",
+    "colorNameEn": "Foggy Moon",
+    "sR": 203,
+    "sG": 192,
+    "sB": 180
+  },
+  {
+    "index": 794,
+    "class": "雅",
+    "uuid": "NN0907-4",
+    "colorName": "可哥蛋奶",
+    "colorNameEn": "Cocoa Milk",
+    "sR": 236,
+    "sG": 228,
+    "sB": 216
+  },
+  {
+    "index": 795,
+    "class": "雅",
+    "uuid": "NN0020-4",
+    "colorName": "奶咖",
+    "colorNameEn": "Milk-Coffee",
+    "sR": 228,
+    "sG": 213,
+    "sB": 200
+  },
+  {
+    "index": 796,
+    "class": "雅",
+    "uuid": "NN2510-4",
+    "colorName": "可哥糖",
+    "colorNameEn": "Cocoa Candy",
+    "sR": 220,
+    "sG": 187,
+    "sB": 160
+  },
+  {
+    "index": 797,
+    "class": "雅",
+    "uuid": "NN3407-4",
+    "colorName": "絲光棉",
+    "colorNameEn": "Spun Cotton",
+    "sR": 241,
+    "sG": 232,
+    "sB": 216
+  },
+  {
+    "index": 798,
+    "class": "雅",
+    "uuid": "NN3851-4",
+    "colorName": "輕舞飛揚",
+    "colorNameEn": "Bone",
+    "sR": 226,
+    "sG": 214,
+    "sB": 196
+  },
+  {
+    "index": 799,
+    "class": "雅",
+    "uuid": "NN0137-4",
+    "colorName": "斑鳩",
+    "colorNameEn": "Turtledove",
+    "sR": 206,
+    "sG": 192,
+    "sB": 177
+  },
+  {
+    "index": 800,
+    "class": "雅",
+    "uuid": "NN3501-4",
+    "colorName": "晨曦",
+    "colorNameEn": "Ivory Vapor",
+    "sR": 243,
+    "sG": 230,
+    "sB": 215
+  },
+  {
+    "index": 801,
+    "class": "雅",
+    "uuid": "NN2551-4",
+    "colorName": "古象牙",
+    "colorNameEn": "Antique Ivory",
+    "sR": 238,
+    "sG": 215,
+    "sB": 192
+  },
+  {
+    "index": 802,
+    "class": "雅",
+    "uuid": "NN3460-4",
+    "colorName": "午後奶茶",
+    "colorNameEn": "Tea N Cream",
+    "sR": 210,
+    "sG": 188,
+    "sB": 169
+  },
+  {
+    "index": 803,
+    "class": "雅",
+    "uuid": "NN0141-4",
+    "colorName": "米褐色",
+    "colorNameEn": "Rice brown",
+    "sR": 230,
+    "sG": 220,
+    "sB": 209
+  },
+  {
+    "index": 804,
+    "class": "雅",
+    "uuid": "NN0142-4",
+    "colorName": "沙漠",
+    "colorNameEn": "Desert",
+    "sR": 206,
+    "sG": 192,
+    "sB": 179
+  },
+  {
+    "index": 805,
+    "class": "雅",
+    "uuid": "NN0148-4",
+    "colorName": "汝窯",
+    "colorNameEn": "Milky Celadon",
+    "sR": 228,
+    "sG": 223,
+    "sB": 217
+  },
+  {
+    "index": 806,
+    "class": "雅",
+    "uuid": "NN0149-4",
+    "colorName": "宣紙",
+    "colorNameEn": "Silk Paper",
+    "sR": 205,
+    "sG": 197,
+    "sB": 190
+  },
+  {
+    "index": 807,
+    "class": "雅",
+    "uuid": "NN0150-4",
+    "colorName": "土陶碗",
+    "colorNameEn": "Earthenware",
+    "sR": 180,
+    "sG": 170,
+    "sB": 162
+  },
+  {
+    "index": 808,
+    "class": "雅",
+    "uuid": "NN4907-4",
+    "colorName": "西風高原",
+    "colorNameEn": "Winter Mood",
+    "sR": 238,
+    "sG": 232,
+    "sB": 218
+  },
+  {
+    "index": 809,
+    "class": "雅",
+    "uuid": "NN3910-4",
+    "colorName": "飛沙走石",
+    "colorNameEn": "Sand Drift",
+    "sR": 218,
+    "sG": 208,
+    "sB": 192
+  },
+  {
+    "index": 810,
+    "class": "雅",
+    "uuid": "NN4807-4",
+    "colorName": "咖啡知己",
+    "colorNameEn": "Milk Paint",
+    "sR": 238,
+    "sG": 230,
+    "sB": 213
+  },
+  {
+    "index": 811,
+    "class": "雅",
+    "uuid": "NN4760-4",
+    "colorName": "錫蘭象牙",
+    "colorNameEn": "Ceylon Ivory",
+    "sR": 223,
+    "sG": 207,
+    "sB": 178
+  },
+  {
+    "index": 812,
+    "class": "雅",
+    "uuid": "NN3801-4",
+    "colorName": "新瓷",
+    "colorNameEn": "Porcelain",
+    "sR": 236,
+    "sG": 229,
+    "sB": 212
+  },
+  {
+    "index": 813,
+    "class": "雅",
+    "uuid": "NN4708-4",
+    "colorName": "阿拉伯帳篷",
+    "colorNameEn": "Abbey White",
+    "sR": 234,
+    "sG": 225,
+    "sB": 205
+  },
+  {
+    "index": 814,
+    "class": "雅",
+    "uuid": "NN3860-4",
+    "colorName": "淡米色",
+    "colorNameEn": "Chalk Beige",
+    "sR": 217,
+    "sG": 204,
+    "sB": 184
+  },
+  {
+    "index": 815,
+    "class": "雅",
+    "uuid": "NN1301-4",
+    "colorName": "貂白",
+    "colorNameEn": "Ermine White",
+    "sR": 230,
+    "sG": 227,
+    "sB": 216
+  },
+  {
+    "index": 816,
+    "class": "雅",
+    "uuid": "NN0036-4",
+    "colorName": "煙如浩淼",
+    "colorNameEn": "Smoke As Endless Sea",
+    "sR": 220,
+    "sG": 212,
+    "sB": 197
+  },
+  {
+    "index": 817,
+    "class": "雅",
+    "uuid": "NN0163-4",
+    "colorName": "櫸木白",
+    "colorNameEn": "Beech Brown",
+    "sR": 206,
+    "sG": 195,
+    "sB": 179
+  },
+  {
+    "index": 818,
+    "class": "雅",
+    "uuid": "NN3507-4",
+    "colorName": "全麥餅乾",
+    "colorNameEn": "Macaroon Cream",
+    "sR": 237,
+    "sG": 230,
+    "sB": 215
+  },
+  {
+    "index": 819,
+    "class": "雅",
+    "uuid": "NN0034-4",
+    "colorName": "面紗",
+    "colorNameEn": "Painted Veil",
+    "sR": 225,
+    "sG": 217,
+    "sB": 199
+  },
+  {
+    "index": 820,
+    "class": "雅",
+    "uuid": "NN3908-4",
+    "colorName": "八卦星相",
+    "colorNameEn": "Witch Hazel",
+    "sR": 228,
+    "sG": 223,
+    "sB": 212
+  },
+  {
+    "index": 821,
+    "class": "雅",
+    "uuid": "NN3951-4",
+    "colorName": "蒼茫穹頂",
+    "colorNameEn": "Igloo",
+    "sR": 215,
+    "sG": 210,
+    "sB": 199
+  },
+  {
+    "index": 822,
+    "class": "雅",
+    "uuid": "NN3960-4",
+    "colorName": "霜林晚歸",
+    "colorNameEn": "Sequoia Dusk",
+    "sR": 198,
+    "sG": 195,
+    "sB": 186
+  },
+  {
+    "index": 823,
+    "class": "雅",
+    "uuid": "GC4507-4",
+    "colorName": "草木芳華",
+    "colorNameEn": "Aloe Essence",
+    "sR": 235,
+    "sG": 236,
+    "sB": 219
+  },
+  {
+    "index": 824,
+    "class": "雅",
+    "uuid": "GN4408-4",
+    "colorName": "極地雪橇",
+    "colorNameEn": "Touch of Lime",
+    "sR": 225,
+    "sG": 225,
+    "sB": 210
+  },
+  {
+    "index": 825,
+    "class": "雅",
+    "uuid": "NN0167-4",
+    "colorName": "乳酪薄荷",
+    "colorNameEn": "Cheese Mint",
+    "sR": 208,
+    "sG": 208,
+    "sB": 184
+  },
+  {
+    "index": 826,
+    "class": "雅",
+    "uuid": "NN0168-4",
+    "colorName": "翡翠奶油",
+    "colorNameEn": "Jade Cream",
+    "sR": 197,
+    "sG": 194,
+    "sB": 170
+  },
+  {
+    "index": 827,
+    "class": "雅",
+    "uuid": "NN5807-4",
+    "colorName": "潤物細雨",
+    "colorNameEn": "Delicate Mist",
+    "sR": 223,
+    "sG": 230,
+    "sB": 222
+  },
+  {
+    "index": 828,
+    "class": "雅",
+    "uuid": "NN0172-4",
+    "colorName": "七里香",
+    "colorNameEn": "Murraya",
+    "sR": 219,
+    "sG": 223,
+    "sB": 212
+  },
+  {
+    "index": 829,
+    "class": "雅",
+    "uuid": "NN0173-4",
+    "colorName": "蘆葦甸",
+    "colorNameEn": "Reed",
+    "sR": 193,
+    "sG": 196,
+    "sB": 184
+  },
+  {
+    "index": 830,
+    "class": "雅",
+    "uuid": "NN0178-4",
+    "colorName": "白沙灘",
+    "colorNameEn": "Gold Coast",
+    "sR": 214,
+    "sG": 213,
+    "sB": 194
+  },
+  {
+    "index": 831,
+    "class": "雅",
+    "uuid": "NN0179-4",
+    "colorName": "石英砂石",
+    "colorNameEn": "Quartz Sand",
+    "sR": 199,
+    "sG": 198,
+    "sB": 182
+  },
+  {
+    "index": 832,
+    "class": "雅",
+    "uuid": "NN0180-4",
+    "colorName": "月牙泉",
+    "colorNameEn": "Crescent spring",
+    "sR": 185,
+    "sG": 186,
+    "sB": 171
+  },
+  {
+    "index": 833,
+    "class": "雅",
+    "uuid": "GN5208-4",
+    "colorName": "藍調爵士",
+    "colorNameEn": "Rhythm Knight",
+    "sR": 222,
+    "sG": 225,
+    "sB": 212
+  },
+  {
+    "index": 834,
+    "class": "雅",
+    "uuid": "GN6051-4",
+    "colorName": "晨霧漫漫",
+    "colorNameEn": "Green Fog",
+    "sR": 205,
+    "sG": 217,
+    "sB": 202
+  },
+  {
+    "index": 835,
+    "class": "雅",
+    "uuid": "NN0185-4",
+    "colorName": "春蕾",
+    "colorNameEn": "Emerging Bud",
+    "sR": 195,
+    "sG": 205,
+    "sB": 190
+  },
+  {
+    "index": 836,
+    "class": "雅",
+    "uuid": "NN6507-4",
+    "colorName": "深海珍珠",
+    "colorNameEn": "Sea Pearl",
+    "sR": 222,
+    "sG": 229,
+    "sB": 222
+  },
+  {
+    "index": 837,
+    "class": "雅",
+    "uuid": "NN6151-4",
+    "colorName": "涓涓細流",
+    "colorNameEn": "Bayou Mist",
+    "sR": 204,
+    "sG": 217,
+    "sB": 208
+  },
+  {
+    "index": 838,
+    "class": "雅",
+    "uuid": "NN0190-4",
+    "colorName": "綠島",
+    "colorNameEn": "Green Island",
+    "sR": 183,
+    "sG": 196,
+    "sB": 183
+  },
+  {
+    "index": 839,
+    "class": "雅",
+    "uuid": "NN6101-4",
+    "colorName": "竊竊私語",
+    "colorNameEn": "Winter Whisper",
+    "sR": 225,
+    "sG": 230,
+    "sB": 219
+  },
+  {
+    "index": 840,
+    "class": "雅",
+    "uuid": "NN5251-4",
+    "colorName": "雨季",
+    "colorNameEn": "Cloudy Day",
+    "sR": 213,
+    "sG": 216,
+    "sB": 205
+  },
+  {
+    "index": 841,
+    "class": "雅",
+    "uuid": "NN5210-4",
+    "colorName": "波音飛機",
+    "colorNameEn": "Airway",
+    "sR": 195,
+    "sG": 201,
+    "sB": 192
+  },
+  {
+    "index": 842,
+    "class": "雅",
+    "uuid": "NN7801-4",
+    "colorName": "牛津白",
+    "colorNameEn": "Oxford White",
+    "sR": 223,
+    "sG": 227,
+    "sB": 222
+  },
+  {
+    "index": 843,
+    "class": "雅",
+    "uuid": "NN0196-4",
+    "colorName": "巴貝多港灣",
+    "colorNameEn": "Barbados Harbour",
+    "sR": 217,
+    "sG": 224,
+    "sB": 216
+  },
+  {
+    "index": 844,
+    "class": "雅",
+    "uuid": "NN5260-4",
+    "colorName": "灰姑娘",
+    "colorNameEn": "New Wave Gray",
+    "sR": 198,
+    "sG": 203,
+    "sB": 194
+  },
+  {
+    "index": 845,
+    "class": "雅",
+    "uuid": "BC0002-4",
+    "colorName": "素雅綠",
+    "colorNameEn": "Simple Elegant Green",
+    "sR": 225,
+    "sG": 232,
+    "sB": 226
+  },
+  {
+    "index": 846,
+    "class": "雅",
+    "uuid": "NN0198-4",
+    "colorName": "盛夏花園",
+    "colorNameEn": "Summer Garden",
+    "sR": 189,
+    "sG": 208,
+    "sB": 201
+  },
+  {
+    "index": 847,
+    "class": "雅",
+    "uuid": "NN0199-4",
+    "colorName": "初春麥田",
+    "colorNameEn": "Spring Wheat",
+    "sR": 177,
+    "sG": 198,
+    "sB": 189
+  },
+  {
+    "index": 848,
+    "class": "雅",
+    "uuid": "OW092-4",
+    "colorName": "薄荷種子",
+    "colorNameEn": "Mint Seeds",
+    "sR": 239,
+    "sG": 250,
+    "sB": 235
+  },
+  {
+    "index": 849,
+    "class": "雅",
+    "uuid": "NN0204-4",
+    "colorName": "淺灰綠色",
+    "colorNameEn": "Eucalyptus",
+    "sR": 188,
+    "sG": 197,
+    "sB": 194
+  },
+  {
+    "index": 850,
+    "class": "雅",
+    "uuid": "NN0210-4",
+    "colorName": "馬蹄蓮綠",
+    "colorNameEn": "Calla Green",
+    "sR": 209,
+    "sG": 222,
+    "sB": 221
+  },
+  {
+    "index": 851,
+    "class": "雅",
+    "uuid": "NN0211-4",
+    "colorName": "聖誕雪松",
+    "colorNameEn": "Christmas Cedar",
+    "sR": 188,
+    "sG": 207,
+    "sB": 207
+  },
+  {
+    "index": 852,
+    "class": "雅",
+    "uuid": "NN6208-4",
+    "colorName": "驚蟄春雷",
+    "colorNameEn": "Pistachio Cream",
+    "sR": 213,
+    "sG": 225,
+    "sB": 220
+  },
+  {
+    "index": 853,
+    "class": "雅",
+    "uuid": "NN0217-4",
+    "colorName": "青蒜",
+    "colorNameEn": "Green Garlic",
+    "sR": 189,
+    "sG": 208,
+    "sB": 205
+  },
+  {
+    "index": 854,
+    "class": "雅",
+    "uuid": "NN0218-4",
+    "colorName": "天空灰",
+    "colorNameEn": "Sky Grey",
+    "sR": 178,
+    "sG": 194,
+    "sB": 188
+  },
+  {
+    "index": 855,
+    "class": "雅",
+    "uuid": "NN7607-4",
+    "colorName": "白樺",
+    "colorNameEn": "Aspen Aura",
+    "sR": 221,
+    "sG": 227,
+    "sB": 224
+  },
+  {
+    "index": 856,
+    "class": "雅",
+    "uuid": "NN6551-4",
+    "colorName": "海市蜃樓",
+    "colorNameEn": "Mirage Lake",
+    "sR": 192,
+    "sG": 204,
+    "sB": 202
+  },
+  {
+    "index": 857,
+    "class": "雅",
+    "uuid": "NN6510-4",
+    "colorName": "翩翩起舞",
+    "colorNameEn": "Dixieland",
+    "sR": 181,
+    "sG": 191,
+    "sB": 190
+  },
+  {
+    "index": 858,
+    "class": "雅",
+    "uuid": "NN6801-4",
+    "colorName": "聖音",
+    "colorNameEn": "Chimes",
+    "sR": 215,
+    "sG": 223,
+    "sB": 221
+  },
+  {
+    "index": 859,
+    "class": "雅",
+    "uuid": "NN7351-4",
+    "colorName": "康塔塔",
+    "colorNameEn": "Blue Glow",
+    "sR": 197,
+    "sG": 207,
+    "sB": 209
+  },
+  {
+    "index": 860,
+    "class": "雅",
+    "uuid": "NN6560-4",
+    "colorName": "曲徑通幽",
+    "colorNameEn": "Bright Steel",
+    "sR": 177,
+    "sG": 190,
+    "sB": 190
+  },
+  {
+    "index": 861,
+    "class": "雅",
+    "uuid": "NN7601-4",
+    "colorName": "天人合一",
+    "colorNameEn": "Murmur",
+    "sR": 219,
+    "sG": 226,
+    "sB": 225
+  },
+  {
+    "index": 862,
+    "class": "雅",
+    "uuid": "NN0039-4",
+    "colorName": "孤單背影",
+    "colorNameEn": "Lonely Back View",
+    "sR": 196,
+    "sG": 208,
+    "sB": 211
+  },
+  {
+    "index": 863,
+    "class": "雅",
+    "uuid": "NN7360-4",
+    "colorName": "暮色灰",
+    "colorNameEn": "Heavenly Gray",
+    "sR": 177,
+    "sG": 193,
+    "sB": 199
+  },
+  {
+    "index": 864,
+    "class": "雅",
+    "uuid": "NN0226-4",
+    "colorName": "茉莉白",
+    "colorNameEn": "Jasmine White",
+    "sR": 211,
+    "sG": 219,
+    "sB": 221
+  },
+  {
+    "index": 865,
+    "class": "雅",
+    "uuid": "NN7810-4",
+    "colorName": "寒江雪",
+    "colorNameEn": "November Sky",
+    "sR": 177,
+    "sG": 191,
+    "sB": 199
+  },
+  {
+    "index": 866,
+    "class": "雅",
+    "uuid": "NN0227-4",
+    "colorName": "松針灰",
+    "colorNameEn": "Leaden Grey",
+    "sR": 157,
+    "sG": 172,
+    "sB": 180
+  },
+  {
+    "index": 867,
+    "class": "雅",
+    "uuid": "NN6901-4",
+    "colorName": "天藍色",
+    "colorNameEn": "Air Blue",
+    "sR": 218,
+    "sG": 225,
+    "sB": 224
+  },
+  {
+    "index": 868,
+    "class": "雅",
+    "uuid": "NN7851-4",
+    "colorName": "銀幣",
+    "colorNameEn": "Sterling",
+    "sR": 212,
+    "sG": 214,
+    "sB": 214
+  },
+  {
+    "index": 869,
+    "class": "雅",
+    "uuid": "NN7860-4",
+    "colorName": "淺灰",
+    "colorNameEn": "Tuxedo Gray",
+    "sR": 179,
+    "sG": 190,
+    "sB": 193
+  },
+  {
+    "index": 870,
+    "class": "雅",
+    "uuid": "NN0233-4",
+    "colorName": "椰奶",
+    "colorNameEn": "Coconut Milk",
+    "sR": 214,
+    "sG": 219,
+    "sB": 220
+  },
+  {
+    "index": 871,
+    "class": "雅",
+    "uuid": "NN0234-4",
+    "colorName": "民謠藍",
+    "colorNameEn": "Folk Blue",
+    "sR": 189,
+    "sG": 198,
+    "sB": 201
+  },
+  {
+    "index": 872,
+    "class": "雅",
+    "uuid": "BN7651-4",
+    "colorName": "飄藍",
+    "colorNameEn": "Evening Blue",
+    "sR": 195,
+    "sG": 211,
+    "sB": 219
+  },
+  {
+    "index": 873,
+    "class": "雅",
+    "uuid": "NN0240-4",
+    "colorName": "煙灰色",
+    "colorNameEn": "Smokey Grey",
+    "sR": 191,
+    "sG": 204,
+    "sB": 212
+  },
+  {
+    "index": 874,
+    "class": "雅",
+    "uuid": "NN0241-4",
+    "colorName": "嬰兒藍",
+    "colorNameEn": "Baby Blue",
+    "sR": 176,
+    "sG": 189,
+    "sB": 199
+  },
+  {
+    "index": 875,
+    "class": "雅",
+    "uuid": "NN0243-4",
+    "colorName": "白色戀人",
+    "colorNameEn": "White Lover",
+    "sR": 219,
+    "sG": 219,
+    "sB": 215
+  },
+  {
+    "index": 876,
+    "class": "雅",
+    "uuid": "NN0244-4",
+    "colorName": "銀灰",
+    "colorNameEn": "Silver Gray",
+    "sR": 189,
+    "sG": 198,
+    "sB": 206
+  },
+  {
+    "index": 877,
+    "class": "雅",
+    "uuid": "VC7008-4",
+    "colorName": "冬日黃昏",
+    "colorNameEn": "December Dawn",
+    "sR": 216,
+    "sG": 222,
+    "sB": 225
+  },
+  {
+    "index": 878,
+    "class": "雅",
+    "uuid": "NN0250-4",
+    "colorName": "灰羊皮",
+    "colorNameEn": "Gray Sheepskin",
+    "sR": 181,
+    "sG": 189,
+    "sB": 201
+  },
+  {
+    "index": 879,
+    "class": "雅",
+    "uuid": "NN0256-4",
+    "colorName": "純白冥想",
+    "colorNameEn": "Meditation White",
+    "sR": 206,
+    "sG": 206,
+    "sB": 211
+  },
+  {
+    "index": 880,
+    "class": "雅",
+    "uuid": "NN0257-4",
+    "colorName": "豪雨",
+    "colorNameEn": "Heavy Rain",
+    "sR": 192,
+    "sG": 195,
+    "sB": 203
+  },
+  {
+    "index": 881,
+    "class": "雅",
+    "uuid": "NN0258-4",
+    "colorName": "卡普里微風",
+    "colorNameEn": "Capri Breeze",
+    "sR": 182,
+    "sG": 184,
+    "sB": 194
+  },
+  {
+    "index": 882,
+    "class": "雅",
+    "uuid": "NN0263-4",
+    "colorName": "安哥拉雲",
+    "colorNameEn": "Angola Cloud",
+    "sR": 209,
+    "sG": 207,
+    "sB": 214
+  },
+  {
+    "index": 883,
+    "class": "雅",
+    "uuid": "NN0264-4",
+    "colorName": "典雅灰",
+    "colorNameEn": "Elegant Grey",
+    "sR": 198,
+    "sG": 194,
+    "sB": 202
+  },
+  {
+    "index": 884,
+    "class": "雅",
+    "uuid": "NN0265-4",
+    "colorName": "雲霜",
+    "colorNameEn": "Cloud Frost",
+    "sR": 183,
+    "sG": 180,
+    "sB": 191
+  },
+  {
+    "index": 885,
+    "class": "雅",
+    "uuid": "NN0270-4",
+    "colorName": "鐮倉之雪",
+    "colorNameEn": "Kamakura Snow",
+    "sR": 217,
+    "sG": 215,
+    "sB": 218
+  },
+  {
+    "index": 886,
+    "class": "雅",
+    "uuid": "NN0271-4",
+    "colorName": "伏特加",
+    "colorNameEn": "Vodka",
+    "sR": 193,
+    "sG": 190,
+    "sB": 196
+  },
+  {
+    "index": 887,
+    "class": "雅",
+    "uuid": "NN0277-4",
+    "colorName": "莫斯科白",
+    "colorNameEn": "Moscow White",
+    "sR": 222,
+    "sG": 218,
+    "sB": 216
+  },
+  {
+    "index": 888,
+    "class": "雅",
+    "uuid": "NN0278-4",
+    "colorName": "白鯨",
+    "colorNameEn": "White Whale",
+    "sR": 202,
+    "sG": 198,
+    "sB": 198
+  },
+  {
+    "index": 889,
+    "class": "雅",
+    "uuid": "NN0279-4",
+    "colorName": "銀樺樹",
+    "colorNameEn": "Silver Birch",
+    "sR": 172,
+    "sG": 168,
+    "sB": 169
+  },
+  {
+    "index": 890,
+    "class": "雅",
+    "uuid": "NN7101-4",
+    "colorName": "翩翩紫蝶",
+    "colorNameEn": "Lilac Swish",
+    "sR": 225,
+    "sG": 224,
+    "sB": 222
+  },
+  {
+    "index": 891,
+    "class": "雅",
+    "uuid": "NN0284-4",
+    "colorName": "晨光港口",
+    "colorNameEn": "Pale Grey",
+    "sR": 199,
+    "sG": 196,
+    "sB": 193
+  },
+  {
+    "index": 892,
+    "class": "雅",
+    "uuid": "NN0290-4",
+    "colorName": "立冬",
+    "colorNameEn": "Winterfall",
+    "sR": 228,
+    "sG": 224,
+    "sB": 220
+  },
+  {
+    "index": 893,
+    "class": "雅",
+    "uuid": "NN0291-4",
+    "colorName": "小暑清風",
+    "colorNameEn": "Slight Heat",
+    "sR": 205,
+    "sG": 201,
+    "sB": 195
+  },
+  {
+    "index": 894,
+    "class": "雅",
+    "uuid": "NN0297-4",
+    "colorName": "光之翼",
+    "colorNameEn": "Bright Wing",
+    "sR": 224,
+    "sG": 219,
+    "sB": 212
+  },
+  {
+    "index": 895,
+    "class": "雅",
+    "uuid": "NN0298-4",
+    "colorName": "穀雨風",
+    "colorNameEn": "Rain Wind",
+    "sR": 202,
+    "sG": 196,
+    "sB": 188
+  },
+  {
+    "index": 896,
+    "class": "雅",
+    "uuid": "NN7701-4",
+    "colorName": "輕紗",
+    "colorNameEn": "Contralto",
+    "sR": 225,
+    "sG": 225,
+    "sB": 221
+  },
+  {
+    "index": 897,
+    "class": "雅",
+    "uuid": "NN1351-4",
+    "colorName": "雪花石膏",
+    "colorNameEn": "Alabaster",
+    "sR": 212,
+    "sG": 209,
+    "sB": 201
+  },
+  {
+    "index": 898,
+    "class": "雅",
+    "uuid": "NN1310-4",
+    "colorName": "淡灰",
+    "colorNameEn": "Mortar Gray",
+    "sR": 199,
+    "sG": 196,
+    "sB": 190
+  },
+  {
+    "index": 899,
+    "class": "雅",
+    "uuid": "NN0305-4",
+    "colorName": "緬甸翡翠",
+    "colorNameEn": "Burma Grey",
+    "sR": 217,
+    "sG": 208,
+    "sB": 196
+  },
+  {
+    "index": 900,
+    "class": "雅",
+    "uuid": "NN0306-4",
+    "colorName": "夜光杯",
+    "colorNameEn": "Magic Cup",
+    "sR": 203,
+    "sG": 195,
+    "sB": 185
+  },
+  {
+    "index": 901,
+    "class": "雅",
+    "uuid": "NN0307-4",
+    "colorName": "霜竹青",
+    "colorNameEn": "Frost Bamboo",
+    "sR": 192,
+    "sG": 183,
+    "sB": 174
+  },
+  {
+    "index": 902,
+    "class": "雅",
+    "uuid": "NN0312-4",
+    "colorName": "莫斯科冬天",
+    "colorNameEn": "Moscow winter",
+    "sR": 221,
+    "sG": 219,
+    "sB": 215
+  },
+  {
+    "index": 903,
+    "class": "雅",
+    "uuid": "NN0313-4",
+    "colorName": "湯力水",
+    "colorNameEn": "tonic water",
+    "sR": 200,
+    "sG": 198,
+    "sB": 195
+  },
+  {
+    "index": 904,
+    "class": "雅",
+    "uuid": "NN0319-4",
+    "colorName": "霜降",
+    "colorNameEn": "Frost Descent",
+    "sR": 221,
+    "sG": 220,
+    "sB": 213
+  },
+  {
+    "index": 905,
+    "class": "雅",
+    "uuid": "NN0320-4",
+    "colorName": "淡綠百合",
+    "colorNameEn": "Light Green Lily",
+    "sR": 196,
+    "sG": 197,
+    "sB": 189
+  },
+  {
+    "index": 906,
+    "class": "雅",
+    "uuid": "NN0326-4",
+    "colorName": "冰種玉",
+    "colorNameEn": "Ice Jade",
+    "sR": 216,
+    "sG": 217,
+    "sB": 213
+  },
+  {
+    "index": 907,
+    "class": "雅",
+    "uuid": "NN0327-4",
+    "colorName": "江南煙雨",
+    "colorNameEn": "Mizzle",
+    "sR": 195,
+    "sG": 198,
+    "sB": 193
+  },
+  {
+    "index": 908,
+    "class": "雅",
+    "uuid": "NN7308-4",
+    "colorName": "雨季天空",
+    "colorNameEn": "April Sky",
+    "sR": 211,
+    "sG": 218,
+    "sB": 217
+  },
+  {
+    "index": 909,
+    "class": "雅",
+    "uuid": "NN0038-4",
+    "colorName": "煙雲",
+    "colorNameEn": "Smoky Cloud",
+    "sR": 198,
+    "sG": 201,
+    "sB": 188
+  },
+  {
+    "index": 910,
+    "class": "雅",
+    "uuid": "NN0338-4",
+    "colorName": "銀雲",
+    "colorNameEn": "Silver Cloud",
+    "sR": 193,
+    "sG": 196,
+    "sB": 194
+  },
+  {
+    "index": 911,
+    "class": "雅",
+    "uuid": "NN0339-4",
+    "colorName": "象灰",
+    "colorNameEn": "Etoupe",
+    "sR": 167,
+    "sG": 172,
+    "sB": 171
+  },
+  {
+    "index": 912,
+    "class": "雅",
+    "uuid": "NN0345-4",
+    "colorName": "紙莎草",
+    "colorNameEn": "Papyrus",
+    "sR": 195,
+    "sG": 199,
+    "sB": 194
+  },
+  {
+    "index": 913,
+    "class": "雅",
+    "uuid": "NN0351-4",
+    "colorName": "素衣",
+    "colorNameEn": "Pure Grey",
+    "sR": 217,
+    "sG": 220,
+    "sB": 220
+  },
+  {
+    "index": 914,
+    "class": "雅",
+    "uuid": "NN0352-4",
+    "colorName": "岩嶺",
+    "colorNameEn": "Rock Ridge",
+    "sR": 192,
+    "sG": 198,
+    "sB": 200
+  },
+  {
+    "index": 915,
+    "class": "雅",
+    "uuid": "NN0358-4",
+    "colorName": "珍珠",
+    "colorNameEn": "Pearl",
+    "sR": 216,
+    "sG": 218,
+    "sB": 219
+  },
+  {
+    "index": 916,
+    "class": "雅",
+    "uuid": "NN0359-4",
+    "colorName": "霧色",
+    "colorNameEn": "Fog Color",
+    "sR": 193,
+    "sG": 197,
+    "sB": 202
+  },
+  {
+    "index": 917,
+    "class": "雅",
+    "uuid": "NN0360-4",
+    "colorName": "月石",
+    "colorNameEn": "Moon Grey",
+    "sR": 165,
+    "sG": 171,
+    "sB": 178
+  },
+  {
+    "index": 918,
+    "class": "雅",
+    "uuid": "OW056-4",
+    "colorName": "純淨灰",
+    "colorNameEn": "Purist Grey",
+    "sR": 226,
+    "sG": 228,
+    "sB": 228
+  },
+  {
+    "index": 919,
+    "class": "雅",
+    "uuid": "NN0365-4",
+    "colorName": "紐約之雨",
+    "colorNameEn": "Sprinkles",
+    "sR": 189,
+    "sG": 195,
+    "sB": 199
+  },
+  {
+    "index": 920,
+    "class": "雅",
+    "uuid": "NN0366-4",
+    "colorName": "水色陰霾",
+    "colorNameEn": "Haze",
+    "sR": 167,
+    "sG": 174,
+    "sB": 179
+  },
+  {
+    "index": 921,
+    "class": "雅",
+    "uuid": "NN0371-4",
+    "colorName": "月光",
+    "colorNameEn": "Moonlight",
+    "sR": 221,
+    "sG": 221,
+    "sB": 220
+  },
+  {
+    "index": 922,
+    "class": "雅",
+    "uuid": "NN0372-4",
+    "colorName": "鋁灰",
+    "colorNameEn": "Aluminum Grey",
+    "sR": 200,
+    "sG": 202,
+    "sB": 202
+  },
+  {
+    "index": 923,
+    "class": "雅",
+    "uuid": "NN0378-4",
+    "colorName": "松灰",
+    "colorNameEn": "Pine Gray",
+    "sR": 199,
+    "sG": 199,
+    "sB": 198
+  },
+  {
+    "index": 924,
+    "class": "雅",
+    "uuid": "NN0379-4",
+    "colorName": "城堡牆",
+    "colorNameEn": "Castle Wall",
+    "sR": 172,
+    "sG": 173,
+    "sB": 173
+  },
+  {
+    "index": 925,
+    "class": "雅",
+    "uuid": "NN0384-4",
+    "colorName": "炊煙",
+    "colorNameEn": "Smoky Grey",
+    "sR": 211,
+    "sG": 210,
+    "sB": 207
+  },
+  {
+    "index": 926,
+    "class": "雅",
+    "uuid": "NN0385-4",
+    "colorName": "幻影灰",
+    "colorNameEn": "Misty Grey",
+    "sR": 188,
+    "sG": 187,
+    "sB": 184
+  },
+  {
+    "index": 927,
+    "class": "雅",
+    "uuid": "NN7001-4",
+    "colorName": "雪花膏",
+    "colorNameEn": "Frosty Violet",
+    "sR": 223,
+    "sG": 225,
+    "sB": 223
+  },
+  {
+    "index": 928,
+    "class": "雅",
+    "uuid": "NN0037-4",
+    "colorName": "太空漫步",
+    "colorNameEn": "Spacewalk",
+    "sR": 202,
+    "sG": 204,
+    "sB": 201
+  },
+  {
+    "index": 929,
+    "class": "雅",
+    "uuid": "NN1360-4",
+    "colorName": "灰紐扣",
+    "colorNameEn": "Gray Button",
+    "sR": 195,
+    "sG": 195,
+    "sB": 191
+  },
+  {
+    "index": 930,
+    "class": "雅",
+    "uuid": "NN0391-4",
+    "colorName": "蛋清",
+    "colorNameEn": "Egg White",
+    "sR": 227,
+    "sG": 224,
+    "sB": 215
+  },
+  {
+    "index": 931,
+    "class": "雅",
+    "uuid": "NN0392-4",
+    "colorName": "蛋白石",
+    "colorNameEn": "Opal",
+    "sR": 196,
+    "sG": 195,
+    "sB": 192
+  }
+]
