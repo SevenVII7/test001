@@ -402,7 +402,7 @@ const roomData = {
     ]
 };
 
-// 油漆資料
+// 油漆原始資料, 接json用
 let paintData = [
     {
         index: 1,
@@ -415,6 +415,12 @@ let paintData = [
         sB: 237
     },
 ];
+
+// 要顯示的油漆資料
+let showPaintData = [];
+
+// 目前是否在我的最愛中
+let ifInFav = false;
 
 // 更換空間lightbox內的swiper的控制用變數
 let roomSwiper = null;
@@ -454,7 +460,10 @@ function changeRoom(roomName){
 
 // 變換所選牆面的顏色, 掛在html上的function
 function changeSelectWallColor(color){
-    roomData.roomScenes[roomData.nowRoomIndex].changeWallColor(color)
+    roomData.roomScenes[roomData.nowRoomIndex].changeWallColor(
+        color,
+        () => { hintbox('請先選擇區域'); }
+    );
 }
 
 // 變換更換空間內的swiper
@@ -475,8 +484,44 @@ function changeRoomPreviewSwiper(rooms){
     });
 }
 
+// 切換至我的最愛
+function toggleFavMode(){
+    if(ifInFav){
+        $('#toggle_fav_mode').html(`
+            <img src="img/icon/collect.svg" alt="">
+            <p class="txt-grey txt-medium">
+                我的清單色
+            </p>
+        `);
+    } else {
+        $('#toggle_fav_mode').html(`
+            <p class="txt-grey txt-medium txt-center" style="width: 100%;">
+                回到色彩清單
+            </p>
+        `)
+    }
+    ifInFav = !ifInFav;
+    refreshPaint();
+}
+
+// 提示訊息
+let hintboxTimtout = null;
+function hintbox(hint){
+    $('#hintbox').remove();
+    $('#canvas_outer').append(createHintbox({hint}));
+    clearTimeout(hintboxTimtout);
+    hintboxTimtout = setTimeout(() => {
+        closeHintbox();
+    }, 5000);
+}
+
+// 關閉提示訊息
+function closeHintbox(){
+    $('#hintbox').fadeOut(300, () => { $('#hintbox').remove(); });
+}
+
 // 取得所有油漆資料 (執行一次)
-function getAllPaint(method, url){
+function getAllPaint(method, url, fn){
     axios({
         method,
         url,
@@ -485,9 +530,37 @@ function getAllPaint(method, url){
         console.log(response.data);
         paintData = [];
         paintData = response.data;
-        setPaint(paintData);
+        showPaintData = [];
+        showPaintData = response.data;
+        if(fn){
+            fn();
+        }
     })
     .catch((error) => {console.log(error.message)})
+}
+
+// 刷新油漆色票
+function refreshPaint(){
+    // 我的最愛模式
+    if(ifInFav){
+        let myFav = JSON.parse(localStorage.getItem('myFav'));
+        showPaintData = [];
+        if(myFav){
+            paintData.forEach((elemP) => {
+                myFav.forEach((elemF) => {
+                    if(elemP.uuid == elemF){
+                        showPaintData.push(elemP);
+                    }
+                })
+            });
+            setPaint(showPaintData);
+        }
+    }
+    // 一般模式
+    else{
+        showPaintData = paintData;
+        setPaint(showPaintData);
+    }
 }
 
 // 建立油漆items
@@ -501,10 +574,48 @@ function setPaint(paints){
                 sG: elem.sG,
                 sB: elem.sB,
                 colorName: elem.colorName,
+                uuid: elem.uuid,
             }
         )
     });
     $(coloritemStr).appendTo('#color_menu .colors');
+}
+
+// 加入/移除我的最愛, 掛在html上的function
+function changeFavState(uuid){
+    let myFav = JSON.parse(localStorage.getItem('myFav'));
+    let ifRepeat = false;
+    let rerepeatIndex = null;
+    console.log('init:', myFav);
+    if(myFav && myFav.length){
+        myFav.forEach((elem, i) => {
+            console.log(elem)
+            if(elem == uuid){
+                ifRepeat = true;
+                rerepeatIndex = i;
+                return;
+            }
+        });
+        if(ifRepeat){
+            myFav.splice(rerepeatIndex, 1);
+            localStorage.setItem('myFav', JSON.stringify(myFav));
+            console.log('remove', uuid);
+        } else {
+            myFav.push(uuid);
+            localStorage.setItem('myFav', JSON.stringify(myFav));
+            console.log('push', uuid);
+        }
+    } else {
+        console.log('first push:', uuid);
+        localStorage.setItem('myFav', `["${uuid}"]`);
+    }
+    console.log('end:', JSON.parse(localStorage.getItem('myFav')));
+    refreshPaint();
+}
+
+// 清除我的最愛
+function clearFav(){
+    localStorage.removeItem('myFav');
 }
 
 
@@ -533,21 +644,68 @@ function createColorCard({
     `;
 }
 
+// 提示訊息
+function createHintbox({
+    hint = ''
+} = {}){
+    return `
+        <div id="hintbox">
+            <img
+                src="img/icon/close.svg"
+                class="close"
+                onclick="closeHintbox();"
+                alt="">
+            <h6 class="txt-center">
+                ${hint}
+            </h6>
+        </div>
+    `
+}
+
 // 色票item的結構
 function createColorItem({
     sR = 0,
     sG = 0,
     sB = 0,
-    colorName = ''
+    colorName = '',
+    uuid = null,
 } = {}){
+    let myFav = JSON.parse(localStorage.getItem('myFav'));
+    if(!myFav){
+        myFav = [];
+    }
     return colorCardStr = `
         <div
             class="color"
-            style="background-color: rgba(${sR}, ${sG}, ${sB}, 1);"
-            onclick="changeSelectWallColor([${sR}, ${sG}, ${sB}])">
+            style="background-color: rgba(${sR}, ${sG}, ${sB}, 1);">
                 <small class="txt-white">
                     ${colorName}
                 </small>
+                <img
+                    src="img/icon/add.svg"
+                    class="change_color"
+                    onclick="
+                        changeSelectWallColor([${sR}, ${sG}, ${sB}]);
+                    ">
+                <button
+                    type="button"
+                    class="toggle_fav small"
+                    onclick="
+                        changeFavState('${uuid}');
+                    ">
+                    ${
+                        (() => {
+                            let str = '加入';
+                            myFav.forEach((elem) => {
+                                if(elem == uuid){
+                                    str = '移除'
+                                }
+                            })
+
+                            return str;
+                        })()
+                    }
+                </button>
         </div>
     `;
 }
@@ -698,11 +856,24 @@ function CreateScene(
         self.nowActive = index;
         console.log('selectWall(): nowActive ', self.nowActive);
     }
-    this.changeWallColor = function(color){
+    this.changeWallColor = function(color, errorFn){
         console.log(color);
         if(typeof(self.nowActive) == 'number'){
-            self.walls[self.nowActive].setWall(`0x${rgbHex(color[0],color[1],color[2])}`, 1);
-            self.walls[self.nowActive].card.find('.color_preview').css({'backgroundColor' : `#${rgbHex(color[0],color[1],color[2])}`});
+            self.walls[self.nowActive].setWall(`0x${
+                rgbHex(
+                    (color[0]>255) ? 255 : color[0],
+                    (color[1]>255) ? 255 : color[1],
+                    (color[2]>255) ? 255 : color[2],
+                )}`, 1);
+            self.walls[self.nowActive].card.find('.color_preview').css({'backgroundColor' : `#${
+                rgbHex(
+                    (color[0]>255) ? 255 : color[0],
+                    (color[1]>255) ? 255 : color[1],
+                    (color[2]>255) ? 255 : color[2],
+                )
+            }`});
+        } else {
+            errorFn();
         }
     }
 }

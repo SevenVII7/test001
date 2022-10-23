@@ -32,26 +32,32 @@ loader
         { name: "livingroomD-main", url: "img/paint/livingroom/d_main.png" },
     ])
     .load(() => { 
-        changeRoom('bedroomD');
-        getAllPaint('get', 'js/allPaint.json');
-        changeRoomPreviewSwiper([
-            {
-                roomName: 'bedroomA',
-                roomPic: 'img/paint/bedroom/a_main.png',
-            },
-            {
-                roomName: 'bedroomB',
-                roomPic: 'img/paint/bedroom/b_main.png',
-            },
-            {
-                roomName: 'bedroomC',
-                roomPic: 'img/paint/bedroom/c_main.png',
-            },
-            {
-                roomName: 'bedroomD',
-                roomPic: 'img/paint/bedroom/d_main.png',
-            },
-        ]);
+      changeRoom('bedroomA');
+      getAllPaint(
+        'get',
+        'js/allPaint.json',
+        () => {
+          refreshPaint();
+        }
+      );
+      changeRoomPreviewSwiper([
+          {
+              roomName: 'bedroomA',
+              roomPic: 'img/paint/bedroom/a_main.png',
+          },
+          {
+              roomName: 'bedroomB',
+              roomPic: 'img/paint/bedroom/b_main.png',
+          },
+          {
+              roomName: 'bedroomC',
+              roomPic: 'img/paint/bedroom/c_main.png',
+          },
+          {
+              roomName: 'bedroomD',
+              roomPic: 'img/paint/bedroom/d_main.png',
+          },
+      ]);
     });
 
 

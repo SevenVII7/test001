@@ -953,6 +953,7 @@ input[type=checkbox]:not(old):checked + label > span:before {
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
+  z-index: 10;
 }
 #painting #btn-change_space:hover {
   -webkit-transform: translateX(10px);
@@ -981,6 +982,7 @@ input[type=checkbox]:not(old):checked + label > span:before {
 }
 #painting .top .classification {
   width: calc(40% - 30px);
+  min-width: 485px;
   margin-left: 30px;
 }
 #painting .top .classification button {
@@ -1008,6 +1010,40 @@ input[type=checkbox]:not(old):checked + label > span:before {
 #painting #main_feature #canvas_outer {
   width: 60%;
   position: relative;
+}
+#painting #main_feature #canvas_outer #hintbox {
+  width: 90%;
+  max-width: 600px;
+  padding: 30px 10px;
+  border: 1px solid #E06A0F;
+  color: #E06A0F;
+  background-color: #fff;
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  -webkit-animation: fadein 0.3s;
+          animation: fadein 0.3s;
+}
+#painting #main_feature #canvas_outer #hintbox .close {
+  width: 40px;
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  position: absolute;
+  top: 0;
+  right: 0;
+  -webkit-transform: translate(50%, -50%);
+      -ms-transform: translate(50%, -50%);
+          transform: translate(50%, -50%);
+  cursor: pointer;
+}
+#painting #main_feature #canvas_outer #hintbox .close:hover {
+  -webkit-transform: translate(50%, -50%) scale(1.1);
+      -ms-transform: translate(50%, -50%) scale(1.1);
+          transform: translate(50%, -50%) scale(1.1);
 }
 #painting #main_feature #canvas_outer .color_card {
   width: 12%;
@@ -1085,6 +1121,7 @@ input[type=checkbox]:not(old):checked + label > span:before {
 }
 #painting #main_feature #color_menu {
   width: calc(40% - 30px);
+  min-width: 485px;
   margin-left: 30px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1196,9 +1233,10 @@ input[type=checkbox]:not(old):checked + label > span:before {
   padding-bottom: 18%;
   border-radius: 2px;
   position: relative;
+  cursor: pointer;
 }
 #painting #main_feature #color_menu .color_options .color_itembox .colors .color small {
-  max-width: 100%;
+  max-width: calc(100% - 28px);
   padding: 5px;
   display: inline-block;
   text-shadow: 0 0 7px rgba(0, 0, 0, 0.3);
@@ -1206,9 +1244,151 @@ input[type=checkbox]:not(old):checked + label > span:before {
   top: 0;
   left: 0;
 }
-@media screen and (max-width: 1200px) {
+#painting #main_feature #color_menu .color_options .color_itembox .colors .color .change_color {
+  width: 25px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  cursor: pointer;
+  transition: 0.2s;
+}
+#painting #main_feature #color_menu .color_options .color_itembox .colors .color .change_color:hover {
+  -webkit-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+          transform: scale(1.1);
+}
+#painting #main_feature #color_menu .color_options .color_itembox .colors .color .toggle_fav {
+  padding: 5px;
+  position: absolute;
+  color: #707070;
+  background-color: #fff;
+  -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+          box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  right: 5px;
+  bottom: 5px;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+#painting #main_feature #color_menu .color_options .color_itembox .colors .color .toggle_fav:hover {
+  color: #E06A0F;
+}
+@media screen and (max-width: 1280px) {
+  #painting .top .classification {
+    min-width: 428px;
+  }
   #painting #main_feature #canvas_outer .color_card p {
     font-size: 14px;
+  }
+  #painting #main_feature #color_menu {
+    min-width: 428px;
+  }
+  #painting #main_feature #color_menu .title_block h6 {
+    font-size: 16px;
+  }
+  #painting #main_feature #color_menu .title_block h6 .step_block {
+    min-height: 32px;
+  }
+  #painting #main_feature #color_menu .title_block button {
+    min-height: 32px;
+  }
+  #painting #main_feature #color_menu .title_block button p {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 1150px) {
+  #painting #btn-change_space {
+    padding: 7px;
+    padding-right: 50px;
+  }
+  #painting #btn-change_space h6 {
+    font-size: 16px;
+  }
+  #painting #btn-change_space img {
+    width: 28px;
+    margin-right: 8px;
+  }
+  #painting .top {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+  #painting .top .title {
+    width: 100%;
+  }
+  #painting .top .classification {
+    width: 100%;
+    min-width: auto;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+  #painting .top .classification button {
+    width: 30%;
+    min-width: 110px;
+  }
+  #painting #main_feature {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+  #painting #main_feature #canvas_outer {
+    width: 100%;
+  }
+  #painting #main_feature #canvas_outer canvas {
+    width: 100%;
+  }
+  #painting #main_feature #color_menu {
+    width: 100%;
+    min-width: auto;
+    min-height: 90vw;
+    margin-top: 30px;
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 600px) {
+  #painting #main_feature #canvas_outer .color_card {
+    min-width: 58px;
+  }
+  #painting #main_feature #canvas_outer .color_card p {
+    font-size: 12px;
+  }
+  #painting #main_feature #color_menu {
+    min-height: 135vw;
+  }
+  #painting #main_feature #color_menu .title_block h6 .step_block {
+    padding: 5px 10px;
+  }
+  #painting #main_feature #color_menu .color_options .color_itembox .colors {
+    width: calc(100% + 6px);
+    max-height: calc(100% + 6px);
+    margin: -3px;
+  }
+  #painting #main_feature #color_menu .color_options .color_itembox .colors .color {
+    width: calc(25% - 6px);
+    margin: 3px;
+  }
+}
+@media screen and (max-width: 460px) {
+  #painting #main_feature #color_menu .title_block {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+  #painting #main_feature #color_menu .title_block h6 {
+    width: 100%;
+  }
+  #painting #main_feature #color_menu .title_block button {
+    width: 100%;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
 }
 
@@ -1219,6 +1399,7 @@ input[type=checkbox]:not(old):checked + label > span:before {
   top: 0;
   left: 0;
   display: none;
+  z-index: 20;
 }
 #place_lightbox.active {
   display: block;
@@ -1344,4 +1525,20 @@ input[type=checkbox]:not(old):checked + label > span:before {
 #place_lightbox .box .box_inner .room_preview button:hover {
   border: 1px solid #E06A0F;
   color: #E06A0F;
+}
+@media screen and (max-width: 600px) {
+  #place_lightbox .box .box_inner .room_class {
+    width: 80px;
+  }
+  #place_lightbox .box .box_inner .room_class button {
+    padding: 5px 10px;
+    margin-bottom: 5px;
+  }
+  #place_lightbox .box .box_inner .room_preview {
+    width: calc(100% - 80px);
+    padding-left: 10px;
+  }
+  #place_lightbox .box .box_inner .room_preview button {
+    margin-top: 10px;
+  }
 }/*# sourceMappingURL=main.css.map */

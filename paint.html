@@ -36,15 +36,25 @@
         </div>
         <div class="classification">
           <button type="button" class="active">
-            <h6 class="txt-center txt-bold">玩配色</h6>
+            <h6 class="txt-center txt-bold" onclick="">玩配色</h6>
           </button>
           <button type="button">
-            <h6 class="txt-center txt-bold">色彩顧問</h6>
+            <h6 class="txt-center txt-bold" onclick="hintbox('施工中')">色彩顧問</h6>
           </button>
         </div>
       </div>
       <div id="main_feature">
         <div id="canvas_outer">
+          <!-- <div id="hintbox">
+            <img
+              src="img/icon/close.svg"
+              class="close"
+              onclick="$('#hintbox').remove();"
+              alt="">
+            <h6 class="txt-center">
+              請先選擇區域
+            </h6>
+          </div> -->
           <!-- <div class="color_card">
             <figure>
               <img src="img/icon/prompt.svg" alt="">
@@ -60,9 +70,9 @@
         <div id="color_menu">
           <div class="title_block">
             <h6><span class="step_block txt-white txt-bold">STEP.1</span> 選擇顏色，並加入油漆清單</h6>
-            <button type="button">
+            <button type="button" id="toggle_fav_mode" onclick="toggleFavMode();">
               <img src="img/icon/collect.svg" alt="">
-              <p class="p18 txt-grey txt-medium">
+              <p class="txt-grey txt-medium">
                 我的清單色
               </p>
             </button>
