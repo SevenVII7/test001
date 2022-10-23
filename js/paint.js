@@ -553,8 +553,8 @@ function refreshPaint(){
                     }
                 })
             });
-            setPaint(showPaintData);
         }
+        setPaint(showPaintData);
     }
     // 一般模式
     else{
