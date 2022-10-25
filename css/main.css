@@ -1299,6 +1299,9 @@ header .inner nav .main_item:after {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+#painting #main_feature #color_menu .color_options .my_list_title {
+  margin-bottom: 10px;
+}
 #painting #main_feature #color_menu .color_options .form_col {
   padding-bottom: 10px;
   display: -webkit-box;

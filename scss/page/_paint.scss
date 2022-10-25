@@ -186,6 +186,9 @@
         background-color: #fff;
         display: flex;
         flex-direction: column;
+        .my_list_title{
+          margin-bottom: 10px;
+        }
         .form_col{
           padding-bottom: 10px;
           display: flex;

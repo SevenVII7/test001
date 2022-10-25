@@ -488,6 +488,7 @@ function changeRoomPreviewSwiper(rooms){
 function toggleFavMode(){
     if(ifInFav){
         $('.form_col').show();
+        $('.my_list_title').hide();
         $('#toggle_fav_mode').html(`
             <img src="img/icon/collect.svg" alt="">
             <p class="txt-grey txt-medium">
@@ -496,6 +497,7 @@ function toggleFavMode(){
         `);
     } else {
         $('.form_col').hide();
+        $('.my_list_title').show();
         $('.color_options #search_paint').val('');
         $('#toggle_fav_mode').html(`
             <p class="txt-grey txt-medium txt-center" style="width: 100%;">
