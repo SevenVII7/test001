@@ -63,7 +63,7 @@
       position: relative;
       #hintbox{
         width: 90%;
-        max-width: 600px;
+        max-width: 650px;
         padding: 30px 10px;
         border: 1px solid $color-prime;
         color: $color-prime;
@@ -186,6 +186,55 @@
         background-color: #fff;
         display: flex;
         flex-direction: column;
+        .form_col{
+          padding-bottom: 10px;
+          display: flex;
+          align-items: center;
+          >p{
+            width: 140px;
+            padding: 10px 5px;
+            color: #7B7B7B;
+          }
+          .form_item{
+            width: calc(100% - 140px);
+          }
+          .search_box{
+            width: 100%;
+            position: relative;
+            border: 1px solid #222;
+            input{
+              margin: 0;
+              width: calc(100% - 30px);
+            }
+            #search_btn{
+              width: 20px;
+              position: absolute;
+              top: 50%;
+              right: 10px;
+              transform: translateY(-50%);
+              cursor: pointer;
+              z-index: 1;
+            }
+          }
+          .brand_box{
+            margin: 0 -5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            input[type=checkbox]:not(old):checked + label{
+              border: 1px solid $color-prime;
+              color: $color-prime;
+            }
+            label{
+              flex: auto;
+              margin: 0 5px;
+              padding: 7px 3px;
+              text-align: center;
+              display: block;
+              border: 1px solid #222;
+            }
+          }
+        }
         .color_itembox{
           flex: 1;
           position: relative;
@@ -213,7 +262,7 @@
                 max-width: calc(100% - 28px);
                 padding: 5px;
                 display: inline-block;
-                text-shadow: 0 0 7px rgba(0,0,0,.3);
+                text-shadow: 0 0 8px rgba(0,0,0,.5);
                 position: absolute;
                 top: 0;
                 left: 0;

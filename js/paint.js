@@ -487,6 +487,7 @@ function changeRoomPreviewSwiper(rooms){
 // 切換至我的最愛
 function toggleFavMode(){
     if(ifInFav){
+        $('.form_col').show();
         $('#toggle_fav_mode').html(`
             <img src="img/icon/collect.svg" alt="">
             <p class="txt-grey txt-medium">
@@ -494,6 +495,8 @@ function toggleFavMode(){
             </p>
         `);
     } else {
+        $('.form_col').hide();
+        $('.color_options #search_paint').val('');
         $('#toggle_fav_mode').html(`
             <p class="txt-grey txt-medium txt-center" style="width: 100%;">
                 回到色彩清單
@@ -540,7 +543,9 @@ function getAllPaint(method, url, fn){
 }
 
 // 刷新油漆色票
-function refreshPaint(){
+function refreshPaint({
+    keyword = null,
+} = {}){
     // 我的最愛模式
     if(ifInFav){
         let myFav = JSON.parse(localStorage.getItem('myFav'));
@@ -558,7 +563,16 @@ function refreshPaint(){
     }
     // 一般模式
     else{
-        showPaintData = paintData;
+        if(keyword){
+            showPaintData = paintData.filter(
+                elem =>
+                    elem.colorName.indexOf(keyword) >= 0
+                    || elem.colorNameEn.indexOf(keyword) >= 0
+                    || elem.uuid.indexOf(keyword) >= 0
+            );
+        } else {
+            showPaintData = paintData;
+        }
         setPaint(showPaintData);
     }
 }
@@ -610,7 +624,7 @@ function changeFavState(uuid){
         localStorage.setItem('myFav', `["${uuid}"]`);
     }
     console.log('end:', JSON.parse(localStorage.getItem('myFav')));
-    refreshPaint();
+    refreshPaint({keyword: $('.color_options #search_paint').val()});
 }
 
 // 清除我的最愛

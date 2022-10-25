@@ -95,14 +95,17 @@
 
 
 
-
-@keyframes arrow_v{
-    0%{ transform: translateY(0%); }
-    50%{ transform: translateY(20px); }
-    100%{ transform: translateY(0%); }
+@keyframes repeatOpacity{
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0.3;
+    }
+    100%{
+        opacity: 1;
+    }
 }
-@keyframes arrow_h{
-    0%{ transform: translateX(0); }
-    50%{ transform: translateX(-15px); }
-    100%{ transform: translateX(0); }
+.repeat-opacity{
+    animation: repeatOpacity 3s linear infinite;
 }

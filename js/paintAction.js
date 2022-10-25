@@ -166,3 +166,12 @@ $('#btn-select_room').on('click', function(){
         changeRoom(roomName);
     }
 });
+
+$('.color_options #search_btn').on('click', function(){
+  refreshPaint({keyword: $('.color_options #search_paint').val()});
+});
+$('.color_options #search_paint').on('keydown', function(e){
+  if(e.keyCode === 13){
+    refreshPaint({keyword: $('.color_options #search_paint').val()});
+  }
+});
