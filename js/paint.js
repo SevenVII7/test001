@@ -499,6 +499,10 @@ function toggleFavMode(){
         $('.form_col').hide();
         $('.my_list_title').show();
         $('.color_options #search_paint').val('');
+        $('input[name=paint_brand]').each((i, elem) => {
+            $(elem).prop('checked', true);
+        })
+        $('input[name=paint_tone]').eq(0).prop('checked', true);
         $('#toggle_fav_mode').html(`
             <p class="txt-grey txt-medium txt-center" style="width: 100%;">
                 回到色彩清單
@@ -547,6 +551,8 @@ function getAllPaint(method, url, fn){
 // 刷新油漆色票
 function refreshPaint({
     keyword = null,
+    brand = [1,2],
+    search = []
 } = {}){
     // 我的最愛模式
     if(ifInFav){
@@ -565,15 +571,27 @@ function refreshPaint({
     }
     // 一般模式
     else{
+        showPaintData = paintData.filter(
+            elem =>
+                elem.brand == brand[0]
+                || elem.brand == brand[1]
+                || elem.brand == brand[2]
+        );
+        if(search.length){
+            showPaintData = showPaintData.filter(
+                elem =>
+                    elem.uuid.indexOf(search[0]) >= 0
+                    || elem.uuid.indexOf(search[1]) >= 0
+                    || elem.uuid.indexOf(search[2]) >= 0
+            );
+        }
         if(keyword){
-            showPaintData = paintData.filter(
+            showPaintData = showPaintData.filter(
                 elem =>
                     elem.colorName.indexOf(keyword) >= 0
                     || elem.colorNameEn.indexOf(keyword) >= 0
                     || elem.uuid.indexOf(keyword) >= 0
             );
-        } else {
-            showPaintData = paintData;
         }
         setPaint(showPaintData);
     }
@@ -598,7 +616,7 @@ function setPaint(paints){
 }
 
 // 加入/移除我的最愛, 掛在html上的function
-function changeFavState(uuid){
+function changeFavState(uuid, paintElem){
     let myFav = JSON.parse(localStorage.getItem('myFav'));
     let ifRepeat = false;
     let rerepeatIndex = null;
@@ -626,7 +644,16 @@ function changeFavState(uuid){
         localStorage.setItem('myFav', `["${uuid}"]`);
     }
     console.log('end:', JSON.parse(localStorage.getItem('myFav')));
-    refreshPaint({keyword: $('.color_options #search_paint').val()});
+
+    if(ifInFav){
+        refreshPaint();
+    } else {
+        if(paintElem.text().trim() == '加入'){
+            paintElem.text('移除');
+        } else {
+            paintElem.text('加入');
+        }
+    }
 }
 
 // 清除我的最愛
@@ -693,7 +720,11 @@ function createColorItem({
     return colorCardStr = `
         <div
             class="color"
-            style="background-color: rgba(${sR}, ${sG}, ${sB}, 1);">
+            style="background-color: rgba(${sR}, ${sG}, ${sB}, 1);"
+            onclick="
+                $(this).toggleClass('active');
+                $(this).siblings().removeClass('active');
+            ">
                 <small class="txt-white">
                     ${colorName}
                 </small>
@@ -701,26 +732,28 @@ function createColorItem({
                     src="img/icon/add.svg"
                     class="change_color"
                     onclick="
+                        event.stopPropagation();
                         changeSelectWallColor([${sR}, ${sG}, ${sB}]);
                     ">
                 <button
                     type="button"
                     class="toggle_fav small"
                     onclick="
-                        changeFavState('${uuid}');
+                        event.stopPropagation();
+                        changeFavState('${uuid}', $(this));
                     ">
-                    ${
-                        (() => {
-                            let str = '加入';
-                            myFav.forEach((elem) => {
-                                if(elem == uuid){
-                                    str = '移除'
-                                }
-                            })
+                        ${
+                            (() => {
+                                let str = '加入';
+                                myFav.forEach((elem) => {
+                                    if(elem == uuid){
+                                        str = '移除'
+                                    }
+                                })
 
-                            return str;
-                        })()
-                    }
+                                return str;
+                            })()
+                        }
                 </button>
         </div>
     `;

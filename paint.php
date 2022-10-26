@@ -1,45 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>特力屋線上油漆中心</title>
-  <link rel="stylesheet" href="lib/swiper-bundle.min.css">
-  <link rel="stylesheet" href="css/main.css">
-  <script src="lib/jquery-3.1.0.min.js"></script>
-  <script src="lib/swiper-bundle.min.js"></script>
-  <script src="lib/pixi.min.js"></script>
-  <script src="lib/howler.min.js"></script>
-  <script src="lib/axios.min.js"></script>
-  <script src="lib/rgbHex.js"></script>
+  <?php include './include/_meta.php'?>
 </head>
 <body>
 
-  <header>
-    <div class="w1400">
-        <div class="inner">
-            <a href="" class="logo_outer">
-                <img src="img/logo.svg" class="logo" alt="logo">
-            </a>
-            <nav>
-                <!-- 直接連結的項目 -->
-                <a href="" class="main_item txt-medium p-18 active">
-                  玩配色
-                </a>
-                <a href="" class="main_item txt-medium p-18">
-                  找靈感與方法
-                </a>
-                <a href="" class="main_item txt-medium p-18">
-                  看產品
-                </a>
-                <a href="" class="main_item txt-medium p-18">
-                  社區管家
-                </a>
-            </nav>
-        </div>
-    </div>
-  </header>
+  <?php include './include/_header.php'?>
 
   <section id="painting">
     <button type="button" id="btn-change_space">
@@ -106,53 +72,111 @@
             <div class="my_list_title" style="display: none;">
               <p class="txt-medium txt-center">我的清單色</p>
             </div>
-            <div class="form_col">
-              <p class="txt-medium">
-                搜尋喜歡的顏色
-              </p>
-              <div class="form_item">
-                <div class="search_box">
-                  <input
-                    id="search_paint"
-                    type="text" class="p"
-                    placeholder="輸入關鍵字或指定色號">
-                  <img src="img/icon/search.svg" id="search_btn" alt="">
+            <form id="form" onsubmit="return false">
+              <div class="form_col">
+                <p class="txt-medium">
+                  搜尋喜歡的顏色
+                </p>
+                <div class="form_item">
+                  <div class="search_box">
+                    <input
+                      id="search_paint"
+                      type="text" class="p"
+                      placeholder="輸入關鍵字或指定色號">
+                    <img src="img/icon/search.svg" id="search_btn" alt="">
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="form_col">
-              <p class="txt-medium">
-                選擇指定品牌
-              </p>
-              <div class="form_item">
-                <div class="brand_box">
-                  <input
-                    type="checkbox"
-                    name="paint_brand"
-                    id="tr" value="tr"
-                    checked>
-                  <label class="p" for="tr">
-                    特力屋油漆
-                  </label>
-                  <input
-                    type="checkbox"
-                    name="paint_brand"
-                    id="libun" value="libun"
-                    checked>
-                  <label class="p" for="libun">
-                    立邦塗料
-                  </label>
-                  <input
-                    type="checkbox"
-                    name="paint_brand"
-                    id="dl" value="dl"
-                    checked>
-                  <label class="p" for="dl">
-                    得利塗料
-                  </label>
+              <div class="form_col">
+                <p class="txt-medium">
+                  選擇指定品牌
+                </p>
+                <div class="form_item">
+                  <div class="brand_box">
+                    <input
+                      type="checkbox"
+                      name="paint_brand"
+                      id="tr" value="1"
+                      checked>
+                    <label class="p" for="tr">
+                      特力屋油漆
+                    </label>
+                    <input
+                      type="checkbox"
+                      name="paint_brand"
+                      id="libun" value="1"
+                      checked>
+                    <label class="p" for="libun">
+                      立邦塗料
+                    </label>
+                    <input
+                      type="checkbox"
+                      name="paint_brand"
+                      id="dl" value="2"
+                      checked>
+                    <label class="p" for="dl">
+                      得利塗料
+                    </label>
+                  </div>
                 </div>
               </div>
-            </div>
+              <div class="form_col">
+                <p class="txt-medium">
+                  選擇色階
+                </p>
+                <div class="form_item">
+                  <div class="tone_box">
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone0" value="0"
+                      checked>
+                    <label for="tone0" style="border: 1px solid #999; background-color: #fff;"></label>
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone1" value="1">
+                    <label for="tone1" style="background-color: #C35045;"></label>
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone2" value="2">
+                    <label for="tone2" style="background-color: #E88746;"></label>
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone3" value="3">
+                    <label for="tone3" style="background-color: #F7CD46;"></label>
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone4" value="4">
+                    <label for="tone4" style="background-color: #7BAD4B;"></label>
+                    
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone5" value="5">
+                    <label for="tone5" style="background-color: #3988C8;"></label>
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone6" value="6">
+                    <label for="tone6" style="background-color: #7B5480;"></label>
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone7" value="7">
+                    <label for="tone7" style="background-color: #756C60;"></label>
+                    <input
+                      type="radio"
+                      name="paint_tone"
+                      id="tone8" value="8">
+                    <label for="tone8" style="background-color: #E6E6E1;"></label>
+                  </div>
+                </div>
+              </div>
+            </form>
             <div class="color_itembox">
               <div class="colors">
                 <div class="color" style="background-color: #e7e7e7;"></div>

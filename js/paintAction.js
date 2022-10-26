@@ -167,11 +167,56 @@ $('#btn-select_room').on('click', function(){
     }
 });
 
+
+function searchPaint(){
+  const formData = new FormData($('#form')[0]);
+  refreshPaint({
+    keyword: $('.color_options #search_paint').val(),
+    brand: formData.getAll('paint_brand'),
+    search: (()=>{
+      switch (formData.get('paint_tone')){
+        case ('0'):
+          return []
+          break;
+        case ('1'):
+          return ['RC', 'RN', 'RA']
+          break;
+        case ('2'):
+          return ['OC', 'ON', 'OA']
+          break;
+        case ('3'):
+          return ['YC', 'YN', 'YA']
+          break;
+        case ('4'):
+          return ['GC', 'GN', 'GA']
+          break;
+        case ('5'):
+          return ['BC', 'BN', 'BA']
+          break;
+        case ('6'):
+          return ['VC', 'VN', 'VA']
+          break;
+        case ('7'):
+          return ['NN']
+          break;
+        case ('8'):
+          return ['OW']
+          break;
+      }
+    })(),
+  });
+}
 $('.color_options #search_btn').on('click', function(){
-  refreshPaint({keyword: $('.color_options #search_paint').val()});
+  searchPaint();
 });
 $('.color_options #search_paint').on('keydown', function(e){
   if(e.keyCode === 13){
-    refreshPaint({keyword: $('.color_options #search_paint').val()});
+    searchPaint();
   }
 });
+$('input[name=paint_brand]').on('change', function(){
+  searchPaint();
+})
+$('input[name=paint_tone]').on('change', function(){
+  searchPaint();
+})
