@@ -1448,6 +1448,9 @@ header .inner nav .main_item:after {
   position: relative;
   cursor: pointer;
 }
+#painting #main_feature #color_menu .color_options .color_itembox .colors .color.active {
+  z-index: 10;
+}
 #painting #main_feature #color_menu .color_options .color_itembox .colors .color.active .change_color {
   display: block;
   -webkit-animation: fadein 0.2s;
@@ -1462,7 +1465,7 @@ header .inner nav .main_item:after {
   max-width: calc(100% - 28px);
   padding: 5px;
   display: inline-block;
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
   position: absolute;
   top: 0;
   left: 0;

@@ -282,10 +282,22 @@
               border-radius: 2px;
               position: relative;
               cursor: pointer;
-              // float: left;
+              // transition: .2s;
+              // float: right;
+              // &:not(:nth-child(4n)){
+              //   background-color: #000 !important;
+              //   float: right;
+              // }
               &.active{
                 // width: calc(50% - 10px);
-                // padding-bottom: 36%;
+                // margin-right: -35px;
+                // padding-bottom: calc(36% + 10px);
+                // margin-bottom: -35px;
+                // float: left;
+                // transform: scale(1.2);
+                // transform-origin: top left;
+                // box-shadow: 0 0 3px rgba(0,0,0,1);
+                z-index: 10;
                 .change_color{
                   display: block;
                   animation: fadein .2s;
@@ -299,7 +311,7 @@
                 max-width: calc(100% - 28px);
                 padding: 5px;
                 display: inline-block;
-                text-shadow: 0 0 8px rgba(0,0,0,.5);
+                text-shadow: 0 0 8px rgba(0,0,0,.7);
                 position: absolute;
                 top: 0;
                 left: 0;
