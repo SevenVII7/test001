@@ -1420,21 +1420,6 @@ header .inner nav .main_item:after {
   width: calc(100% + 10px);
   max-height: calc(100% + 10px);
   margin: -5px;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: start;
-  -webkit-align-items: flex-start;
-      -ms-flex-align: start;
-          align-items: flex-start;
-  -webkit-box-pack: start;
-  -webkit-justify-content: flex-start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
   overflow: scroll;
   position: absolute;
   top: 0;
@@ -1447,8 +1432,12 @@ header .inner nav .main_item:after {
   border-radius: 2px;
   position: relative;
   cursor: pointer;
+  float: right;
 }
 #painting #main_feature #color_menu .color_options .color_itembox .colors .color.active {
+  width: calc(50% - 10px);
+  padding-bottom: calc(36% + 10px);
+  float: left;
   z-index: 10;
 }
 #painting #main_feature #color_menu .color_options .color_itembox .colors .color.active .change_color {
@@ -1465,7 +1454,7 @@ header .inner nav .main_item:after {
   max-width: calc(100% - 28px);
   padding: 5px;
   display: inline-block;
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.95);
   position: absolute;
   top: 0;
   left: 0;

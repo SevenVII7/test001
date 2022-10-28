@@ -724,6 +724,7 @@ function createColorItem({
             onclick="
                 $(this).toggleClass('active');
                 $(this).siblings().removeClass('active');
+                changeSelectWallColor([${sR}, ${sG}, ${sB}]);
             ">
                 <small class="txt-white">
                     ${colorName}
@@ -733,7 +734,6 @@ function createColorItem({
                     class="change_color"
                     onclick="
                         event.stopPropagation();
-                        changeSelectWallColor([${sR}, ${sG}, ${sB}]);
                     ">
                 <button
                     type="button"
